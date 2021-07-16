@@ -1,0 +1,915 @@
+NP_446529.1 putative viral protein 
+NP_446547.1 hypothetical protein 
+NP_446563.1 hypothetical protein 
+NP_446753.1 putative cytoplasmic protein 
+NP_446779.1 putative inner membrane protein 
+NP_446866.1 putative inner membrane protein 
+NP_446891.1 IS903 transposase 
+NP_447013.1 putative transport protein 
+NP_447100.1 putative hydrolase N-terminus 
+NP_447101.1 putative hydrolase C-terminus 
+NP_447236.1 hypothetical protein 
+NP_447297.1 putative dehydrogenase 
+NP_447365.1 putative inner membrane protein 
+NP_447525.1 hypothetical protein 
+NP_447527.1 two-component sensor histidine kinase 
+NP_447555.1 trifunctional transcriptional regulator/proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase 
+NP_447557.1 phosphate starvation protein PhoH 
+NP_447756.1 hypothetical protein 
+NP_447926.1 putative transport protein 
+NP_447948.1 putative inner membrane protein 
+NP_448018.1 hypothetical protein 
+NP_448047.1 putative dipicolinate reductase 
+NP_448089.1 hypothetical protein 
+NP_448140.1 trp operon leader peptide 
+NP_448158.1 dsDNA-mimic protein 
+NP_448165.1 hypothetical protein 
+NP_448275.1 putative transposase 
+NP_448276.1 integrase 
+NP_448280.1 putative cytoplasmic protein 
+NP_448287.1 putative phage integrase protein 
+NP_448342.1 hypothetical protein 
+NP_448360.1 hypothetical protein 
+NP_448379.1 putative 50S ribosomal protein 
+NP_448412.1 hypothetical protein 
+NP_448416.1 hypothetical protein 
+NP_448577.2 hypothetical protein STM2173 
+NP_448816.1 purine-nucleoside phosphorylase 
+NP_448898.1 hypothetical protein 
+NP_448901.1 putative inner membrane protein 
+NP_449055.1 hypothetical protein STM2666 
+NP_449071.1 putative cytoplasmic protein 
+NP_449149.1 putative integrase 
+NP_449150.1 putative integrase core domain protein 
+NP_449164.1 putative inner membrane protein 
+NP_449260.1 putative cytoplasmic protein 
+NP_449286.1 putative cytoplasmic protein 
+NP_449411.1 hypothetical protein 
+NP_452414.1 putative cytoplasmic protein 
+NP_452516.1 putative arylsulfate sulfotransferase 
+NP_452517.1 putative arylsulfate sulfotransferase 
+NP_452851.1 putative inner membrane protein 
+NP_453069.1 putative cytoplasmic protein 
+NP_453107.1 type I toxin-antitoxin system toxin TisB 
+NP_453290.1 spot 42 RNA, inhibition of DNA synthesis 
+NP_453298.1 putative cytoplasmic protein 
+NP_453693.1 hypothetical protein 
+NP_453700.1 putative cytoplasmic protein 
+NP_453701.1 putative sugar kinase 
+NP_453702.1 3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing) 
+NP_453703.1 putative thiamine pyrophosphate-requiring enzyme 
+NP_453732.1 putative cytoplasmic protein 
+NP_459006.1 thr operon leader peptide 
+NP_459007.1 bifunctional aspartate kinase/homoserine dehydrogenase I 
+NP_459008.1 homoserine kinase 
+NP_459009.1 threonine synthase 
+NP_459010.1 peroxide stress protein YaaA 
+NP_459011.1 sodium:alanine symporter family protein 
+NP_459012.1 transaldolase 
+NP_459013.1 molybdopterin adenylyltransferase 
+NP_459014.1 hypothetical protein 
+NP_459015.1 hypothetical protein 
+NP_459016.1 hypothetical protein 
+NP_459017.1 molecular chaperone DnaK 
+NP_459018.1 molecular chaperone DnaJ 
+NP_459019.1 hypothetical protein 
+NP_459020.1 hypothetical protein 
+NP_459021.1 hypothetical protein STM0016 
+NP_459022.1 hypothetical protein 
+NP_459023.1 chitinase 
+NP_459024.1 chitinase 
+NP_459025.1 hypothetical protein 
+NP_459026.1 fimbrial protein 
+NP_459027.1 fimbrial chaperone protein 
+NP_459028.1 outer membrane usher protein 
+NP_459029.1 fimbrial protein 
+NP_459030.1 fimbrial protein 
+NP_459031.1 fimbrial protein 
+NP_459032.1 fimbrial chaparone 
+NP_459033.1 hypothetical protein 
+NP_459034.1 transcriptional regulator 
+NP_459035.1 putative LysR family transcriptional regulator 
+NP_459036.1 transcriptional regulator 
+NP_459037.1 putative arylsulfatase 
+NP_459038.1 multifunctional 2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'-nucleotidase/3'-nucleotidase 
+NP_459039.1 hypothetical protein 
+NP_459040.1 putative arylsulfatase 
+NP_459041.1 anaerobic sulfatase maturase 
+NP_459042.1 putative cytoplasmic protein 
+NP_459043.1 putative arylsulfatase 
+NP_459044.1 Na(+)/H(+) antiporter NhaA 
+NP_459045.1 transcriptional activator of nhaA 
+NP_459046.1 family 31 glucosidase 
+NP_459047.1 MFS transporter 
+NP_459048.1 30S ribosomal protein S20 
+NP_459049.1 hypothetical protein 
+NP_459050.1 riboflavin biosynthesis protein RibF 
+NP_459051.1 isoleucine--tRNA ligase 
+NP_459052.1 signal peptidase II 
+NP_459053.1 peptidylprolyl isomerase 
+NP_459054.1 4-hydroxy-3-methylbut-2-enyl diphosphate reductase 
+NP_459055.1 putative nitrite reductase 
+NP_459056.1 ribonucleoside hydrolase RihC 
+NP_459057.1 response regulator 
+NP_459058.1 histidine kinase 
+NP_459059.1 oxaloacetate decarboxylase subunit beta 
+NP_459060.1 oxaloacetate decarboxylase subunit alpha 
+NP_459061.1 oxaloacetate decarboxylase subunit gamma 
+NP_459062.1 citrate:sodium symporter 
+NP_459063.1 putative citrate lyase synthetase 
+NP_459064.1 citrate lyase acyl carrier protein 
+NP_459065.1 citrate (pro-3S)-lyase subunit beta 
+NP_459066.1 citrate lyase subunit alpha 
+NP_459067.1 holo-ACP synthase CitX 
+NP_459068.1 triphosphoribosyl-dephospho-CoA synthase CitG 
+NP_459069.1 4-hydroxy-tetrahydrodipicolinate reductase 
+NP_459071.1 carbamoyl phosphate synthase small subunit 
+NP_459072.1 carbamoyl phosphate synthase large subunit 
+NP_459073.1 CaiF/GrlA family transcriptional regulator 
+NP_459074.1 phenylacetic acid degradation protein PaaY 
+NP_459075.1 carnitinyl-CoA dehydratase 
+NP_459076.1 crotonobetaine/carnitine-CoA ligase 
+NP_459077.1 L-carnitine CoA-transferase 
+NP_459078.1 crotonobetainyl-CoA--carnitine CoA-transferase 
+NP_459079.1 L-carnitine:gamma-butyrobetaine antiporter 
+NP_459080.1 electron transfer flavoprotein 
+NP_459081.1 nitrogen fixation protein FixB 
+NP_459082.1 oxidoreductase 
+NP_459083.1 ferredoxin family protein 
+NP_459084.1 MFS transporter 
+NP_459085.1 hypothetical protein 
+NP_459086.1 hypothetical protein 
+NP_459087.1 hypothetical protein 
+NP_459089.1 phosphatase 
+NP_459090.1 glutathione-regulated potassium-efflux system ancillary protein KefF 
+NP_459091.1 glutathione-regulated potassium-efflux system protein KefC 
+NP_459092.1 dihydrofolate reductase 
+NP_459093.1 bis(5'-nucleosyl)-tetraphosphatase (symmetrical) 
+NP_459094.1 Co2+/Mg2+ efflux protein ApaG 
+NP_459095.1 16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase 
+NP_459096.1 4-hydroxythreonine-4-phosphate dehydrogenase PdxA 
+NP_459097.1 peptidylprolyl isomerase SurA 
+NP_459098.1 LPS assembly protein LptD 
+NP_459099.1 molecular chaperone DjlA 
+NP_459100.1 bifunctional tRNA pseudouridine(32) synthase/ribosomal large subunit pseudouridine synthase RluA 
+NP_459101.1 RNA polymerase-binding ATPase 
+NP_459102.1 DNA polymerase II 
+NP_459103.1 putative secreted protein 
+NP_459105.1 DUF4751 domain-containing protein 
+NP_459106.1 L-ribulose-5-phosphate 4-epimerase 
+NP_459107.1 L-arabinose isomerase 
+NP_459108.1 ribulokinase 
+NP_459109.1 DNA-binding transcriptional regulator AraC 
+NP_459110.1 hypothetical protein 
+NP_459111.1 thiamine ABC transporter ATP-binding protein 
+NP_459112.1 thiamine/thiamine pyrophosphate ABC transporter permease ThiP 
+NP_459113.1 thiamine ABC transporter substrate binding subunit 
+NP_459114.1 transcriptional regulator SgrR 
+NP_459115.1 3-isopropylmalate dehydratase small subunit 
+NP_459116.1 3-isopropylmalate dehydratase large subunit 
+NP_459117.1 3-isopropylmalate dehydrogenase 
+NP_459118.1 2-isopropylmalate synthase 
+NP_459119.1 leu operon leader peptide 
+NP_459120.1 transcriptional regulator LeuO 
+NP_459121.1 valine sensitive acetolactate synthase III, large subunit 
+NP_459122.1 acetolactate synthase small subunit 
+NP_459123.1 DNA-binding transcriptional regulator FruR 
+NP_459124.1 cell division/cell wall cluster transcriptional repressor MraZ 
+NP_459125.1 16S rRNA (cytosine(1402)-N(4))-methyltransferase 
+NP_459126.1 cell division protein FtsL 
+NP_459127.1 peptidoglycan glycosyltransferase FtsI 
+NP_459128.1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase 
+NP_459129.1 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase 
+NP_459130.1 phospho-N-acetylmuramoyl-pentapeptide-transferase 
+NP_459131.1 UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase 
+NP_459132.1 cell division protein FtsW 
+NP_459133.1 undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase 
+NP_459134.1 UDP-N-acetylmuramate--L-alanine ligase 
+NP_459135.1 D-alanine--D-alanine ligase 
+NP_459136.1 cell division protein FtsQ 
+NP_459137.1 cell division protein FtsA 
+NP_459138.1 cell division protein FtsZ 
+NP_459139.1 UDP-3-O-
+NP_459140.3 putative inner membrane protein 
+NP_459141.1 preprotein translocase subunit SecA 
+NP_459142.1 8-oxo-dGTP diphosphatase 
+NP_459143.1 DNA gyrase inhibitor YacG 
+NP_459144.1 cell division protein ZapD 
+NP_459145.1 dephospho-CoA kinase 
+NP_459146.1 GMP reductase 
+NP_459147.1 type IV pilin biogenesis protein 
+NP_459148.1 type II secretion system protein GspE 
+NP_459149.1 prepilin peptidase-dependent pilin 
+NP_459150.1 nicotinate-nucleotide diphosphorylase 
+NP_459151.1 N-acetylmuramoyl-L-alanine amidase 
+NP_459152.1 regulatory signaling modulator protein AmpE 
+NP_459153.1 alpha-N-arabinofuranosidase 
+NP_459154.1 MFS transporter 
+NP_459155.1 APC family aromatic amino acid transporter 
+NP_459156.1 transcriptional regulator PdhR 
+NP_459157.1 pyruvate dehydrogenase (acetyl-transferring), homodimeric type 
+NP_459158.2 pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase 
+NP_459159.1 dihydrolipoyl dehydrogenase 
+NP_459160.1 hypothetical protein 
+NP_459161.1 hypothetical protein 
+NP_459162.2 hypothetical protein 
+NP_459163.1 bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase 
+NP_459164.1 putative restriction endonuclease 
+NP_459165.1 UPF0231 family protein 
+NP_459166.1 2-keto-3-deoxygluconate permease 
+NP_459167.1 hypothetical protein 
+NP_459168.1 4-hydroxythreonine-4-phosphate dehydrogenase PdxA 
+NP_459169.1 DeoR family transcriptional regulator 
+NP_459170.1 S-adenosylmethionine decarboxylase 
+NP_459171.1 spermidine synthase 
+NP_459172.1 hypothetical protein 
+NP_459173.1 putative multicopper oxidase 
+NP_459174.1 pyrroloquinoline quinone-dependent dehydrogenase 
+NP_459175.1 hypoxanthine phosphoribosyltransferase 
+NP_459176.1 carbonate dehydratase 
+NP_459177.1 multidrug ABC transporter ATP-binding protein 
+NP_459178.1 ABC transporter permease 
+NP_459179.1 fimbrial protein StiH 
+NP_459180.1 fimbrial assembly protein 
+NP_459181.1 long polar fimbrial chaperone LpfB 
+NP_459182.1 fimbrial protein StiA 
+NP_459183.1 PTS sugar transporter subunit IIA 
+NP_459184.1 hypothetical protein 
+NP_459185.1 aspartate 1-decarboxylase 
+NP_459186.1 pantoate--beta-alanine ligase 
+NP_459187.1 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+NP_459188.1 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase 
+NP_459189.1 polynucleotide adenylyltransferase 
+NP_459190.3 putative glutamyl t-RNA synthetase 
+NP_459191.1 RNA polymerase-binding protein DksA 
+NP_459192.1 sugar fermentation stimulation protein SfsA 
+NP_459193.1 2'-5' RNA ligase 
+NP_459194.1 ATP-dependent helicase 
+NP_459195.1 penicillin-binding protein 1B 
+NP_459196.1 ferrichrome porin FhuA 
+NP_459197.1 iron-hydroxamate transporter ATP-binding subunit 
+NP_459198.1 iron-hydroxamate transporter substrate-binding subunit 
+NP_459199.1 Fe3+-hydroxamate ABC transporter permease FhuB 
+NP_459200.1 fimbrial protein 
+NP_459201.1 outer membrane usher protein 
+NP_459202.1 fimbrial protein 
+NP_459203.1 fimbrial protein 
+NP_459204.1 fimbrial protein 
+NP_459205.1 fimbrial protein 
+NP_459206.1 hypothetical protein 
+NP_459207.1 glutamate-1-semialdehyde-2,1-aminomutase 
+NP_459208.1 chloride channel protein 
+NP_459209.3 putative HesB-like domain protein 
+NP_459210.1 hypothetical protein 
+NP_459211.1 vitamin B12 ABC transporter substrate-binding protein BtuF 
+NP_459212.1 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 
+NP_459213.1 dGTPase 
+NP_459214.1 serine endoprotease 
+NP_459215.1 carbohydrate diacid regulon transcriptional regulator CdaR 
+NP_459216.1 hypothetical protein 
+NP_459217.1 MFS transporter 
+NP_459218.1 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase 
+NP_459219.1 
+NP_459220.1 type I methionyl aminopeptidase 
+NP_459221.1 30S ribosomal protein S2 
+NP_459222.1 translation elongation factor Ts 
+NP_459223.1 UMP kinase 
+NP_459224.1 ribosome recycling factor 
+NP_459225.1 1-deoxy-D-xylulose-5-phosphate reductoisomerase 
+NP_459226.1 (2E,6E)-farnesyl- diphosphate-specific ditrans,polycis-undecaprenyl-diphosphate synthase 
+NP_459227.1 phosphatidate cytidylyltransferase 
+NP_459228.1 RIP metalloprotease RseP 
+NP_459229.1 outer membrane protein assembly factor BamA 
+NP_459230.1 molecular chaperone 
+NP_459231.1 UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase 
+NP_459232.1 3-hydroxyacyl-
+NP_459233.1 acyl-
+NP_459234.1 lipid-A-disaccharide synthase 
+NP_459235.1 ribonuclease HII 
+NP_459236.1 DNA polymerase III subunit alpha 
+NP_459237.1 acetyl-CoA carboxylase carboxyltransferase subunit alpha 
+NP_459238.1 chitinase 
+NP_459239.1 lysine decarboxylase LdcC 
+NP_459240.1 VOC family protein 
+NP_459241.1 tRNA lysidine(34) synthetase TilS 
+NP_459242.1 Rho-binding antiterminator 
+NP_459243.1 putative cytoplasmic protein 
+NP_459244.1 hypothetical protein 
+NP_459245.1 aminoacyl-tRNA hydrolase 
+NP_459246.1 proline--tRNA ligase 
+NP_459247.1 tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO 
+NP_459248.1 Rcs stress response system protein RcsF 
+NP_459249.1 methionine ABC transporter substrate-binding protein MetQ 
+NP_459250.1 DL-methionine transporter permease subunit 
+NP_459251.1 D-methionine ABC transporter, ATP-binding protein 
+NP_459252.1 D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase 
+NP_459253.1 2,5-didehydrogluconate reductase B 
+NP_459254.1 putative LysR family transcriptional regulator 
+NP_459255.1 MFS sugar transporter 
+NP_459256.1 putative cytoplasmic protein 
+NP_459257.1 SAM-dependent methyltransferase 
+NP_459258.1 murein transglycosylase D 
+NP_459259.1 hydroxyacylglutathione hydrolase 
+NP_459260.1 putative SAM-dependent methyltransferase 
+NP_459261.1 ribonuclease HI 
+NP_459262.1 DNA polymerase III, epsilon subunit 
+NP_459263.1 hypothetical protein 
+NP_459264.1 sciB domain protein 
+NP_459265.1 type VI secretion protein 
+NP_459266.1 hypothetical protein 
+NP_459267.1 impE family protein 
+NP_459268.1 hypothetical protein 
+NP_459269.1 ClpV1 family T6SS ATPase 
+NP_459270.1 type VI secretion system-associated protein 
+NP_459271.1 EvpB family type VI secretion protein 
+NP_459272.1 invasol SirA 
+NP_459273.3 putative cytoplasmic protein 
+NP_459274.1 Hcp1 family type VI secretion system effector 
+NP_459275.1 hypothetical protein 
+NP_459276.1 putative periplasmic protein 
+NP_459277.1 Hcp1 family type VI secretion system effector 
+NP_459278.1 type VI secretion system-associated lipoprotein 
+NP_459279.1 type VI secretion system-associated protein 
+NP_459280.1 hypothetical protein 
+NP_459281.1 hypothetical protein 
+NP_459282.1 putative shiga-like toxin A subunit 
+NP_459283.1 hypothetical protein 
+NP_459284.1 hypothetical protein 
+NP_459285.1 putative periplasmic protein 
+NP_459286.1 putative cytoplasmic protein 
+NP_459287.1 type VI secretion protein Vgr 
+NP_459288.1 hypothetical protein 
+NP_459289.1 putative RHS-family protein 
+NP_459290.1 putative RHS-family protein 
+NP_459291.1 hypothetical protein 
+NP_459292.1 phosphotriesterase 
+NP_459293.1 putative cytoplasmic protein 
+NP_459297.1 putative outer membrane protein 
+NP_459298.1 putative fimbriae assembly chaparone 
+NP_459299.1 pilin outer membrane usher protein SafC 
+NP_459300.1 pilin structural protein SafD 
+NP_459301.1 carbohydrate transporter 
+NP_459302.1 transcriptional regulator 
+NP_459303.1 hypothetical protein 
+NP_459304.1 adhesin 
+NP_459305.1 hypothetical protein 
+NP_459306.1 putative amidohydrolase 
+NP_459307.1 putative acyl-CoA dehydrogenase 
+NP_459308.1 phosphoheptose isomerase 
+NP_459309.1 class II glutamine amidotransferase 
+NP_459310.1 transpeptidase 
+NP_459311.1 DNA polymerase IV 
+NP_459312.1 peptide chain release factor H 
+NP_459313.1 cytosol nonspecific dipeptidase 
+NP_459314.1 xanthine phosphoribosyltransferase 
+NP_459315.1 fermentation/respiration switch protein 
+NP_459316.1 sigma factor-binding protein Crl 
+NP_459317.1 phosphoporin PhoE 
+NP_459318.1 glutamate 5-kinase 
+NP_459319.1 glutamate-5-semialdehyde dehydrogenase 
+NP_459321.1 transposase 
+NP_459322.1 hypothetical protein 
+NP_459323.3 putative permease 
+NP_459324.1 3-isopropylmalate dehydratase large subunit 
+NP_459325.1 3-isopropylmalate dehydratase small subunit 
+NP_459326.1 5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase 
+NP_459327.1 hydrolase 
+NP_459328.1 putative LysR family transcriptional regulator 
+NP_459329.1 putative cytoplasmic protein 
+NP_459330.1 hypothetical protein 
+NP_459331.1 fimbrial assembly protein 
+NP_459332.1 fimbrial protein 
+NP_459333.1 fimbrial assembly protein 
+NP_459334.1 fimbrial chaperone protein StbB 
+NP_459335.1 fimbrial protein 
+NP_459336.1 putative inner membrane protein 
+NP_459337.1 putative periplasmic protein 
+NP_459338.1 putative diguanylate cyclase/phosphodiesterase domain 1 
+NP_459339.1 putative response regulator 
+NP_459340.1 hypothetical protein 
+NP_459341.1 hypothetical protein 
+NP_459342.1 transcriptional regulator 
+NP_459343.1 hypothetical protein 
+NP_459344.1 hypothetical protein 
+NP_459345.3 homology to outer membrane efflux protein 
+NP_459346.1 multidrug efflux RND transporter permease subunit 
+NP_459347.3 efflux transporter periplasmic adaptor subunit 
+NP_459348.1 copper-translocating P-type ATPase 
+NP_459349.1 Cu(I)-responsive transcriptional regulator 
+NP_459350.1 heavy metal transport/detoxification protein 
+NP_459351.1 MFS transporter 
+NP_459352.1 restriction endonuclease 
+NP_459353.3 DNA restriction (DNA helicase) 
+NP_459354.1 hypothetical protein 
+NP_459355.1 cytochrome ubiquinol oxidase subunit I 
+NP_459356.1 cytochrome BD2 subunit II 
+NP_459357.2 DUF2474 domain-containing protein 
+NP_459358.1 AraC family transcriptional regulator 
+NP_459359.1 ferrioxamine receptor 
+NP_459360.1 hypothetical protein 
+NP_459361.1 hypothetical protein 
+NP_459362.1 propionate catabolism operon regulatory protein PrpR 
+NP_459363.1 methylisocitrate lyase 
+NP_459364.1 2-methylcitrate synthase 
+NP_459365.1 2-methylcitrate dehydratase 
+NP_459366.1 propionate--CoA ligase 
+NP_459367.1 delta-aminolevulinic acid dehydratase 
+NP_459368.1 autotransporter outer membrane beta-barrel domain-containing protein 
+NP_459369.1 transcriptional regulator 
+NP_459370.3 penicillin- binding protein 
+NP_459371.1 peptide transporter 
+NP_459372.1 hypothetical protein 
+NP_459373.1 hypothetical protein 
+NP_459374.1 hypothetical protein 
+NP_459375.1 D-alanine--D-alanine ligase A 
+NP_459376.1 hypothetical protein 
+NP_459377.1 multidrug transporter subunit MdtG 
+NP_459378.3 putative cytoplasmic protein 
+NP_459379.1 hypothetical protein 
+NP_459380.1 diguanylate cyclase AdrA 
+NP_459381.1 pyrroline-5-carboxylate reductase 
+NP_459382.1 hypothetical protein 
+NP_459383.1 shikimate kinase II 
+NP_459384.1 hypothetical protein 
+NP_459385.1 AroM protein 
+NP_459386.1 hypothetical protein 
+NP_459387.1 recombination-associated protein RdgC 
+NP_459388.1 fructokinase 
+NP_459389.1 MFS transporter AraJ 
+NP_459390.1 exonuclease subunit SbcC 
+NP_459391.1 exonuclease subunit SbcD 
+NP_459392.1 phosphate regulon transcriptional regulatory protein PhoB 
+NP_459393.1 two-component system sensor histidine kinase PhoR 
+NP_459394.1 branched-chain amino acid transport system II carrier protein 
+NP_459395.1 proline-specific permease ProY 
+NP_459396.1 maltodextrin glucosidase 
+NP_459397.1 peroxiredoxin 
+NP_459398.1 ACP phosphodiesterase 
+NP_459399.1 S-adenosylmethionine-tRNA ribosyltransferase-isomerase 
+NP_459400.1 tRNA guanosine(34) transglycosylase Tgt 
+NP_459401.1 preprotein translocase subunit YajC 
+NP_459402.1 protein-export membrane protein SecD 
+NP_459403.1 protein-export membrane protein SecF 
+NP_459404.1 glyoxalase 
+NP_459405.1 DNA-binding transcriptional regulator 
+NP_459406.1 HNH endonuclease 
+NP_459408.1 nucleoside-specific channel-forming protein Tsx 
+NP_459409.1 hypothetical protein 
+NP_459410.1 transcriptional regulator NrdR 
+NP_459411.1 riboflavin biosynthesis protein RibD 
+NP_459412.1 6,7-dimethyl-8-ribityllumazine synthase 
+NP_459413.1 N utilization substance protein B 
+NP_459414.1 thiamine-phosphate kinase 
+NP_459415.1 phosphatidylglycerophosphatase A 
+NP_459416.1 oxidoreductase 
+NP_459417.1 1-deoxy-D-xylulose-5-phosphate synthase 
+NP_459418.1 (2E,6E)-farnesyl diphosphate synthase 
+NP_459419.1 exodeoxyribonuclease VII small subunit 
+NP_459420.1 tRNA 4-thiouridine(8) synthase ThiI 
+NP_459421.1 2-aminoethylphosphonate ABC transport system, membrane component PhnV 
+NP_459422.1 2-aminoethylphosphonate ABC transporter permease subunit 
+NP_459423.1 2-aminoethylphosphonate ABC transport system ATP-binding subunit PhnT 
+NP_459424.1 2-aminoethylphosphonate ABC transporter substrate-binding protein 
+NP_459425.1 phosphonate utilization transcriptional regulator PhnR 
+NP_459426.1 2-aminoethylphosphonate--pyruvate transaminase 
+NP_459427.1 2-aminoethylphosphonate transport 
+NP_459428.1 DJ-1 family protein 
+NP_459429.1 2-dehydropantoate 2-reductase 
+NP_459430.3 putative cytoplasmic protein 
+NP_459431.3 putative MFS family transporter 
+NP_459433.1 hypothetical protein 
+NP_459434.1 putative TPR repeat protein 
+NP_459435.1 protoheme IX farnesyltransferase 
+NP_459436.1 cytochrome o ubiquinol oxidase subunit IV 
+NP_459437.1 cytochrome o ubiquinol oxidase subunit III 
+NP_459438.1 cytochrome o ubiquinol oxidase subunit I 
+NP_459439.1 cytochrome o ubiquinol oxidase subunit II 
+NP_459440.1 muropeptide transporter AmpG 
+NP_459441.3 hypothetical protein 
+NP_459442.1 BolA family transcriptional regulator 
+NP_459443.1 trigger factor 
+NP_459444.1 ATP-dependent Clp endopeptidase, proteolytic subunit ClpP 
+NP_459445.1 ATP-dependent protease ATP-binding subunit ClpX 
+NP_459446.1 endopeptidase La 
+NP_459447.1 DNA-binding protein HU 
+NP_459448.1 peptidylprolyl isomerase 
+NP_459449.1 hypothetical protein 
+NP_459450.1 thioesterase 
+NP_459451.1 7-cyano-7-deazaguanine synthase QueC 
+NP_459452.1 peptide ABC transporter substrate-binding protein 
+NP_459453.1 thiamin pyrimidine pyrophosphate hydrolase 
+NP_459454.1 putative cysteine synthase/cystathionine beta-synthase 
+NP_459455.1 transcriptional regulator 
+NP_459456.1 multidrug ABC transporter permease/ATP-binding protein 
+NP_459457.1 multidrug ABC transporter permease/ATP-binding protein 
+NP_459458.1 transcriptional regulator 
+NP_459459.1 ammonium transporter 
+NP_459460.1 acyl-CoA thioesterase II 
+NP_459461.1 hypothetical protein 
+NP_459462.1 putative methyltransferase 
+NP_459463.1 hypothetical protein 
+NP_459464.1 50S ribosomal protein L31 
+NP_459465.1 50S ribosomal protein L36 
+NP_459466.1 hypothetical protein 
+NP_459467.1 maltose O-acetyltransferase 
+NP_459468.1 transcriptional regulator 
+NP_459469.1 Hha toxicity attenuator 
+NP_459470.1 aminoglycoside/multidrug transporter permease 
+NP_459471.1 efflux transporter periplasmic adaptor subunit 
+NP_459472.1 DNA-binding transcriptional repressor AcrR 
+NP_459473.1 hypothetical protein 
+NP_459474.1 putative transposase 
+NP_459475.1 DUF2496 domain-containing protein 
+NP_459476.1 primosomal replication protein N 
+NP_459477.1 putative phage gene 58 
+NP_459478.1 adenine phosphoribosyltransferase 
+NP_459479.1 DNA polymerase III subunit gamma/tau 
+NP_459480.1 YbaB/EbfC family nucleoid-associated protein 
+NP_459481.1 recombination protein RecR 
+NP_459482.3 molecular chaperone HtpG 
+NP_459483.1 adenylate kinase 
+NP_459484.1 ferrochelatase 
+NP_459485.1 acetylesterase 
+NP_459486.1 inosine/guanosine kinase 
+NP_459487.1 Kef family K(+) transporter 
+NP_459488.1 MFS transporter 
+NP_459489.1 bifunctional UDP-sugar hydrolase/5'-nucleotidase 
+NP_459490.1 aminoacyl-tRNA deacylase 
+NP_459491.1 polysaccharide biosynthesis protein GumN 
+NP_459492.1 hypothetical protein 
+NP_459493.1 Cu+ exporting ATPase 
+NP_459494.1 Cu(I)-responsive transcriptional regulator 
+NP_459495.1 hypothetical protein 
+NP_459496.1 paraslipin 
+NP_459497.1 iron ABC transporter ATP-binding protein FetA 
+NP_459498.1 iron export ABC transporter permease subunit FetB 
+NP_459499.1 co-chaperone YbbN 
+NP_459500.1 putative oxidoreductase 
+NP_459501.1 multifunctional acyl-CoA thioesterase I/protease I/lysophospholipase L1 
+NP_459502.1 ABC transporter ATP-binding protein 
+NP_459503.1 ABC transporter permease 
+NP_459504.1 hypothetical protein 
+NP_459505.1 metal ABC transporter substrate-binding protein 
+NP_459506.1 methionine ABC transporter ATP-binding protein 
+NP_459507.1 methionine ABC transporter permease 
+NP_459508.1 tRNA 2-selenouridine(34) synthase MnmH 
+NP_459509.1 transcriptional regulator 
+NP_459510.1 ureidoglycolate hydrolase 
+NP_459511.1 transcriptional regulator 
+NP_459512.1 glyoxylate carboligase 
+NP_459513.1 hydroxypyruvate isomerase 
+NP_459514.1 2-hydroxy-3-oxopropionate reductase 
+NP_459515.1 MFS transporter 
+NP_459516.1 putative cytoplasmic protein 
+NP_459517.1 putative NCS1 family, allantoin transport protein 
+NP_459518.1 allantoinase 
+NP_459519.1 uracil/xanthine transporter 
+NP_459520.1 glycerate kinase 
+NP_459521.1 (S)-ureidoglycine aminohydrolase 
+NP_459522.1 allantoate amidohydrolase 
+NP_459523.1 ureidoglycolate dehydrogenase 
+NP_459524.1 acyl-CoA synthetase FdrA 
+NP_459525.1 hypothetical protein 
+NP_459526.1 carboxylase 
+NP_459527.1 putative carbamate kinase 
+NP_459528.1 5-(carboxyamino)imidazole ribonucleotide synthase 
+NP_459529.1 5-(carboxyamino)imidazole ribonucleotide mutase 
+NP_459530.1 UDP-2,3-diacylglucosamine diphosphatase 
+NP_459531.1 peptidylprolyl isomerase 
+NP_459532.1 cysteine tRNA synthetase 
+NP_459533.1 hypothetical protein 
+NP_459534.1 hypothetical protein 
+NP_459535.1 hypothetical protein 
+NP_459536.1 ribosome-associated protein 
+NP_459537.1 bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase 
+NP_459538.3 type-1 fimbrial protein subunit A 
+NP_459539.1 fimbrial protein FimI 
+NP_459540.1 fimbrial chaperone protein FimC 
+NP_459541.1 outer membrane usher protein 
+NP_459542.1 fimbrial adhesin FimH 
+NP_459543.1 adhesin 
+NP_459544.1 DNA-binding response regulator 
+NP_459545.1 fimbriae Y protein 
+NP_459546.1 diguanylate cyclase 
+NP_459547.1 helix-turn-helix transcriptional regulator 
+NP_459548.1 homology to integrase protein of phage 
+NP_459550.1 putative inner membrane protein 
+NP_459551.1 putative glycosyltransferase 
+NP_459552.1 translocase 
+NP_459553.1 ATP-binding protein 
+NP_459555.1 AraC family transcriptional regulator 
+NP_459556.1 pyridine nucleotide-disulfide oxidoreductase 
+NP_459557.1 hypothetical protein 
+NP_459558.1 hypothetical protein 
+NP_459559.1 DNA repair protein 
+NP_459560.1 phenylalanine transporter 
+NP_459561.1 miniconductance mechanosensitive channel 
+NP_459562.1 autotransporter outer membrane beta-barrel domain-containing protein 
+NP_459563.1 hypothetical protein 
+NP_459564.1 phosphosugar isomerase 
+NP_459565.1 putative inner membrane protein 
+NP_459566.1 PTS mannose transporter subunit IID 
+NP_459567.1 PTS mannose transporter subunit IICD 
+NP_459568.1 PTS mannose/fructose/sorbose transporter subunit IIB 
+NP_459569.1 PTS mannose transporter subunit IIAB 
+NP_459570.1 NAD(P)H nitroreductase 
+NP_459571.1 hypothetical protein 
+NP_459572.1 TetR family transcriptional regulator 
+NP_459573.1 DNA-binding transcriptional regulator RamA 
+NP_459574.1 hypothetical protein 
+NP_459575.1 glutamate--cysteine ligase 
+NP_459576.1 phosphopantetheinyltransferase 
+NP_459577.1 outer membrane receptor protein 
+NP_459578.1 enterochelin esterase 
+NP_459579.1 MbtH family protein 
+NP_459580.1 non-ribosomal peptide synthetase 
+NP_459581.1 LPS O-antigen length regulator 
+NP_459582.1 iron-enterobactin transporter ATP-binding protein 
+NP_459583.1 ferric enterobactin transporter 
+NP_459584.1 iron-enterobactin transporter 
+NP_459585.1 MFS transporter 
+NP_459586.1 Fe2+-enterobactin ABC transporter substrate-binding protein 
+NP_459587.1 isochorismate synthase EntC 
+NP_459588.1 2,3-dihydroxybenzoate-AMP ligase 
+NP_459589.1 isochorismatase 
+NP_459590.1 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase 
+NP_459591.1 thioesterase 
+NP_459592.1 carbon starvation protein A 
+NP_459593.1 hypothetical protein 
+NP_459594.1 oxidoreductase 
+NP_459595.1 methionine aminotransferase 
+NP_459596.1 hypothetical protein 
+NP_459597.1 phosphoadenosine phosphosulfate reductase 
+NP_459598.1 putative LysR family transcriptional regulator 
+NP_459599.1 thiol:disulfide interchange protein DsbG 
+NP_459600.1 peroxiredoxin 
+NP_459601.1 alkyl hydroperoxide reductase subunit F 
+NP_459602.1 molecular chaperone 
+NP_459603.1 DMSO reductase 
+NP_459604.1 DMSO reductase 
+NP_459605.1 hydrogenase 
+NP_459606.1 universal stress protein UspG 
+NP_459607.1 glutathione-dependent formaldehyde dehydrogenase 
+NP_459608.1 nucleoside diphosphate kinase regulator 
+NP_459609.1 ribonuclease I 
+NP_459610.1 anion permease 
+NP_459611.1 triphosphoribosyl-dephospho-CoA synthase 
+NP_459612.1 2-(5'-triphosphoribosyl)-3'-dephospho CoA synthase 
+NP_459613.1 citrate lyase subunit alpha 
+NP_459614.1 citrate (pro-3S)-lyase subunit beta 
+NP_459615.1 citrate lyase acyl carrier protein 
+NP_459616.1 
+NP_459617.1 histidine kinase 
+NP_459618.1 response regulator 
+NP_459619.1 anaerobic C4-dicarboxylate transporter DcuC 
+NP_459620.1 PhoPQ-activated gene 
+NP_459621.1 cold-shock protein 
+NP_459622.1 fluoride ion transporter CrcB 
+NP_459623.1 putative hydrolase 
+NP_459624.1 Sec-independent protein translocase TatE 
+NP_459625.1 lipoyl synthase 
+NP_459626.1 putative LysR family transcriptional regulator 
+NP_459627.3 putative ligase in lipoate biosynthesis 
+NP_459628.1 hypothetical protein 
+NP_459629.1 serine-type D-Ala-D-Ala carboxypeptidase 
+NP_459630.1 rare lipoprotein A 
+NP_459631.1 rod shape-determining protein RodA 
+NP_459632.1 penicillin-binding protein 2 
+NP_459633.1 23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH 
+NP_459634.1 ribosome silencing factor 
+NP_459635.1 alpha-ribazole phosphatase 
+NP_459636.1 threonine-phosphate decarboxylase 
+NP_459637.1 putative nicotinic acid mononucleotide adenylyltransferase 
+NP_459638.1 DNA polymerase III subunit delta 
+NP_459639.1 LPS assembly lipoprotein LptE 
+NP_459640.1 leucine tRNA synthetase 
+NP_459643.1 2-keto-3-deoxygluconate permease 
+NP_459644.1 Fis family transcriptional regulator 
+NP_459645.1 hypothetical protein 
+NP_459646.1 hypothetical protein 
+NP_459647.1 hypothetical protein 
+NP_459648.1 molecular chaperone DnaJ 
+NP_459649.1 hypothetical protein 
+NP_459650.1 molecular chaperone DnaJ 
+NP_459651.1 molecular chaperone HscC 
+NP_459652.1 hypothetical protein 
+NP_459653.1 pyrimidine-specific ribonucleoside hydrolase RihA 
+NP_459654.1 arginine transporter ATP-binding subunit 
+NP_459655.1 amino acid ABC transporter permease 
+NP_459656.1 amino acid ABC transporter permease 
+NP_459657.1 glutamate/aspartate transporter 
+NP_459658.1 apolipoprotein N-acyltransferase 
+NP_459659.1 magnesium/cobalt efflux protein 
+NP_459660.1 rRNA maturation RNase YbeY 
+NP_459661.3 putative phosphate starvation-inducible protein, ATP-binding 
+NP_459662.1 tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB 
+NP_459663.1 2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase 
+NP_459664.1 hypothetical protein 
+NP_459665.1 asparagine synthetase B 
+NP_459666.1 UMP phosphatase 
+NP_459667.1 transcriptional regulator 
+NP_459668.1 N-acetylglucosamine-6-phosphate deacetylase 
+NP_459669.1 glucosamine-6-phosphate deaminase 
+NP_459670.1 PTS N-acetyl glucosamine transporter subunit IIABC 
+NP_459671.1 glutamine--tRNA ligase 
+NP_459672.1 chitoporin 
+NP_459673.1 hypothetical protein 
+NP_459674.1 citrate-proton symporter 
+NP_459675.1 tricarballylate utilization protein B 
+NP_459676.1 FAD-binding dehydrogenase 
+NP_459677.1 putative LysR family transcriptional regulator 
+NP_459678.1 ferric iron uptake transcriptional regulator 
+NP_459679.1 flavodoxin 
+NP_459680.1 LexA regulated protein 
+NP_459681.1 alpha/beta hydrolase 
+NP_459682.1 replication initiation regulator SeqA 
+NP_459683.1 phosphoglucomutase, alpha-D-glucose phosphate-specific 
+NP_459684.1 5-nitroimidazole antibiotic resistance protein 
+NP_459685.1 putrescine-ornithine antiporter 
+NP_459686.1 ornithine decarboxylase SpeF 
+NP_459687.1 two-component system response regulator KdpE 
+NP_459688.1 two-component system sensor histidine kinase KdbD 
+NP_459689.1 potassium-transporting ATPase subunit C 
+NP_459690.1 potassium-transporting ATPase subunit B 
+NP_459691.1 potassium-transporting ATPase subunit KdpA 
+NP_459692.1 potassium-transporting ATPase subunit F 
+NP_459693.1 hypothetical protein 
+NP_459694.1 deoxyribodipyrimidine photo-lyase 
+NP_459695.1 MFS transporter 
+NP_459696.1 hypothetical protein 
+NP_459697.1 hypothetical protein 
+NP_459698.1 hypothetical protein 
+NP_459699.1 LamB/YcsF family protein 
+NP_459700.1 hypothetical protein 
+NP_459701.1 DNA recombinase 
+NP_459702.1 putative inner membrane protein 
+NP_459703.1 transport protein 
+NP_459704.1 putative UDP-galactopyranose mutase 
+NP_459705.1 putative glycosyl transferase 
+NP_459706.1 glycosyltransferase family 1 protein 
+NP_459707.1 ABC transporter permease 
+NP_459708.1 sugar ABC transporter ATP-binding protein 
+NP_459709.1 glycosyl transferase 
+NP_459710.1 glycosyl transferase 
+NP_459711.1 putative glycosyl transferase 
+NP_459712.1 hypothetical protein 
+NP_459713.1 endonuclease VIII 
+NP_459714.1 AbrB family transcriptional regulator 
+NP_459715.1 citrate (Si)-synthase 
+NP_459716.1 hypothetical protein 
+NP_459717.1 succinate dehydrogenase, cytochrome b556 
+NP_459718.1 succinate dehydrogenase, hydrophobic membrane anchor protein 
+NP_459719.1 succinate dehydrogenase flavoprotein subunit 
+NP_459720.1 succinate dehydrogenase, Fe-S protein 
+NP_459721.1 2-oxoglutarate dehydrogenase E1 component 
+NP_459722.1 dihydrolipoamide succinyltransferase 
+NP_459723.1 succinate--CoA ligase subunit beta 
+NP_459724.1 succinate--CoA ligase subunit alpha 
+NP_459725.1 cytochrome d terminal oxidase subunit 1 
+NP_459726.1 cytochrome d ubiquinol oxidase subunit II 
+NP_459727.1 putative outer membrane lipoprotein 
+NP_459728.1 cyd operon protein YbgE 
+NP_459729.1 tol-pal system-associated acyl-CoA thioesterase 
+NP_459730.1 tol protein, membrane-spanning inner membrane protein 
+NP_459731.1 protein TolR 
+NP_459732.1 cell envelope integrity protein TolA 
+NP_459733.1 Tol-Pal system beta propeller repeat protein TolB 
+NP_459734.1 peptidoglycan-associated lipoprotein 
+NP_459735.1 cell division protein CpoB 
+NP_459736.1 quinolinate synthase 
+NP_459737.1 nicotinamide riboside transporter PnuC 
+NP_459738.1 cation transporter 
+NP_459739.1 hypothetical protein 
+NP_459740.1 3-deoxy-7-phosphoheptulonate synthase 
+NP_459741.1 fumarate hydratase Class I anaerobic 
+NP_459742.1 fumarate hydratase 
+NP_459743.3 transcriptional regulator, lysR family 
+NP_459744.1 transcriptional regulator, lysR family 
+NP_459745.1 putative cation transporter 
+NP_459746.1 oxaloacetate decarboxylase subunit gamma 
+NP_459747.1 oxaloacetate decarboxylase subunit beta 
+NP_459748.1 hypothetical protein 
+NP_459749.1 iron ABC transporter permease 
+NP_459750.1 iron ABC transporter 
+NP_459751.1 phosphoglyceromutase 
+NP_459752.1 galactose-1-epimerase 
+NP_459753.1 galactokinase 
+NP_459754.1 galactose-1-phosphate uridylyltransferase 
+NP_459755.1 UDP-glucose 4-epimerase 
+NP_459756.1 hypothetical protein 
+NP_459757.1 molybdate ABC transporter ATP-binding protein ModF 
+NP_459758.1 molybdenum-dependent transcriptional regulator 
+NP_459759.1 multidrug efflux pump-associated protein, AcrZ family 
+NP_459760.1 molybdate ABC transporter substrate-binding protein 
+NP_459761.1 molybdate ABC transporter permease 
+NP_459762.1 molybdenum ABC transporter ATP-binding protein 
+NP_459763.1 pyridoxal phosphatase 
+NP_459764.1 6-phosphogluconolactonase 
+NP_459765.1 acyl-CoA thioesterase 
+NP_459766.1 imidazolonepropionase 
+NP_459767.1 formimidoylglutamase 
+NP_459768.1 histidine utilization repressor 
+NP_459769.1 histidine ammonia-lyase 
+NP_459770.1 kinase inhibitor 
+NP_459771.1 adenosylmethionine--8-amino-7-oxononanoate transaminase 
+NP_459772.1 biotin synthase 
+NP_459773.1 8-amino-7-oxononanoate synthase 
+NP_459774.1 malonyl-ACP O-methyltransferase BioC 
+NP_459775.1 dethiobiotin synthase 
+NP_459776.1 excinuclease ABC subunit B 
+NP_459778.1 E3 ubiquitin--protein ligase 
+NP_459779.1 hypothetical protein 
+NP_459780.1 cyclic pyranopterin phosphate synthase 
+NP_459781.1 molybdenum cofactor biosynthesis protein B 
+NP_459782.1 molybdenum cofactor biosynthesis protein C 
+NP_459783.3 molybdopterin biosynthesis protein 
+NP_459784.1 molybdenum cofactor biosynthesis protein MoaE 
+NP_459785.1 hypothetical protein 
+NP_459786.1 hypothetical protein 
+NP_459787.1 putative inner membrane protein 
+NP_459788.1 hypothetical protein 
+NP_459789.1 hypothetical protein 
+NP_459790.1 cardiolipin synthase B 
+NP_459791.1 hypothetical protein 
+NP_459792.1 hypothetical protein 
+NP_459793.1 ABC transporter permease 
+NP_459794.1 ABC transporter permease 
+NP_459795.1 multidrug ABC transporter ATP-binding protein 
+NP_459796.1 secretion protein HlyD 
+NP_459797.1 transcriptional regulator 
+NP_459798.1 ATP-dependent RNA helicase RhlE 
+NP_459799.1 ATP-dependent DNA helicase DinG 
+NP_459800.1 DNA-binding protein YbiB 
+NP_459801.1 hypothetical protein 
+NP_459802.1 hypothetical protein 
+NP_459803.1 23S rRNA (adenine(1618)-N(6))-methyltransferase 
+NP_459804.1 mechanosensitive channel protein 
+NP_459805.1 glutamine ABC transporter ATP-binding protein 
+NP_459806.1 glutamine ABC transporter permease GlnP 
+NP_459807.1 glutamine ABC transporter substrate-binding protein GlnH 
+NP_459808.1 DNA starvation/stationary phase protection protein Dps 
+NP_459809.1 threonine/homoserine exporter RhtA 
+NP_459810.1 outer membrane protein OmpX 
+NP_459811.1 phosphoethanolamine transferase 
+NP_459812.1 transcriptional regulator MntR 
+NP_459813.1 anion transporter 
+NP_459814.1 L,D-transpeptidase 
+NP_459815.1 ABC-F family ATPase 
+NP_459816.1 putative inner membrane protein 
+NP_459817.1 sugar-phosphatase 
+NP_459818.1 hypothetical protein 
+NP_459819.1 sugar-phosphatase 
+NP_459820.1 glycyl radical enzyme 
+NP_459821.1 pyruvate formate lyase-activating protein 
+NP_459822.1 molybdopterin-synthase adenylyltransferase MoeB 
+NP_459823.3 molybdopterin biosynthesis protein 
+NP_459824.1 beta-aspartyl-peptidase 
+NP_459825.1 glutathione ABC transporter ATP-binding protein GsiA 
+NP_459826.1 glutathione ABC transporter substrate-binding protein GsiB 
+NP_459827.1 glutathione ABC transporter permease GsiC 
+NP_459828.1 glutathione ABC transporter permease GsiD 
+NP_459829.1 ribosomal protein S12 methylthiotransferase 
+NP_459830.1 transcriptional regulator 
+NP_459831.1 CoA ester lyase 
+NP_459832.3 putative electron transfer flavoprotein beta subunit 
+NP_459833.1 electron transfer flavoprotein subunit alpha 
+NP_459834.1 putative acyl-CoA dehydrogenase 
+NP_459835.1 electron transfer flavoprotein-ubiquinone oxidoreductase 
+NP_459836.1 putative LysR family transcriptional regulator 
+NP_459837.1 hypothetical protein 
+NP_459839.1 putative glutathione S-transferase 
+NP_459840.1 serine-type D-Ala-D-Ala carboxypeptidase 
+NP_459841.1 DNA-binding transcriptional repressor DeoR 
+NP_459842.1 undecaprenyl-diphosphate phosphatase 
+NP_459843.1 multidrug transporter MdfA 
+NP_459844.1 sugar-phosphatase 
+NP_459845.1 hypothetical protein 
+NP_459846.1 DNA-binding transcriptional regulator 
+NP_459847.1 transporter 
+NP_459848.1 hypothetical protein 
+NP_459849.1 glutaredoxin 
+NP_459850.1 hypothetical protein 
+NP_459851.1 nitroreductase A 
+NP_459852.1 ribosomal protein S6 modification protein 
+NP_459853.1 hypothetical protein 
+NP_459854.1 spermidine/putrescine ABC transporter substrate-binding protein PotF 
+NP_459855.1 ABC transporter ATP-binding protein 
+NP_459856.1 putrescine ABC transporter permease PotH 
+NP_459857.1 putrescine ABC transporter permease PotI 
+NP_459858.1 hypothetical protein 
+NP_459859.1 23S rRNA (uracil(747)-C(5))-methyltransferase 
+NP_459860.1 PTS ascorbate transporter subunit IIC 
+NP_459861.1 PTS sugar transporter IIB 
+NP_459862.1 putative sulfatase 
+NP_459863.1 arginine ABC transporter substrate-binding protein 
+NP_459864.1 arginine transporter permease subunit ArtM 
+NP_459865.1 arginine transporter permease subunit ArtQ 
+NP_459866.1 arginine ABC transporter substrate-binding protein 
+NP_459867.1 arginine ABC transporter ATP-binding protein ArtP 
+NP_459868.1 putative lipoprotein 
+NP_459869.1 putative Fels-1 prophage integrase 
+NP_459870.1 putative Fels-1 prophage excisionase 
+NP_459871.1 Fels-1 prophage protein 
+NP_459872.1 Fels-1 prophage protein 
+NP_459873.1 Fels-1 prophage protein 
+NP_459874.1 predicted Fels-1 prophage transcriptional regulator 
