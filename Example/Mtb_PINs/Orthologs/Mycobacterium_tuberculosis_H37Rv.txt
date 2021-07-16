@@ -1,0 +1,894 @@
+NP_214515.1 chromosomal replication initiator protein DnaA 
+NP_214516.1 DNA polymerase III subunit beta 
+NP_214517.1 DNA replication/repair protein RecF 
+NP_214518.1 hypothetical protein Rv0004 
+NP_214519.2 DNA gyrase subunit B 
+NP_214520.1 DNA gyrase subunit A 
+NP_214521.1 membrane protein 
+NP_214522.1 cell wall synthesis protein CwsA 
+NP_214523.1 iron-regulated peptidyl-prolyl cis-trans isomerase PpiA 
+NP_214524.1 membrane protein 
+NP_214525.1 cell division protein CrgA 
+NP_214526.1 membrane protein 
+NP_214528.1 serine/threonine-protein kinase PknB 
+NP_214529.1 serine/threonine-protein kinase PknA 
+NP_214530.1 penicillin-binding protein PbpA 
+NP_214531.1 cell division protein RodA 
+NP_214532.1 phosphoserine/threonine phosphatase PstP 
+NP_214533.1 FHA domain-containing protein FhaB 
+NP_214534.1 FHA domain-containing protein FhaA 
+NP_214535.1 hypothetical protein Rv0021c 
+NP_214536.1 transcriptional regulator WhiB5 
+NP_214537.1 transcriptional regulator 
+NP_214538.1 NLP/P60 family protein 
+NP_214539.1 hypothetical protein Rv0025 
+NP_214540.1 hypothetical protein Rv0026 
+NP_214541.1 hypothetical protein Rv0027 
+NP_214542.1 hypothetical protein Rv0028 
+NP_214543.1 hypothetical protein Rv0029 
+NP_214544.1 hypothetical protein Rv0030 
+NP_214546.1 8-amino-7-oxononanoate synthase 
+NP_214547.1 acyl carrier protein AcpA 
+NP_214548.1 hypothetical protein Rv0034 
+NP_214550.1 hypothetical protein Rv0036c 
+NP_214551.1 MFS-type transporter 
+NP_214552.1 hypothetical protein Rv0038 
+NP_214553.1 transmembrane protein 
+NP_214554.2 hypothetical protein Rv0040c 
+NP_214555.1 leucine--tRNA ligase 
+NP_214556.1 transcriptional regulator 
+NP_214557.1 HTH-type transcriptional regulator 
+NP_214558.1 oxidoreductase 
+NP_214559.1 hydrolase 
+NP_214560.1 inositol-3-phosphate synthase 
+NP_214561.1 hypothetical protein Rv0047c 
+NP_214562.1 membrane protein 
+NP_214563.1 hypothetical protein Rv0049 
+NP_214565.1 transmembrane protein 
+NP_214566.3 hypothetical protein Rv0052 
+NP_214567.1 30S ribosomal protein S6 
+NP_214568.1 single-strand DNA-binding protein 
+NP_214570.1 50S ribosomal protein L9 
+NP_214571.1 hypothetical protein Rv0057 
+NP_214572.1 replicative DNA helicase 
+NP_214573.1 hypothetical protein Rv0059 
+NP_214574.1 hypothetical protein Rv0060 
+NP_214577.1 oxidoreductase 
+NP_214578.1 transmembrane protein 
+NP_214579.1 ribonuclease VapC1 
+NP_214580.1 isocitrate dehydrogenase 
+NP_214581.1 transcriptional regulator 
+NP_214582.1 oxidoreductase 
+NP_214583.1 L-serine dehydratase 
+NP_214584.1 serine hydroxymethyltransferase 
+NP_214585.1 maturase 
+NP_214586.1 glutamine ABC transporter permease 
+NP_214587.1 glutamine ABC transporter ATP-binding protein 
+NP_214588.1 hypothetical protein Rv0074 
+NP_214589.1 aminotransferase 
+NP_214590.1 membrane protein 
+NP_214591.1 oxidoreductase 
+NP_214592.1 transcriptional regulator 
+NP_214593.1 hypothetical protein Rv0079 
+NP_214594.1 hypothetical protein Rv0080 
+NP_214595.1 HTH-type transcriptional regulator 
+NP_214596.2 oxidoreductase 
+NP_214597.1 oxidoreductase 
+NP_214598.1 formate hydrogenlyase HycD 
+NP_214599.1 hydrogenase HycP 
+NP_214600.1 hydrogenase HycQ 
+NP_214601.1 formate hydrogenase HycE 
+NP_214602.1 polyketide cyclase/dehydrase 
+NP_214603.1 methyltransferase 
+NP_214604.1 membrane protein 
+NP_214605.1 bifunctional 5'-methylthioadenosine nucleosidase /S-adenosylhomocysteine nucleosidase 
+NP_214606.1 cation transporter ATPase A 
+NP_214607.1 membrane protein 
+NP_214608.1 hypothetical protein Rv0094c 
+NP_214609.1 hypothetical protein Rv0095c 
+NP_214611.1 oxidoreductase 
+NP_214612.1 fatty acyl CoA thioesterase FcoT 
+NP_214613.1 fatty-acid--CoA ligase FadD10 
+NP_214614.1 hypothetical protein Rv0100 
+NP_214615.1 peptide synthetase Nrp 
+NP_214616.1 integral membrane protein 
+NP_214617.1 cation-transporter P-type ATPase B 
+NP_214618.1 hypothetical protein Rv0104 
+NP_214620.1 hypothetical protein Rv0106 
+NP_214621.1 cation-transporter ATPase I 
+NP_214622.1 hypothetical protein Rv0108c 
+NP_214624.1 integral membrane protein 
+NP_214625.1 transmembrane acyltransferase 
+NP_214626.1 GDP-mannose 4,6-dehydratase 
+NP_214627.1 phosphoheptose isomerase 
+NP_214628.1 D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase 
+NP_214629.1 D-alpha-D-heptose-7-phosphate kinase HddA 
+NP_214630.1 L,D-transpeptidase LdtA 
+NP_214631.1 oxidative stress response regulatory protein OxyS 
+NP_214632.1 oxalyl-CoA decarboxylase OxcA 
+NP_214633.1 fatty-acid--CoA ligase FadD7 
+NP_214634.1 elongation factor G 
+NP_214635.1 hypothetical protein Rv0121c 
+NP_214636.1 hypothetical protein Rv0122 
+NP_214637.1 hypothetical protein Rv0123 
+NP_214639.1 serine protease PepA 
+NP_214640.1 trehalose synthase/amylase TreS 
+NP_214641.1 maltokinase 
+NP_214642.1 transmembrane protein 
+NP_214644.1 3-hydroxyl-thioester dehydratase 
+NP_214645.1 acyl-CoA dehydrogenase FadE1 
+NP_214646.1 F420-dependent glucose-6-phosphate dehydrogenase 
+NP_214647.1 GCN5-like N-acetyltransferase 
+NP_214648.1 epoxide hydrolase EphF 
+NP_214649.1 transcriptional regulator 
+NP_214650.1 cytochrome P450 Cyp138 
+NP_214651.1 peptide methionine sulfoxide reductase MsrA 
+NP_214652.1 hypothetical protein Rv0138 
+NP_214653.1 oxidoreductase 
+NP_214654.1 hypothetical protein Rv0140 
+NP_214655.1 hypothetical protein Rv0141c 
+NP_214656.1 hypothetical protein Rv0142 
+NP_214657.1 transmembrane protein 
+NP_214658.1 transcriptional regulator 
+NP_214659.1 S-adenosylmethionine-dependent methyltransferase 
+NP_214660.1 S-adenosylmethionine-dependent methyltransferase 
+NP_214661.1 aldehyde dehydrogenase 
+NP_214662.1 short-chain type dehydrogenase/reductase 
+NP_214663.1 quinone oxidoreductase 
+NP_214664.1 hypothetical protein Rv0150c 
+NP_214667.1 phosphotyrosine protein phosphatase 
+NP_214668.1 acyl-CoA dehydrogenase FadE2 
+NP_214669.1 NAD(P) transhydrogenase subunit alpha PntAa 
+NP_214670.1 NAD(P) transhydrogenase subunit alpha PntAb 
+NP_214671.1 NAD(P) transhydrogenase subunit beta PntB 
+NP_214672.1 transcriptional regulator 
+NP_214675.1 oxidoreductase 
+NP_214677.1 hypothetical protein Rv0163 
+NP_214680.1 fatty-acid--CoA ligase FadD5 
+NP_214681.1 membrane protein 
+NP_214682.1 membrane protein 
+NP_214684.1 Mce family protein Mce1B 
+NP_214685.1 Mce family protein Mce1C 
+NP_214686.1 Mce family protein Mce1D 
+NP_214687.1 Mce family lipoprotein LprK 
+NP_214688.1 Mce family protein Mce1F 
+NP_214689.3 Mce associated membrane protein 
+NP_214690.1 Mce associated transmembrane protein 
+NP_214691.1 Mce associated protein 
+NP_214692.1 Mce associated membrane protein 
+NP_214693.1 lipoprotein LprO 
+NP_214694.1 transmembrane protein 
+NP_214695.1 hypothetical protein Rv0181c 
+NP_214696.1 ECF RNA polymerase sigma factor SigG 
+NP_214697.2 lysophospholipase 
+NP_214698.1 hypothetical protein Rv0184 
+NP_214699.1 hypothetical protein Rv0185 
+NP_214700.1 beta-glucosidase BglS 
+NP_214701.1 O-methyltransferase 
+NP_214702.1 transmembrane protein 
+NP_214703.1 dihydroxy-acid dehydratase 
+NP_214704.1 hypothetical protein Rv0190 
+NP_214705.1 MFS-type transporter 
+NP_214706.1 hypothetical protein Rv0192 
+NP_214707.1 hypothetical protein Rv0193c 
+NP_214708.1 multidrug ABC transporter ATPase/permease 
+NP_214709.1 two component transcriptional regulator 
+NP_214710.1 HTH-type transcriptional regulator 
+NP_214711.1 oxidoreductase 
+NP_214712.1 zinc metalloprotease 
+NP_214713.1 membrane protein 
+NP_214714.1 transmembrane protein 
+NP_214715.1 hypothetical protein Rv0201c 
+NP_214716.1 transmembrane transport protein MmpL11 
+NP_214717.1 hypothetical protein Rv0203 
+NP_214718.2 transmembrane protein 
+NP_214719.1 transmembrane protein 
+NP_214720.1 transmembrane transport protein MmpL3 
+NP_214721.1 hypothetical protein Rv0207c 
+NP_214722.1 tRNA (guanine-N(7)-)-methyltransferase 
+NP_214723.1 hypothetical protein Rv0209 
+NP_214724.1 hypothetical protein Rv0210 
+NP_214725.1 phosphoenolpyruvate carboxykinase 
+NP_214726.1 transcriptional regulator NadR 
+NP_214727.1 methyltransferase 
+NP_214728.1 fatty-acid--CoA ligase FadD4 
+NP_214730.1 hydratase 
+NP_214731.1 esterase LipW 
+NP_214732.1 transmembrane protein 
+NP_214733.1 transmembrane protein 
+NP_214734.1 esterase LipC 
+NP_214735.1 diacyglycerol O-acyltransferase 
+NP_214736.1 enoyl-CoA hydratase EchA1 
+NP_214737.1 aldehyde dehydrogenase 
+NP_214738.1 methyltransferase 
+NP_214739.1 hypothetical protein Rv0225 
+NP_214740.1 transmembrane protein 
+NP_214741.1 membrane protein 
+NP_214742.1 acyltransferase 
+NP_214743.2 hypothetical protein Rv0229c 
+NP_214744.1 phosphotriesterase 
+NP_214745.1 acyl-CoA dehydrogenase FadE4 
+NP_214746.1 transcriptional regulator 
+NP_214747.1 ribonucleoside-diphosphate reductase subunit beta NrdB 
+NP_214748.2 succinate-semialdehyde dehydrogenase 
+NP_214749.1 transmembrane protein 
+NP_214750.1 alpha-(1-_3)-arabinofuranosyltransferase 
+NP_214752.1 transcriptional regulator 
+NP_214753.1 antitoxin VapB24 
+NP_214754.1 ribonuclease VapC24 
+NP_214755.1 3-hydroxyacyl-thioester dehydratase HtdX 
+NP_214756.1 3-oxoacyl-ACP reductase FabG 
+NP_214757.1 acetyl-CoA acetyltransferase FadA 
+NP_214758.1 acyl-CoA dehydrogenase FadE5 
+NP_214759.1 oxidoreductase 
+NP_214760.1 integral membrane protein 
+NP_214761.1 succinate dehydrogenase iron-sulfur subunit 
+NP_214762.1 succinate dehydrogenase flavoprotein subunit 
+NP_214763.1 succinate dehydrogenase membrane anchor subunit 
+NP_214764.1 hypothetical protein Rv0250c 
+NP_214765.1 heat shock protein 
+NP_214766.1 nitrite reductase large subunit NirB 
+NP_214767.1 nitrite reductase small subunit NirD 
+NP_214768.1 bifunctional cobinamide kinase/cobinamide phosphate guanylyltransferase 
+NP_214772.1 hypothetical protein Rv0258c 
+NP_214773.1 hypothetical protein Rv0259c 
+NP_214774.1 transcriptional regulator 
+NP_214775.1 nitrate/nitrite transporter 
+NP_214776.1 aminoglycoside 2'-N-acetyltransferase 
+NP_214777.1 hypothetical protein Rv0263c 
+NP_214778.1 hypothetical protein Rv0264c 
+NP_214780.1 5-oxoprolinase OplA 
+NP_214781.1 nitrite extrusion protein NarU 
+NP_214782.1 hypothetical protein Rv0268c 
+NP_214783.1 hypothetical protein Rv0269c 
+NP_214784.1 fatty-acid--CoA ligase FadD2 
+NP_214785.1 acyl-CoA dehydrogenase FadE6 
+NP_214786.1 hypothetical protein Rv0272c 
+NP_214787.1 transcriptional regulator 
+NP_214788.1 hypothetical protein Rv0274 
+NP_214790.1 hypothetical protein Rv0276 
+NP_214791.1 ribonuclease VapC25 
+NP_214795.1 S-adenosylmethionine-dependent methyltransferase 
+NP_214796.1 ESX-3 secretion system protein EccA 
+NP_214797.1 ESX-3 secretion system protein EccB3 
+NP_214798.1 ESX-3 secretion system protein EccC3 
+NP_214801.1 ESAT-6 like protein EsxG 
+NP_214802.1 ESAT-6-like protein EsxH 
+NP_214803.1 ESX-3 secretion-associated protein EspG3 
+NP_214804.1 ESX-3 secretion system protein EccD 
+NP_214805.1 membrane-anchored mycosin MycP 
+NP_214806.1 ESX-3 secretion system protein EccE 
+NP_214807.1 hypothetical protein Rv0293c 
+NP_214808.1 trans-aconitate methyltransferase 
+NP_214809.1 hypothetical protein Rv0295c 
+NP_214812.1 antitoxin 
+NP_214813.1 toxin 
+NP_214814.1 antitoxin VapB2 
+NP_214815.1 ribonuclease VapC2 
+NP_214816.1 transcriptional regulator 
+NP_214817.1 dehydrogenase/reductase 
+NP_214820.1 oxidoreductase 
+NP_214821.1 hypothetical protein Rv0307c 
+NP_214822.1 integral membrane protein 
+NP_214823.1 hypothetical protein Rv0309 
+NP_214824.1 hypothetical protein Rv0310c 
+NP_214825.1 hypothetical protein Rv0311 
+NP_214826.1 hypothetical protein Rv0312 
+NP_214827.1 hypothetical protein Rv0313 
+NP_214828.1 membrane protein 
+NP_214829.1 beta-1,3-glucanase 
+NP_214830.1 muconolactone isomerase 
+NP_214831.1 glycerophosphoryl diester phosphodiesterase GlpQ 
+NP_214833.1 pyrrolidone-carboxylate peptidase 
+NP_214834.1 hypothetical protein Rv0320 
+NP_214835.1 deoxycytidine triphosphate deaminase 
+NP_214836.1 UDP-glucose 6-dehydrogenase UdgA 
+NP_214837.1 hypothetical protein Rv0323c 
+NP_214838.1 transcriptional regulator 
+NP_214839.1 hypothetical protein Rv0325 
+NP_214840.1 hypothetical protein Rv0326 
+NP_214841.1 cytochrome P450 Cyp135A1 
+NP_214842.1 transcriptional regulator 
+NP_214843.1 hypothetical protein Rv0329c 
+NP_214844.1 hypothetical protein Rv0330c 
+NP_214845.1 dehydrogenase/reductase 
+NP_214846.1 hypothetical protein Rv0332 
+NP_214847.1 hypothetical protein Rv0333 
+NP_214848.1 glucose-1-phosphate thymidylyltransferase 
+NP_214850.1 hypothetical protein Rv0336 
+NP_214851.1 aspartate aminotransferase 
+NP_214852.1 iron-sulfur-binding reductase 
+NP_214853.1 transcriptional regulator 
+NP_214854.1 hypothetical protein Rv0340 
+NP_214855.1 isoniazid inducible protein IniB 
+NP_214856.1 isoniazid inductible protein IniA 
+NP_214857.1 iIsoniazid inductible protein IniC 
+NP_214858.1 lipoprotein LpqJ 
+NP_214859.1 hypothetical protein Rv0345 
+NP_214861.1 membrane protein 
+NP_214862.1 transcriptional regulator 
+NP_214863.1 hypothetical protein Rv0349 
+NP_214864.1 chaperone protein DnaK 
+NP_214865.1 stress response protein GrpE 
+NP_214867.1 heat shock protein transcriptional repressor HspR 
+NP_214870.1 hypothetical protein Rv0356c 
+NP_214871.1 adenylosuccinate synthetase 
+NP_214872.1 hypothetical protein Rv0358 
+NP_214873.1 zinc metalloprotease 
+NP_214874.1 hypothetical protein Rv0360c 
+NP_214875.1 membrane protein 
+NP_214876.1 Mg2+ transport transmembrane protein MgtE 
+NP_214877.1 fructose-bisphosphate aldolase 
+NP_214878.1 transmembrane protein 
+NP_214879.1 hypothetical protein Rv0365c 
+NP_214880.1 hypothetical protein Rv0366c 
+NP_214881.1 hypothetical protein Rv0367c 
+NP_214882.1 hypothetical protein Rv0368c 
+NP_214883.1 membrane oxidoreductase 
+NP_214884.1 oxidoreductase 
+NP_214885.1 hypothetical protein Rv0371c 
+NP_214886.1 hypothetical protein Rv0372c 
+NP_214887.1 carbon monoxyde dehydrogenase large subunit 
+NP_214888.1 carbon monoxyde dehydrogenase small subunit 
+NP_214889.1 carbon monoxyde dehydrogenase medium subunit 
+NP_214890.1 hypothetical protein Rv0376c 
+NP_214891.1 HTH-type transcriptional regulator 
+NP_214892.1 hypothetical protein Rv0378 
+NP_214894.1 RNA methyltransferase 
+NP_214895.1 hypothetical protein Rv0381c 
+NP_214897.1 hypothetical protein Rv0383c 
+NP_214898.1 chaperone protein ClpB 
+NP_214899.1 monooxygenase 
+NP_214900.1 transcriptional regulator 
+NP_214903.1 phosphoribosylglycinamide formyltransferase PurT 
+NP_214904.1 hypothetical protein Rv0390 
+NP_214905.1 O-succinylhomoserine sulfhydrylase 
+NP_214906.1 NADH dehydrogenase NdhA 
+NP_214907.1 hypothetical protein Rv0393 
+NP_214908.1 hypothetical protein Rv0394c 
+NP_214909.1 hypothetical protein Rv0395 
+NP_214910.1 hypothetical protein Rv0396 
+NP_214911.1 hypothetical protein Rv0397 
+NP_214912.1 hypothetical protein Rv0398c 
+NP_214913.1 lipoprotein LpqK 
+NP_214914.1 acyl-CoA dehydrogenase FadE7 
+NP_214915.1 transmembrane protein 
+NP_214916.1 transmembrane transport protein MmpL1 
+NP_214917.1 membrane protein MmpS1 
+NP_214918.1 long-chain-fatty-acid--AMP ligase FadD30 
+NP_214919.1 membrane bound polyketide synthase 
+NP_214920.1 beta lactamase-like protein 
+NP_214921.1 F420-dependent glucose-6-phosphate dehydrogenase 
+NP_214922.1 phosphate acetyltransferase 
+NP_214923.1 acetate kinase 
+NP_214924.1 serine/threonine-protein kinase PknG 
+NP_214925.1 glutamine-binding lipoprotein GlnH 
+NP_214926.1 membrane protein 
+NP_214927.1 8-oxo-dGTP diphosphatase 
+NP_214928.1 thiamine-phosphate synthase 
+NP_214929.1 thiamine biosynthesis oxidoreductase ThiO 
+NP_214930.1 sulfur carrier protein ThiS 
+NP_214931.1 thiazole synthase 
+NP_214932.1 lipoprotein aminopeptidase LpqL 
+NP_214933.1 lipoprotein peptidase LpqM 
+NP_214934.1 transmembrane protein 
+NP_214935.1 hypothetical protein Rv0421c 
+NP_214936.1 hydroxymethylpyrimidine/phosphomethylpyrimidine kinase 
+NP_214937.1 phosphomethylpyrimidine synthase 
+NP_214938.1 hypothetical protein Rv0424c 
+NP_214939.1 metal cation transporting ATPase H 
+NP_214940.1 transmembrane protein 
+NP_214941.1 exodeoxyribonuclease III protein XthA 
+NP_214942.1 GCN5-like N-acetyltransferase 
+NP_214943.1 polypeptide deformylase 
+NP_214944.1 hypothetical protein Rv0430 
+NP_214945.1 tuberculin-like peptide 
+NP_214946.1 superoxide dismutase 
+NP_214947.1 carboxylate-amine ligase 
+NP_214948.1 hypothetical protein Rv0434 
+NP_214949.1 ATPase 
+NP_214950.1 CDP-diacylglycerol--serine O-phosphatidyltransferase 
+NP_214951.1 phosphatidylserine decarboxylase 
+NP_214953.1 dehydrogenase/reductase 
+NP_214954.1 molecular chaperone GroEL 
+NP_214955.1 hypothetical protein Rv0441c 
+NP_214957.1 hypothetical protein Rv0443 
+NP_214958.1 anti-sigma-K factor RskA 
+NP_214959.1 ECF RNA polymerase sigma factor SigK 
+NP_214960.1 transmembrane protein 
+NP_214961.1 cyclopropane-fatty-acyl-phospholipid synthase UfaA 
+NP_214962.1 hypothetical protein Rv0448c 
+NP_214963.1 hypothetical protein Rv0449c 
+NP_214964.1 transmembrane transport protein MmpL4 
+NP_214965.1 membrane protein MmpS4 
+NP_214966.1 transcriptional regulator 
+NP_214969.1 hypothetical protein Rv0455c 
+NP_214970.1 enoyl-CoA hydratase EchA2 
+NP_214971.1 peptidase 
+NP_214972.1 aldehyde dehydrogenase 
+NP_214973.1 hypothetical protein Rv0459 
+NP_214974.1 hypothetical protein Rv0460 
+NP_214975.1 transmembrane protein 
+NP_214976.1 dihydrolipoamide dehydrogenase 
+NP_214977.1 membrane protein 
+NP_214978.1 hypothetical protein Rv0464c 
+NP_214979.1 HTH-type transcriptional regulator 
+NP_214980.1 hypothetical protein Rv0466 
+NP_214982.1 3-hydroxybutyryl-CoA dehydrogenase 
+NP_214985.1 hypothetical protein Rv0471c 
+NP_214986.1 HTH-type transcriptional regulator 
+NP_214987.2 transmembrane protein 
+NP_214988.1 HTH-type transcriptional regulator 
+NP_214989.1 heparin binding hemagglutinin HbhA 
+NP_214990.1 transmembrane protein 
+NP_214991.1 hypothetical protein Rv0477 
+NP_214992.1 deoxyribose-phosphate aldolase 
+NP_214993.1 membrane protein 
+NP_214994.2 amidohydrolase 
+NP_214995.1 hypothetical protein Rv0481c 
+NP_214996.1 UDP-N-acetylenolpyruvoylglucosamine reductase 
+NP_214997.1 lipoprotein LprQ 
+NP_214998.1 short-chain type oxidoreductase 
+NP_214999.1 transcriptional regulator 
+NP_215000.1 D-inositol 3-phosphate glycosyltransferase 
+NP_215001.1 hypothetical protein Rv0487 
+NP_215002.1 amino acid transporter 
+NP_215004.1 two component sensor histidine kinase SenX3 
+NP_215005.1 two component sensory transduction protein RegX 
+NP_215006.2 GMC-type oxidoreductase 
+NP_215007.1 hypothetical protein Rv0493c 
+NP_215008.2 HTH-type transcriptional regulator 
+NP_215009.1 hypothetical protein Rv0495c 
+NP_215010.3 hypothetical protein Rv0496 
+NP_215011.1 transmembrane protein 
+NP_215012.1 hypothetical protein Rv0498 
+NP_215013.1 hypothetical protein Rv0499 
+NP_215014.1 pyrroline-5-carboxylate reductase 
+NP_215015.2 UDP-glucose 4-epimerase 
+NP_215016.1 hypothetical protein Rv0502 
+NP_215017.1 cyclopropane mycolic acid synthase 
+NP_215018.1 hypothetical protein Rv0504c 
+NP_215020.1 membrane protein MmpS2 
+NP_215021.1 transmembrane transport protein MmpL2 
+NP_215022.1 hypothetical protein Rv0508 
+NP_215023.1 glutamyl-tRNA reductase 
+NP_215024.1 porphobilinogen deaminase 
+NP_215025.2 multifunctional uroporphyrin-III C-methyltransferase/precorrin-2 oxidase/ferrochelatase 
+NP_215026.1 delta-aminolevulinic acid dehydratase 
+NP_215027.1 transmembrane protein 
+NP_215028.1 transmembrane protein 
+NP_215029.1 hypothetical protein Rv0515 
+NP_215030.1 anti-anti-sigma factor 
+NP_215031.1 acyltransferase 
+NP_215032.1 hypothetical protein Rv0518 
+NP_215033.1 membrane protein 
+NP_215037.1 hypothetical protein Rv0523c 
+NP_215038.1 glutamate-1-semialdehyde 2,1-aminomutase 
+NP_215039.1 hypothetical protein Rv0525 
+NP_215040.1 thioredoxin 
+NP_215041.2 cytochrome C-type biogenesis protein CcsA 
+NP_215042.1 transmembrane protein 
+NP_215044.1 hypothetical protein Rv0530 
+NP_215045.1 membrane protein 
+NP_215047.1 3-oxoacyl-
+NP_215048.1 1,4-dihydroxy-2-naphthoate octaprenyltransferase 
+NP_215049.1 S-methyl-5'-thioadenosine phosphorylase 
+NP_215050.2 UDP-glucose 4-epimerase GalE 
+NP_215051.1 integral membrane protein 
+NP_215052.1 membrane protein 
+NP_215053.1 dolichyl-phosphate sugar synthase 
+NP_215054.1 hypothetical protein Rv0540 
+NP_215055.1 integral membrane protein 
+NP_215056.1 2-succinylbenzoic acid--CoA ligase 
+NP_215057.1 hypothetical protein Rv0543c 
+NP_215058.1 transmembrane protein 
+NP_215059.1 low-affinity inorganic phosphate transporter 
+NP_215060.1 hypothetical protein Rv0546c 
+NP_215061.1 oxidoreductase 
+NP_215062.1 1,4-dihydroxy-2-naphthoyl-CoA synthase 
+NP_215063.1 ribonuclease VapC3 
+NP_215064.1 antitoxin VapB3 
+NP_215065.1 fatty-acid--CoA ligase FadD8 
+NP_215066.1 hypothetical protein Rv0552 
+NP_215067.1 muconate cycloisomerase 
+NP_215068.1 non-heme bromoperoxidase BpoC 
+NP_215069.1 bifunctional 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase/2-oxoglutarate decarboxylase 
+NP_215070.1 transmembrane protein 
+NP_215071.1 GDP-mannose-dependent alpha-mannosyltransferase 
+NP_215073.1 hypothetical protein Rv0559c 
+NP_215074.1 benzoquinone methyltransferase 
+NP_215075.1 oxidoreductase 
+NP_215076.1 polyprenyl-diphosphate synthase GrcC 
+NP_215077.1 protease HtpX 
+NP_215078.1 glycerol-3-phosphate dehydrogenase 
+NP_215079.1 monooxygenase 
+NP_215080.1 hypothetical protein Rv0566c 
+NP_215081.1 methyltransferase/methylase 
+NP_215082.1 cytochrome P450 Cyp135B1 
+NP_215083.1 hypothetical protein Rv0569 
+NP_215084.1 vitamin B12-dependent ribonucleoside-diphosphate reductase 
+NP_215085.1 hypothetical protein Rv0571c 
+NP_215086.1 hypothetical protein Rv0572c 
+NP_215087.1 nicotinic acid phosphoribosyltransferase PncB2 
+NP_215088.1 hypothetical protein Rv0574c 
+NP_215089.1 oxidoreductase 
+NP_215090.1 transcriptional regulator 
+NP_215091.1 hypothetical protein Rv0577 
+NP_215093.1 hypothetical protein Rv0579 
+NP_215094.1 hypothetical protein Rv0580c 
+NP_215095.1 antitoxin VapB26 
+NP_215096.1 ribonuclease VapC26 
+NP_215097.1 lipoprotein LpqN 
+NP_215098.1 glycosidase 
+NP_215099.1 integral membrane protein 
+NP_215100.1 HTH-type transcriptional regulator Mce2R 
+NP_215101.1 hypothetical protein Rv0587 
+NP_215102.1 hypothetical protein Rv0588 
+NP_215105.1 Mce family protein Mce2C 
+NP_215106.1 Mce family protein Mce2D 
+NP_215107.1 Mce family lipoprotein LprL 
+NP_215108.1 Mce family protein Mce2F 
+NP_215109.1 ribonuclease VapC4 
+NP_215110.1 antitoxin VapB4 
+NP_215111.1 hypothetical protein Rv0597c 
+NP_215112.1 ribonuclease VapC27 
+NP_215113.1 antitoxin VapB27 
+NP_215114.2 two component sensor kinase HK1 
+NP_215115.1 two component sensor kinase HK2 
+NP_215116.1 two component DNA binding transcriptional regulator TcrA 
+NP_215117.1 hypothetical protein Rv0603 
+NP_215118.1 lipoprotein LpqO 
+NP_215119.2 IS1536 family serine type transposase 
+NP_215121.1 hypothetical protein Rv0607 
+NP_215122.1 antitoxin VapB28 
+NP_215123.1 ribonuclease VapC28 
+NP_215124.1 hypothetical protein Rv0610c 
+NP_215125.2 hypothetical protein Rv0611c 
+NP_215126.1 hypothetical protein Rv0612 
+NP_215127.1 hypothetical protein Rv0613c 
+NP_215128.2 hypothetical protein Rv0614 
+NP_215129.1 integral membrane protein 
+NP_215131.1 ribonuclease VapC29 
+NP_215134.1 galactokinase 
+NP_215135.1 membrane protein 
+NP_215136.2 membrane protein 
+NP_215137.1 antitoxin VapB30 
+NP_215138.1 ribonuclease VapC30 
+NP_215139.1 transmembrane protein 
+NP_215140.1 antitoxin VapB5 
+NP_215141.1 ribonuclease VapC5 
+NP_215142.1 hypothetical protein Rv0628c 
+NP_215143.1 exonuclease V subunit alpha RecD 
+NP_215144.1 exonuclease V subunit beta RecB 
+NP_215145.1 exonuclease V subunit gamma RecC 
+NP_215146.1 enoyl-CoA hydratase EchA3 
+NP_215147.1 hypothetical protein Rv0633c 
+NP_215148.1 glyoxalase II 
+NP_215149.1 (3R)-hydroxyacyl-ACP dehydratase subunit HadA 
+NP_215150.1 (3R)-hydroxyacyl-ACP dehydratase subunit HadB 
+NP_215151.1 (3R)-hydroxyacyl-ACP dehydratase subunit HadC 
+NP_215153.1 transcription termination/antitermination protein NusG 
+NP_215154.1 50S ribosomal protein L11 
+NP_215155.1 50S ribosomal protein L1 
+NP_215156.1 hydroxymycolate synthase MmaA4 
+NP_215157.1 methoxy mycolic acid synthase MmaA3 
+NP_215158.1 cyclopropane mycolic acid synthase CmaA 
+NP_215159.1 mycolic acid methyltransferase MmaA1 
+NP_215160.1 lipase/esterase LipG 
+NP_215161.1 hypothetical protein Rv0647c 
+NP_215162.1 alpha-mannosidase 
+NP_215164.1 sugar kinase 
+NP_215165.1 50S ribosomal protein L10 
+NP_215166.1 50S ribosomal protein L7/L12 
+NP_215167.1 transcriptional regulator 
+NP_215168.1 carotenoid cleavage oxygenase 
+NP_215169.1 ribonucleotide ABC transporter ATP-binding protein 
+NP_215170.1 ribonuclease VapC6 
+NP_215171.1 antitoxin VapB6 
+NP_215172.1 integral membrane protein 
+NP_215173.1 toxin MazF2 
+NP_215174.1 antitoxin MazE2 
+NP_215175.1 ribonuclease VapC7 
+NP_215176.2 antitoxin VapB7 
+NP_215177.1 arylsulfatase AtsD 
+NP_215178.1 antitoxin VapB8 
+NP_215179.1 ribonuclease VapC8 
+NP_215180.1 membrane protein 
+NP_215181.1 DNA-directed RNA polymerase subunit beta 
+NP_215182.1 DNA-directed RNA polymerase subunit beta' 
+NP_215183.1 neutral ceramidase 
+NP_215184.1 endonuclease IV 
+NP_215185.1 lipoprotein LpqP 
+NP_215186.1 acyl-CoA dehydrogenase FadE8 
+NP_215187.1 enoyl-CoA hydratase EchA4 
+NP_215188.1 hypothetical protein Rv0674 
+NP_215190.1 transmembrane transport protein MmpL5 
+NP_215191.1 membrane protein MmpS5 
+NP_215192.1 hypothetical protein Rv0678 
+NP_215193.1 hypothetical protein Rv0679c 
+NP_215194.1 transmembrane protein 
+NP_215195.1 transcriptional regulator 
+NP_215196.1 30S ribosomal protein S12 
+NP_215197.1 30S ribosomal protein S7 
+NP_215199.1 elongation factor Tu 
+NP_215200.1 membrane protein 
+NP_215201.1 NAD-dependent oxidoreductase 
+NP_215202.1 ferredoxin reductase 
+NP_215203.1 hypothetical protein Rv0689c 
+NP_215204.1 hypothetical protein Rv0690c 
+NP_215205.1 mycofactocin biosynthesis transcriptional regulator MftR 
+NP_215206.1 mycofactocin system protein MftB 
+NP_215207.1 mycofactocin radical SAM maturase MftC 
+NP_215208.1 mycofactocin system heme/flavin oxidoreductase MftD 
+NP_215209.1 mycofactocin system creatinine amidohydrolase family protein MftE 
+NP_215210.1 mycofactocin biosynthesis glycosyltransferase MftF 
+NP_215211.1 dehydrogenase 
+NP_215212.1 hypothetical protein Rv0698 
+NP_215213.1 hypothetical protein Rv0699 
+NP_215214.1 30S ribosomal protein S10 
+NP_215215.1 50S ribosomal protein L3 
+NP_215216.1 50S ribosomal protein L4 
+NP_215217.1 50S ribosomal protein L23 
+NP_215218.1 50S ribosomal protein L2 
+NP_215219.1 30S ribosomal protein S19 
+NP_215220.1 50S ribosomal protein L22 
+NP_215221.1 30S ribosomal protein S3 
+NP_215222.1 50S ribosomal protein L16 
+NP_215223.1 50S ribosomal protein L29 
+NP_215224.1 30S ribosomal protein S17 
+NP_215225.1 arylsulfatase AtsA 
+NP_215226.1 hypothetical protein Rv0712 
+NP_215227.1 transmembrane protein 
+NP_215228.1 50S ribosomal protein L14 
+NP_215229.1 50S ribosomal protein L24 
+NP_215230.1 50S ribosomal protein L5 
+NP_215232.1 30S ribosomal protein S8 
+NP_215233.1 50S ribosomal protein L6 
+NP_215234.1 50S ribosomal protein L18 
+NP_215235.1 30S ribosomal protein S5 
+NP_215236.1 50S ribosomal protein L30 
+NP_215237.1 50S ribosomal protein L15 
+NP_215238.1 protease IV SppA 
+NP_215239.1 hypothetical protein Rv0725c 
+NP_215240.1 S-adenosylmethionine-dependent methyltransferase 
+NP_215241.1 L-fuculose phosphate aldolase FucA 
+NP_215242.1 D-3-phosphoglycerate dehydrogenase SerA 
+NP_215243.1 D-xylulose kinase XylB 
+NP_215244.1 GCN5-like N-acetyltransferase 
+NP_215245.1 S-adenosylmethionine-dependent methyltransferase 
+NP_215246.1 preprotein translocase SecY 
+NP_215247.1 adenylate kinase 
+NP_215249.1 ECF RNA polymerase sigma factor SigL 
+NP_215250.1 anti-sigma-L factor RslA 
+NP_215251.1 transcriptional regulator 
+NP_215252.1 hypothetical protein Rv0738 
+NP_215253.1 hypothetical protein Rv0739 
+NP_215254.1 hypothetical protein Rv0740 
+NP_215257.1 hypothetical protein Rv0743c 
+NP_215258.1 transcriptional regulator 
+NP_215259.1 hypothetical protein Rv0745 
+NP_215262.1 antitoxin VapB31 
+NP_215263.1 ribonuclease VapC31 
+NP_215264.1 hypothetical protein Rv0750 
+NP_215265.1 3-hydroxyisobutyrate dehydrogenase 
+NP_215266.1 acyl-CoA dehydrogenase FadE9 
+NP_215267.1 methylmalonate-semialdehyde dehydrogenase 
+NP_215270.1 hypothetical protein Rv0756c 
+NP_215271.1 two component system response transcriptional positive regulator PhoP 
+NP_215272.1 two component system response sensor kinase PhoR 
+NP_215273.3 hypothetical protein Rv0759c 
+NP_215274.1 hypothetical protein Rv0760c 
+NP_215276.1 hypothetical protein Rv0762c 
+NP_215277.1 ferredoxin 
+NP_215278.1 lanosterol 14-alpha demethylase 
+NP_215279.1 oxidoreductase 
+NP_215280.1 cytochrome P450 Cyp123 
+NP_215281.1 HTH-type transcriptional regulator 
+NP_215282.1 aldehyde dehydrogenase AldA 
+NP_215283.1 oxidoreductase 
+NP_215284.1 oxidoreductase 
+NP_215285.1 4-carboxymuconolactone decarboxylase 
+NP_215286.1 phosphoribosylamine--glycine ligase 
+NP_215287.1 bifunctional cephalosporin acylase/gamma-glutamyltranspeptidase 
+NP_215288.2 hypothetical protein Rv0774c 
+NP_215289.1 hypothetical protein Rv0775 
+NP_215290.1 hypothetical protein Rv0776c 
+NP_215291.1 adenylosuccinate lyase PurB 
+NP_215292.1 cytochrome P450 Cyp126 
+NP_215293.1 transmembrane protein 
+NP_215294.1 phosphoribosylaminoimidazole-succinocarboxamide synthase 
+NP_215297.1 multidrug resistance protein EmrB 
+NP_215298.1 hypothetical protein Rv0784 
+NP_215299.1 KsdD-like steroid dehydrogenase 
+NP_215300.2 hypothetical protein Rv0786c 
+NP_215301.1 hypothetical protein Rv0787 
+NP_215303.1 phosphoribosylformylglycinamidine synthase 
+NP_215304.1 hypothetical protein Rv0789c 
+NP_215305.1 hypothetical protein Rv0790c 
+NP_215306.1 hypothetical protein Rv0791c 
+NP_215307.1 transcriptional regulator 
+NP_215308.1 monooxygenase 
+NP_215312.1 insertion sequence element IS1547 transposase 
+NP_215313.1 hypothetical protein Rv0798c 
+NP_215314.1 hypothetical protein Rv0799c 
+NP_215315.1 M18 family aminopeptidase 
+NP_215316.1 hypothetical protein Rv0801 
+NP_215317.1 succinyl-CoA transferase 
+NP_215318.1 phosphoribosylformylglycinamidine synthase 2 
+NP_215319.1 hypothetical protein Rv0804 
+NP_215320.1 3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA 
+NP_215321.1 exopolysaccharide phosphotransferase CpsY 
+NP_215322.1 hypothetical protein Rv0807 
+NP_215323.1 amidophosphoribosyltransferase 
+NP_215324.1 phosphoribosylformylglycinamidine cyclo-ligase PurM 
+NP_215325.1 hypothetical protein Rv0810c 
+NP_215326.1 hypothetical protein Rv0811c 
+NP_215328.1 hypothetical protein Rv0813c 
+NP_215329.1 hypothetical protein Rv0814c 
+NP_215330.1 thiosulfate sulfurtransferase CysA 
+NP_215331.1 thioredoxin ThiX 
+NP_215332.1 hypothetical protein Rv0817c 
+NP_215333.1 transcriptional regulator 
+NP_215334.1 mycothiol acetyltransferase 
+NP_215335.1 phosphate ABC transporter ATP-binding protein PhoT 
+NP_215336.1 phosphate-transport system transcriptional regulator PhoY2 
+NP_215337.1 hypothetical protein Rv0822c 
+NP_215338.1 tRNA-dihydrouridine synthase 
+NP_215340.1 hypothetical protein Rv0825c 
+NP_215341.1 hypothetical protein Rv0826 
+NP_215342.1 HTH-type transcriptional regulator KmtR 
+NP_215343.1 deaminase 
+NP_215345.1 S-adenosylmethionine-dependent methyltransferase 
+NP_215346.1 hypothetical protein Rv0831c 
+NP_215350.1 lipoprotein LpqQ 
+NP_215351.1 hypothetical protein Rv0836c 
+NP_215352.1 hypothetical protein Rv0837c 
+NP_215353.1 lipoprotein LpqR 
+NP_215354.1 hypothetical protein Rv0839 
+NP_215355.1 proline iminopeptidase 
+NP_215357.1 integral membrane protein 
+NP_215358.1 dehydrogenase 
+NP_215359.1 nitrate/nitrite response transcriptional regulator NarL 
+NP_215360.1 sensor histidine kinase NarS 
+NP_215361.1 oxidase 
+NP_215362.1 lipoprotein LpqS 
+NP_215364.1 MFS-type transporter 
+NP_215366.1 short-chain type dehydrogenase/reductase 
+NP_215367.2 hypothetical protein Rv0852 
+NP_215368.1 alpha-keto-acid decarboxylase 
+NP_215369.1 hypothetical protein Rv0854 
+NP_215370.1 fatty-acid-CoA racemase 
+NP_215371.1 hypothetical protein Rv0856 
+NP_215372.2 hypothetical protein Rv0857 
+NP_215373.1 N-succinyldiaminopimelate aminotransferase DapC 
+NP_215374.1 acyltransferase 
+NP_215375.1 fatty oxidation protein FadB 
+NP_215376.3 DNA helicase Ercc3 
+NP_215377.1 hypothetical protein Rv0862c 
+NP_215378.2 hypothetical protein Rv0863 
+NP_215379.1 cyclic pyranopterin monophosphate synthase accessory protein 
+NP_215380.1 molybdopterin biosynthesis protein 
+NP_215381.1 molybdopterin synthase catalytic subunit 2 
+NP_215382.1 resuscitation-promoting factor RpfA 
+NP_215383.1 cyclic pyranopterin monophosphate synthase 
+NP_215384.1 molybdenum cofactor biosynthesis protein MoaA 
+NP_215385.1 integral membrane protein 
+NP_215386.1 cold shock-like protein CspB 
+NP_215388.1 acyl-CoA dehydrogenase FadE10 
+NP_215389.1 hypothetical protein Rv0874c 
+NP_215390.1 hypothetical protein Rv0875c 
+NP_215391.1 transmembrane protein 
+NP_215392.1 hypothetical protein Rv0877 
+NP_215394.1 transmembrane protein 
+NP_215395.1 HTH-type transcriptional regulator 
+NP_215396.1 tRNA/rRNA methyltransferase 
+NP_215397.1 transmembrane protein 
+NP_215398.1 hypothetical protein Rv0883c 
+NP_215399.1 phosphoserine aminotransferase 
+NP_215400.1 hypothetical protein Rv0885 
+NP_215401.1 ferredoxin/ferredoxin--NADP reductase 
+NP_215402.1 hypothetical protein Rv0887c 
+NP_215403.1 hypothetical protein Rv0888 
+NP_215404.1 citrate synthase 2 
+NP_215405.1 HTH-type transcriptional regulator 
+NP_215406.1 hypothetical protein Rv0891c 
+NP_215407.1 monooxygenase 
+NP_215408.1 S-adenosylmethionine-dependent methyltransferase 
+NP_215409.1 transcriptional regulator 
+NP_215410.1 diacyglycerol O-acyltransferase 
+NP_215411.1 citrate synthase 1 
+NP_215412.1 oxidoreductase 
+NP_215413.1 hypothetical protein Rv0898c 
+NP_215414.1 peptidoglycan-binding protein ArfA 
+NP_215415.1 membrane protein 
+NP_215416.1 membrane protein 
+NP_215417.1 two component sensor histidine kinase PrrB 
+NP_215418.1 two component transcriptional regulator PrrA 
+NP_215419.1 acetyl-CoAcarboxylase carboxyl transferase subunit beta 
+NP_215420.1 enoyl-CoA hydratase EchA6 
+NP_215421.1 hypothetical protein Rv0906 
+NP_215422.1 hypothetical protein Rv0907 
+NP_215423.1 metal cation transporter ATPase E 
+NP_215424.1 antitoxin 
+NP_215425.1 toxin 
+NP_215426.1 hypothetical protein Rv0911 
+NP_215427.1 transmembrane protein 
+NP_215428.1 dioxygenase 
+NP_215429.1 lipid carrier protein or keto acyl-CoA thiolase 
+NP_215432.1 glycine betaine transport integral membrane protein BetP 
+NP_215433.1 hypothetical protein Rv0918 
+NP_215434.1 GCN5-like N-acetyltransferase 
+NP_215435.1 transposase 
+NP_215436.1 resolvase 
+NP_215437.1 transposase 
+NP_215438.1 hypothetical protein Rv0923c 
+NP_215440.1 hypothetical protein Rv0925c 
+NP_215441.1 hypothetical protein Rv0926c 
+NP_215442.1 oxidoreductase 
+NP_215444.1 phosphate ABC transporter permease PstC 
+NP_215445.2 phosphate ABC transporter permease PstA 
+NP_215446.1 serine/threonine-protein kinase PknD 
+NP_215448.1 phosphate ABC transporter ATP-binding protein PstB 
+NP_215451.1 phosphate ABC transporter permease PstA 
+NP_215452.1 non-homologous end joining protein Ku 
+NP_215453.1 multifunctional non-homologous end joining DNA repair protein/ATP dependent DNA ligase LigD 
+NP_215454.1 bifunctional 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase/cyclase/dehydrase 
+NP_215455.1 oxidoreductase 
+NP_215456.1 hypothetical protein Rv0941c 
+NP_215457.1 hypothetical protein Rv0942 
+NP_215458.1 monooxygenase 
+NP_215459.1 formamidopyrimidine-DNA glycosylase 
+NP_215460.1 oxidoreductase 
+NP_215461.1 glucose-6-phosphate isomerase 
+NP_215463.1 chorismate mutase 
+NP_215465.1 hypothetical protein Rv0950c 
+NP_215466.1 succinyl-CoA ligase subunit beta 
+NP_215467.1 succinyl-CoA ligase subunit alpha 
+NP_215468.1 oxidoreductase 
+NP_215469.1 transmembrane protein 
+NP_215470.1 integral membrane protein 
+NP_215471.1 phosphoribosylglycinamide formyltransferase PurN 
+NP_215472.1 bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/inosinemonophosphate cyclohydrolase 
+NP_215473.1 magnesium chelatase 
+NP_215474.1 hypothetical protein Rv0959 
+NP_215475.1 ribonuclease VapC9 
+NP_215476.1 integral membrane protein 
+NP_215477.1 lipoprotein LprP 
+NP_215478.1 hypothetical protein Rv0963c 
+NP_215479.1 hypothetical protein Rv0964c 
+NP_215480.1 hypothetical protein Rv0965c 
+NP_215481.2 hypothetical protein Rv0966c 
+NP_215482.1 copper-sensing transcriptional repressor CsoR 
+NP_215483.1 hypothetical protein Rv0968 
+NP_215484.3 copper-exporting ATPase 
+NP_215485.1 integral membrane protein 
+NP_215486.1 enoyl-CoA hydratase EchA7 
+NP_215487.1 acyl-CoA dehydrogenase FadE12 
+NP_215488.1 acetyl-/propionyl-CoA carboxylase subunit alpha 
+NP_215489.1 acetyl-/propionyl-CoA carboxylase subunit beta 
+NP_215490.1 acyl-CoA dehydrogenase FadE13 
+NP_215491.1 hypothetical protein Rv0976c 
+NP_215494.2 hypothetical protein Rv0979c 
+NP_215496.2 two-component response regulator MrpA 
+NP_215497.1 two component histidine-protein kinase/phosphatase MprB 
+NP_215498.1 serine protease PepD 
+NP_215499.1 pterin-4-alpha-carbinolamine dehydratase 
+NP_215500.1 large-conductance ion mechanosensitive channel 
+NP_215501.1 adhesion component ABC transporter ATP-binding protein 
+NP_215502.1 adhesion component ABC transporter permease 
+NP_215503.1 hypothetical protein Rv0988 
+NP_215504.1 polyprenyl-diphosphate synthase GrcC 
+NP_215505.1 hypothetical protein Rv0990c 
+NP_215506.1 hypothetical protein Rv0991c 
+NP_215507.1 hypothetical protein Rv0992c 
+NP_215508.1 UTP--glucose-1-phosphate uridylyltransferase 
+NP_215510.1 ribosomal-protein-alanine acetyltransferase RimJ 
+NP_215511.1 transmembrane protein 
+NP_215512.1 hypothetical protein Rv0997 
+NP_215513.1 acetyltransferase 
+NP_215514.1 hypothetical protein Rv0999 
+NP_215517.1 arginine deiminase 
+NP_215518.1 dolichyl-phosphate-mannose--protein mannosyltransferase 
+NP_215519.1 rRNA small subunit methyltransferase I 
+NP_215520.1 membrane protein 
+NP_215521.1 para-aminobenzoate synthase component I 

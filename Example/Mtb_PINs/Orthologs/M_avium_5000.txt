@@ -1,0 +1,1100 @@
+WP_003402602.1 MULTISPECIES: AURKAIP1/COX24 domain-containing protein 
+WP_003403649.1 MULTISPECIES: 50S ribosomal protein L14 
+WP_003418601.1 MULTISPECIES: translation initiation factor IF-1 
+WP_003419482.1 MULTISPECIES: RNA polymerase-binding transcription factor CarD 
+WP_003419650.1 MULTISPECIES: cold shock protein CspA 
+WP_003872098.1 MULTISPECIES: cell division protein CrgA 
+WP_003872101.1 MULTISPECIES: Stk1 family PASTA domain-containing Ser/Thr kinase 
+WP_003872102.1 MULTISPECIES: serine/threonine protein kinase 
+WP_003872106.1 MULTISPECIES: FHA domain-containing protein 
+WP_003872109.1 MULTISPECIES: acyl carrier protein 
+WP_003872116.1 MULTISPECIES: glutamate synthase subunit beta 
+WP_003872122.1 MULTISPECIES: RNA polymerase-binding protein RbpA 
+WP_003872133.1 MULTISPECIES: ABC transporter ATP-binding protein 
+WP_003872145.1 MULTISPECIES: F420-dependent biliverdin reductase 
+WP_003872162.1 proteasome subunit beta 
+WP_003872163.1 MULTISPECIES: ubiquitin-like protein Pup 
+WP_003872173.1 MULTISPECIES: ATP phosphoribosyltransferase 
+WP_003872174.1 MULTISPECIES: phosphoribosyl-ATP diphosphatase 
+WP_003872187.1 MULTISPECIES: PAC2 family protein 
+WP_003872197.1 MULTISPECIES: MbtH family protein 
+WP_003872205.1 MULTISPECIES: DUF3090 domain-containing protein 
+WP_003872207.1 MULTISPECIES: hypothetical protein 
+WP_003872209.1 MULTISPECIES: hypothetical protein 
+WP_003872213.1 MULTISPECIES: YbhB/YbcL family Raf kinase inhibitor-like protein 
+WP_003872218.1 MULTISPECIES: DivIVA domain-containing protein 
+WP_003872220.1 MULTISPECIES: cell division protein SepF 
+WP_003872223.1 MULTISPECIES: cell division protein FtsZ 
+WP_003872235.1 MULTISPECIES: division/cell wall cluster transcriptional repressor MraZ 
+WP_003872238.1 MULTISPECIES: DUF3153 domain-containing protein 
+WP_003872239.1 MULTISPECIES: hypothetical protein 
+WP_003872245.1 MULTISPECIES: 3-deoxy-7-phosphoheptulonate synthase class II 
+WP_003872263.1 MULTISPECIES: c-type cytochrome 
+WP_003872269.1 MULTISPECIES: cytochrome c oxidase subunit 4 
+WP_003872274.1 MULTISPECIES: iron-sulfur cluster assembly accessory protein 
+WP_003872288.1 MULTISPECIES: hypothetical protein 
+WP_003872292.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_003872293.1 MULTISPECIES: hypothetical protein 
+WP_003872294.1 MULTISPECIES: superoxide dismutase 
+WP_003872295.1 MULTISPECIES: hypothetical protein 
+WP_003872300.1 MULTISPECIES: prephenate dehydratase 
+WP_003872301.1 MULTISPECIES: histidine phosphatase family protein 
+WP_003872302.1 MULTISPECIES: hypothetical protein 
+WP_003872309.1 MULTISPECIES: DUF2834 domain-containing protein 
+WP_003872315.1 MULTISPECIES: 1-acyl-sn-glycerol-3-phosphate acyltransferase 
+WP_003872330.1 MULTISPECIES: DUF4191 domain-containing protein 
+WP_003872332.1 MULTISPECIES: type I glutamate--ammonia ligase 
+WP_003872336.1 MULTISPECIES: type I glutamate--ammonia ligase 
+WP_003872347.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+WP_003872368.1 MULTISPECIES: acyl carrier protein 
+WP_003872378.1 MULTISPECIES: DUF3145 domain-containing protein 
+WP_003872382.1 MULTISPECIES: MBL fold metallo-hydrolase 
+WP_003872384.1 MULTISPECIES: hypothetical protein 
+WP_003872387.1 hypothetical protein 
+WP_003872407.1 sirohydrochlorin chelatase 
+WP_003872409.1 MULTISPECIES: ferredoxin family protein 
+WP_003872412.1 MULTISPECIES: protease inhibitor I42 family protein 
+WP_003872429.1 hypothetical protein 
+WP_003872489.1 MULTISPECIES: ABC transporter permease 
+WP_003872493.1 MULTISPECIES: YeiH family protein 
+WP_003872497.1 MULTISPECIES: cysteine synthase A 
+WP_003872504.1 MULTISPECIES: hypothetical protein 
+WP_003872515.1 MULTISPECIES: transcriptional repressor 
+WP_003872516.1 hypothetical protein 
+WP_003872523.1 MULTISPECIES: HlyC/CorC family transporter 
+WP_003872529.1 MULTISPECIES: DNA-binding protein WhiA 
+WP_003872536.1 MULTISPECIES: hemophore-related protein 
+WP_003872537.1 MULTISPECIES: PH domain-containing protein 
+WP_003872539.1 MULTISPECIES: bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II 
+WP_003872542.1 MULTISPECIES: MFS transporter 
+WP_003872548.1 MULTISPECIES: MarR family transcriptional regulator 
+WP_003872557.1 MULTISPECIES: integration host factor MihF 
+WP_003872558.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_003872564.1 MULTISPECIES: aspartate carbamoyltransferase catalytic subunit 
+WP_003872570.1 MULTISPECIES: phosphatase PAP2 family protein 
+WP_003872575.1 MULTISPECIES: cutinase family protein 
+WP_003872589.1 MULTISPECIES: hypothetical protein 
+WP_003872597.1 MULTISPECIES: ABC transporter permease 
+WP_003872605.1 MULTISPECIES: hypothetical protein 
+WP_003872609.1 MULTISPECIES: DUF4334 domain-containing protein 
+WP_003872612.1 MULTISPECIES: GNAT family N-acetyltransferase 
+WP_003872617.1 ferredoxin family protein 
+WP_003872626.1 MULTISPECIES: transcription antitermination factor NusB 
+WP_003872627.1 MULTISPECIES: elongation factor P 
+WP_003872628.1 MULTISPECIES: aminopeptidase P family protein 
+WP_003872662.1 MULTISPECIES: SRPBCC family protein 
+WP_003872663.1 MULTISPECIES: zinc metallopeptidase 
+WP_003872666.1 helix-turn-helix transcriptional regulator 
+WP_003872680.1 preprotein translocase subunit YajC 
+WP_003872683.1 hypothetical protein 
+WP_003872684.1 MULTISPECIES: Holliday junction branch migration DNA helicase RuvB 
+WP_003872689.1 MULTISPECIES: DUF4247 domain-containing protein 
+WP_003872695.1 MULTISPECIES: transcription elongation factor GreA 
+WP_003872698.1 MULTISPECIES: cystathionine beta-synthase 
+WP_003872701.1 MULTISPECIES: acetyl-CoA C-acetyltransferase 
+WP_003872702.1 MULTISPECIES: Bax inhibitor-1/YccA family protein 
+WP_003872706.1 MULTISPECIES: sulfurtransferase 
+WP_003872707.1 MULTISPECIES: cysteine dioxygenase 
+WP_003872717.1 MULTISPECIES: hypothetical protein 
+WP_003872730.1 MULTISPECIES: DUF501 domain-containing protein 
+WP_003872741.1 MULTISPECIES: LpqN/LpqT family lipoprotein 
+WP_003872743.1 MULTISPECIES: 50S ribosomal protein L25/general stress protein Ctc 
+WP_003872744.1 aminoacyl-tRNA hydrolase 
+WP_003872757.1 TetR/AcrR family transcriptional regulator 
+WP_003872765.1 MULTISPECIES: polysaccharide biosynthesis protein 
+WP_003872782.1 16S rRNA (cytidine(1402)-2'-O)-methyltransferase 
+WP_003872795.1 DUF4442 domain-containing protein 
+WP_003872798.1 MULTISPECIES: hypothetical protein 
+WP_003872805.1 MULTISPECIES: FmdB family transcriptional regulator 
+WP_003872807.1 MULTISPECIES: large-conductance mechanosensitive channel protein MscL 
+WP_003872811.1 MULTISPECIES: two-component system response regulator MprA 
+WP_003872812.1 MULTISPECIES: 50S ribosomal protein L32 
+WP_003872825.1 MULTISPECIES: phosphoribosylglycinamide formyltransferase 
+WP_003872831.1 MULTISPECIES: succinate--CoA ligase subunit alpha 
+WP_003872844.1 MULTISPECIES: LLM class flavin-dependent oxidoreductase 
+WP_003872878.1 MULTISPECIES: DUF4185 domain-containing protein 
+WP_003872880.1 MULTISPECIES: SRPBCC family protein 
+WP_003872893.1 MULTISPECIES: DUF2630 family protein 
+WP_003872895.1 MULTISPECIES: citrate synthase 
+WP_003872897.1 MULTISPECIES: citrate synthase 2 
+WP_003872898.1 MULTISPECIES: VOC family protein 
+WP_003872914.1 MULTISPECIES: cold-shock protein 
+WP_003872942.1 MULTISPECIES: (2Fe-2S)-binding protein 
+WP_003872955.1 MULTISPECIES: cytochrome P450 
+WP_003872980.1 MULTISPECIES: ferredoxin 
+WP_003872991.1 MULTISPECIES: 4-carboxymuconolactone decarboxylase 
+WP_003872994.1 MULTISPECIES: amidohydrolase 
+WP_003872995.1 MULTISPECIES: Rieske (2Fe-2S) protein 
+WP_003872997.1 MULTISPECIES: hypothetical protein 
+WP_003873007.1 MULTISPECIES: ferredoxin 
+WP_003873009.1 MULTISPECIES: ferredoxin 
+WP_003873011.1 MULTISPECIES: hypothetical protein 
+WP_003873012.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003873014.1 MULTISPECIES: acyl-CoA/acyl-ACP dehydrogenase 
+WP_003873015.1 MULTISPECIES: amidohydrolase 
+WP_003873016.1 MULTISPECIES: carboxymuconolactone decarboxylase family protein 
+WP_003873018.1 MULTISPECIES: hypothetical protein 
+WP_003873023.1 MULTISPECIES: DUF4190 domain-containing protein 
+WP_003873026.1 MULTISPECIES: mycofactocin-coupled SDR family oxidoreductase 
+WP_003873034.1 MULTISPECIES: ferredoxin 
+WP_003873039.1 cyclase family protein 
+WP_003873045.1 MULTISPECIES: alpha/beta hydrolase 
+WP_003873049.1 MULTISPECIES: response regulator transcription factor 
+WP_003873053.1 MULTISPECIES: phenolic acid decarboxylase 
+WP_003873056.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_003873066.1 MULTISPECIES: hypothetical protein 
+WP_003873070.1 MULTISPECIES: cold-shock protein 
+WP_003873074.1 MULTISPECIES: ferredoxin 
+WP_003873077.1 MULTISPECIES: hypothetical protein 
+WP_003873082.1 3-methyl-2-oxobutanoate dehydrogenase subunit beta 
+WP_003873084.1 MULTISPECIES: CoA ester lyase 
+WP_003873091.1 MULTISPECIES: MFS transporter 
+WP_003873105.1 MULTISPECIES: holo-ACP synthase 
+WP_003873107.1 DUF1906 domain-containing protein 
+WP_003873112.1 MULTISPECIES: MaoC family dehydratase 
+WP_003873114.1 nuclear transport factor 2 family protein 
+WP_003873121.1 MULTISPECIES: FadR family transcriptional regulator 
+WP_003873130.1 MULTISPECIES: amidohydrolase 
+WP_003873147.1 MULTISPECIES: nuclear transport factor 2 family protein 
+WP_003873162.1 MULTISPECIES: amidohydrolase family protein 
+WP_003873169.1 MULTISPECIES: hypothetical protein 
+WP_003873171.1 MULTISPECIES: enoyl-CoA hydratase/isomerase family protein 
+WP_003873177.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_003873183.1 MULTISPECIES: pyridoxamine 5'-phosphate oxidase family protein 
+WP_003873187.1 MULTISPECIES: hypothetical protein 
+WP_003873191.1 MULTISPECIES: DUF3817 domain-containing protein 
+WP_003873193.1 MULTISPECIES: ribonuclease PH 
+WP_003873208.1 MULTISPECIES: endonuclease NucS 
+WP_003873218.1 MULTISPECIES: DUF2550 domain-containing protein 
+WP_003873219.1 MULTISPECIES: F0F1 ATP synthase subunit epsilon 
+WP_003873220.1 F0F1 ATP synthase subunit beta 
+WP_003873221.1 MULTISPECIES: F0F1 ATP synthase subunit gamma 
+WP_003873223.1 F0F1 ATP synthase subunit B/delta 
+WP_003873226.1 MULTISPECIES: F0F1 ATP synthase subunit A 
+WP_003873228.1 MULTISPECIES: undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase 
+WP_003873231.1 MULTISPECIES: peptide chain release factor 1 
+WP_003873232.1 MULTISPECIES: 50S ribosomal protein L31 
+WP_003873245.1 NUDIX hydrolase 
+WP_003873260.1 MULTISPECIES: zinc-dependent metalloprotease 
+WP_003873266.1 MULTISPECIES: DUF2304 domain-containing protein 
+WP_003873269.1 MULTISPECIES: DNA polymerase III subunit delta' 
+WP_003873275.1 MULTISPECIES: DUF5593 domain-containing protein 
+WP_003873278.1 MULTISPECIES: DUF4244 domain-containing protein 
+WP_003873281.1 MULTISPECIES: TadA family conjugal transfer-associated ATPase 
+WP_003873291.1 MULTISPECIES: peptidase 
+WP_003873302.1 MULTISPECIES: DUF4177 domain-containing protein 
+WP_003873314.1 MULTISPECIES: DUF4193 domain-containing protein 
+WP_003873319.1 MULTISPECIES: STAS domain-containing protein 
+WP_003873320.1 MULTISPECIES: STAS domain-containing protein 
+WP_003873342.1 MULTISPECIES: stage II sporulation protein M 
+WP_003873345.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_003873357.1 DUF4185 domain-containing protein 
+WP_003873365.1 MULTISPECIES: recombination protein RecR 
+WP_003873371.1 class I SAM-dependent methyltransferase 
+WP_003873375.1 MULTISPECIES: hypothetical protein 
+WP_003873384.1 MULTISPECIES: cutinase family protein 
+WP_003873385.1 MULTISPECIES: NAD-dependent epimerase/dehydratase family protein 
+WP_003873391.1 MULTISPECIES: co-chaperone GroES 
+WP_003873395.1 MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE 
+WP_003873402.1 MULTISPECIES: hypothetical protein 
+WP_003873405.1 MULTISPECIES: lipoprotein LpqH 
+WP_003873431.1 MULTISPECIES: 50S ribosomal protein L13 
+WP_003873432.1 MULTISPECIES: WXG100 family type VII secretion target 
+WP_003873443.1 MULTISPECIES: DNA-directed RNA polymerase subunit alpha 
+WP_003873446.1 MULTISPECIES: 30S ribosomal protein S13 
+WP_003873451.1 MULTISPECIES: dTDP-4-dehydrorhamnose 3,5-epimerase 
+WP_003873466.1 MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme 
+WP_003873468.1 MULTISPECIES: hypothetical protein 
+WP_003873476.1 MULTISPECIES: zf-HC2 domain-containing protein 
+WP_003873479.1 MULTISPECIES: adenylate kinase 
+WP_003873493.1 MULTISPECIES: 50S ribosomal protein L15 
+WP_003873494.1 MULTISPECIES: 50S ribosomal protein L30 
+WP_003873495.1 MULTISPECIES: 30S ribosomal protein S5 
+WP_003873497.1 MULTISPECIES: 50S ribosomal protein L6 
+WP_003873498.1 MULTISPECIES: 30S ribosomal protein S8 
+WP_003873499.1 MULTISPECIES: type Z 30S ribosomal protein S14 
+WP_003873500.1 MULTISPECIES: 50S ribosomal protein L5 
+WP_003873501.1 MULTISPECIES: 50S ribosomal protein L24 
+WP_003873506.1 phosphate ABC transporter substrate-binding protein PstS 
+WP_003873509.1 MULTISPECIES: 30S ribosomal protein S17 
+WP_003873510.1 MULTISPECIES: 50S ribosomal protein L29 
+WP_003873511.1 MULTISPECIES: 50S ribosomal protein L16 
+WP_003873514.1 MULTISPECIES: 30S ribosomal protein S19 
+WP_003873515.1 MULTISPECIES: 50S ribosomal protein L2 
+WP_003873516.1 MULTISPECIES: 50S ribosomal protein L23 
+WP_003873518.1 MULTISPECIES: 50S ribosomal protein L3 
+WP_003873519.1 MULTISPECIES: 30S ribosomal protein S10 
+WP_003873526.1 mycofactocin biosynthesis chaperone MftB 
+WP_003873527.1 MULTISPECIES: mycofactocin precursor 
+WP_003873538.1 MULTISPECIES: elongation factor Tu 
+WP_003873540.1 MULTISPECIES: 30S ribosomal protein S7 
+WP_003873542.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003873543.1 MULTISPECIES: DUF3060 domain-containing protein 
+WP_003873545.1 MULTISPECIES: crotonase/enoyl-CoA hydratase family protein 
+WP_003873552.1 MULTISPECIES: ABC transporter ATP-binding protein 
+WP_003873555.1 MULTISPECIES: 50S ribosomal protein L7/L12 
+WP_003873564.1 MULTISPECIES: class I SAM-dependent methyltransferase 
+WP_003873565.1 MULTISPECIES: class I SAM-dependent methyltransferase 
+WP_003873568.1 MULTISPECIES: 50S ribosomal protein L1 
+WP_003873569.1 MULTISPECIES: 50S ribosomal protein L11 
+WP_003873571.1 MULTISPECIES: preprotein translocase subunit SecE 
+WP_003873575.1 MULTISPECIES: 50S ribosomal protein L33 
+WP_003873576.1 MULTISPECIES: type II toxin-antitoxin system VapB family antitoxin 
+WP_003873578.1 MULTISPECIES: hypothetical protein 
+WP_003873583.1 MULTISPECIES: cyanase 
+WP_003873599.1 MULTISPECIES: ABC transporter permease 
+WP_003873614.1 NYN domain-containing protein 
+WP_003873620.1 MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase 
+WP_003873622.1 MULTISPECIES: SulP family inorganic anion transporter 
+WP_003873623.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_003873631.1 hypothetical protein 
+WP_003873642.1 MULTISPECIES: VOC family protein 
+WP_003873645.1 MULTISPECIES: DUF3349 domain-containing protein 
+WP_003873653.1 MULTISPECIES: NAD-dependent epimerase/dehydratase family protein 
+WP_003873658.1 MULTISPECIES: hypothetical protein 
+WP_003873662.1 MULTISPECIES: cytochrome c biogenesis protein CcdA 
+WP_003873668.1 hypothetical protein 
+WP_003873686.1 MULTISPECIES: SGNH/GDSL hydrolase family protein 
+WP_003873687.1 MULTISPECIES: acyltransferase 
+WP_003873689.1 MULTISPECIES: hypothetical protein 
+WP_003873690.1 MULTISPECIES: hypothetical protein 
+WP_003873706.1 MULTISPECIES: class I SAM-dependent methyltransferase 
+WP_003873708.1 MULTISPECIES: SDR family oxidoreductase 
+WP_003873712.1 MULTISPECIES: sugar phosphate isomerase/epimerase 
+WP_003873714.1 MULTISPECIES: Ppx/GppA family phosphatase 
+WP_003873718.1 MULTISPECIES: two-component sensory transduction protein RegX 
+WP_003873723.1 MULTISPECIES: YbjN domain-containing protein 
+WP_003873729.1 MULTISPECIES: DUF2505 domain-containing protein 
+WP_003873735.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_003873739.1 MULTISPECIES: class I SAM-dependent methyltransferase 
+WP_003873747.1 MULTISPECIES: DUF1049 domain-containing protein 
+WP_003873752.1 MULTISPECIES: dihydrolipoyl dehydrogenase 
+WP_003873759.1 MULTISPECIES: hypothetical protein 
+WP_003873761.1 MULTISPECIES: DUF5078 domain-containing protein 
+WP_003873762.1 MULTISPECIES: MMPL family transporter 
+WP_003873763.1 MULTISPECIES: membrane protein 
+WP_003873770.1 MULTISPECIES: PPE family protein 
+WP_003873771.1 MULTISPECIES: hypothetical protein 
+WP_003873775.1 MULTISPECIES: cupin domain-containing protein 
+WP_003873780.1 MULTISPECIES: CDP-diacylglycerol--serine O-phosphatidyltransferase 
+WP_003873789.1 MULTISPECIES: LytR C-terminal domain-containing protein 
+WP_003873790.1 MULTISPECIES: DUF3263 domain-containing protein 
+WP_003873794.1 MULTISPECIES: hypothetical protein 
+WP_003873796.1 MULTISPECIES: hypothetical protein 
+WP_003873805.1 MULTISPECIES: DUF2752 domain-containing protein 
+WP_003873811.1 MULTISPECIES: sulfur carrier protein ThiS 
+WP_003873816.1 MULTISPECIES: glutamate ABC transporter substrate-binding protein 
+WP_003873830.1 MULTISPECIES: DUF3054 domain-containing protein 
+WP_003873831.1 MULTISPECIES: SDR family oxidoreductase 
+WP_003873839.1 MULTISPECIES: rhodanese-like domain-containing protein 
+WP_003873841.1 MULTISPECIES: PaaI family thioesterase 
+WP_003873842.1 MULTISPECIES: adenylosuccinate synthase 
+WP_003873848.1 MULTISPECIES: hypothetical protein 
+WP_003873856.1 MULTISPECIES: hypothetical protein 
+WP_003873857.1 MULTISPECIES: ATP-dependent chaperone ClpB 
+WP_003873863.1 MULTISPECIES: SCP2 sterol-binding domain-containing protein 
+WP_003873874.1 MULTISPECIES: hypothetical protein 
+WP_003873894.1 MULTISPECIES: dCTP deaminase 
+WP_003873919.1 MULTISPECIES: hypothetical protein 
+WP_003873922.1 MULTISPECIES: hypothetical protein 
+WP_003873927.1 MULTISPECIES: hypothetical protein 
+WP_003873928.1 MULTISPECIES: hypothetical protein 
+WP_003874015.1 hypothetical protein 
+WP_003874018.1 NarK/NasA family nitrate transporter 
+WP_003874019.1 MULTISPECIES: TetR family transcriptional regulator 
+WP_003874021.1 MULTISPECIES: allophanate hydrolase subunit 1 
+WP_003874027.1 MULTISPECIES: hypothetical protein 
+WP_003874030.1 MULTISPECIES: Hsp20/alpha crystallin family protein 
+WP_003874031.1 MULTISPECIES: hypothetical protein 
+WP_003874036.1 MULTISPECIES: flavin reductase family protein 
+WP_003874043.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003874046.1 MULTISPECIES: DUF2613 domain-containing protein 
+WP_003874063.1 NADP-dependent succinic semialdehyde dehydrogenase 
+WP_003874069.1 MULTISPECIES: DUF3068 domain-containing protein 
+WP_003874076.1 MULTISPECIES: hypothetical protein 
+WP_003874080.1 MULTISPECIES: alpha/beta hydrolase 
+WP_003874098.1 MULTISPECIES: hemophore 
+WP_003874102.1 L,D-transpeptidase 
+WP_003874104.1 MULTISPECIES: metal-sensitive transcriptional regulator 
+WP_003874105.1 MULTISPECIES: dihydroxy-acid dehydratase 
+WP_003874106.1 MULTISPECIES: SPW repeat protein 
+WP_003874123.1 MULTISPECIES: hypothetical protein 
+WP_003874126.1 MULTISPECIES: MCE family protein 
+WP_003874130.1 MULTISPECIES: virulence factor Mce family protein 
+WP_003874135.1 MULTISPECIES: ABC transporter permease 
+WP_003874137.1 MULTISPECIES: prephenate dehydrogenase 
+WP_003874138.1 MULTISPECIES: tRNA adenosine deaminase-associated protein 
+WP_003874139.1 MULTISPECIES: nucleoside deaminase 
+WP_003874145.1 MULTISPECIES: cellulase family glycosylhydrolase 
+WP_003874146.1 MULTISPECIES: DUF2237 domain-containing protein 
+WP_003874163.1 MULTISPECIES: ABC transporter permease 
+WP_003874164.1 MULTISPECIES: ABC transporter permease 
+WP_003874167.1 MULTISPECIES: SRPBCC family protein 
+WP_003874179.1 MULTISPECIES: DUF427 domain-containing protein 
+WP_003874189.1 MULTISPECIES: glucose 1-dehydrogenase 
+WP_003874193.1 MULTISPECIES: TetR family transcriptional regulator 
+WP_003874194.1 MULTISPECIES: hypothetical protein 
+WP_003874197.1 MULTISPECIES: Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha 
+WP_003874215.1 MULTISPECIES: peptide-methionine (S)-S-oxide reductase MsrA 
+WP_003874233.1 MULTISPECIES: hypothetical protein 
+WP_003874235.1 MULTISPECIES: metal-sensitive transcriptional regulator 
+WP_003874237.1 MULTISPECIES: MarR family transcriptional regulator 
+WP_003874254.1 NADP-dependent oxidoreductase 
+WP_003874286.1 MULTISPECIES: hypothetical protein 
+WP_003874323.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003874328.1 MULTISPECIES: STAS domain-containing protein 
+WP_003874340.1 MULTISPECIES: hypothetical protein 
+WP_003874356.1 RNA polymerase sigma factor SigM 
+WP_003874358.1 thioredoxin-disulfide reductase 
+WP_003874359.1 MULTISPECIES: thioredoxin 
+WP_003874360.1 MULTISPECIES: peptidoglycan-binding protein 
+WP_003874361.1 MULTISPECIES: hypothetical protein 
+WP_003874362.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+WP_003874369.1 MULTISPECIES: 50S ribosomal protein L34 
+WP_003874386.1 MULTISPECIES: DUF742 domain-containing protein 
+WP_003874387.1 MULTISPECIES: ATP/GTP-binding protein 
+WP_003874400.1 MULTISPECIES: WhiB family transcriptional regulator 
+WP_003874404.1 MULTISPECIES: WXG100 family type VII secretion target 
+WP_003874405.1 MULTISPECIES: WXG100 family type VII secretion target 
+WP_003874408.1 MULTISPECIES: TetR family transcriptional regulator 
+WP_003874416.1 MULTISPECIES: haloalkane dehalogenase 
+WP_003874441.1 MULTISPECIES: hypothetical protein 
+WP_003874467.1 MULTISPECIES: tryptophan--tRNA ligase 
+WP_003874469.1 MULTISPECIES: multidrug efflux SMR transporter 
+WP_003874473.1 MULTISPECIES: hypothetical protein 
+WP_003874478.1 MULTISPECIES: succinate dehydrogenase flavoprotein subunit 
+WP_003874481.1 MULTISPECIES: cytidine deaminase 
+WP_003874496.1 MULTISPECIES: gamma-glutamylcyclotransferase 
+WP_003874498.1 MULTISPECIES: glycerol-3-phosphate dehydrogenase/oxidase 
+WP_003874501.1 MULTISPECIES: hypothetical protein 
+WP_003874505.1 MULTISPECIES: prolyl oligopeptidase family serine peptidase 
+WP_003874513.1 MULTISPECIES: Lrp/AsnC family transcriptional regulator 
+WP_003874515.1 MULTISPECIES: hypothetical protein 
+WP_003874516.1 MULTISPECIES: hypothetical protein 
+WP_003874517.1 MULTISPECIES: hypothetical protein 
+WP_003874522.1 MULTISPECIES: SufE family protein 
+WP_003874526.1 MULTISPECIES: acyl-CoA carboxylase subunit beta 
+WP_003874529.1 MULTISPECIES: GtrA family protein 
+WP_003874531.1 MULTISPECIES: 5-(carboxyamino)imidazole ribonucleotide mutase 
+WP_003874535.1 MULTISPECIES: response regulator 
+WP_003874544.1 MULTISPECIES: LCP family protein 
+WP_003874555.1 phosphomannomutase/phosphoglucomutase 
+WP_003874557.1 MULTISPECIES: mannose-6-phosphate isomerase, class I 
+WP_003874563.1 MULTISPECIES: TetR family transcriptional regulator 
+WP_003874564.1 MULTISPECIES: adenosylhomocysteinase 
+WP_003874575.1 MULTISPECIES: cation:proton antiporter regulatory subunit 
+WP_003874582.1 MULTISPECIES: fatty acid desaturase 
+WP_003874583.1 hypothetical protein 
+WP_003874593.1 hypothetical protein 
+WP_003874604.1 MULTISPECIES: biotin/lipoyl-binding carrier protein 
+WP_003874605.1 MULTISPECIES: sensor histidine kinase 
+WP_003874607.1 MULTISPECIES: transcriptional regulator WhiB1 
+WP_003874608.1 MULTISPECIES: diacylglycerol kinase 
+WP_003874613.1 MULTISPECIES: ParA family protein 
+WP_003874619.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003874622.1 MULTISPECIES: TIGR02569 family protein 
+WP_003874625.1 MULTISPECIES: hypothetical protein 
+WP_003874629.1 MULTISPECIES: mycoredoxin Mrx1 
+WP_003874645.1 MULTISPECIES: DMT family transporter 
+WP_003874663.1 MULTISPECIES: hypothetical protein 
+WP_003874670.1 response regulator transcription factor 
+WP_003874674.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_003874710.1 SgcJ/EcaC family oxidoreductase 
+WP_003874715.1 MULTISPECIES: hypothetical protein 
+WP_003874716.1 MULTISPECIES: Crp/Fnr family transcriptional regulator 
+WP_003874730.1 MULTISPECIES: 30S ribosomal protein S18 
+WP_003874732.1 MULTISPECIES: 30S ribosomal protein S6 
+WP_003874738.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_003874755.1 MULTISPECIES: hypothetical protein 
+WP_003874756.1 MULTISPECIES: YqgE/AlgH family protein 
+WP_003874759.1 MULTISPECIES: DUF2710 family protein 
+WP_003874762.1 MULTISPECIES: ESX-1 secretion-associated protein 
+WP_003874774.1 MULTISPECIES: hemophore-related protein 
+WP_003874781.1 MULTISPECIES: acyl-CoA dehydrogenase 
+WP_003874783.1 MULTISPECIES: Rho termination factor N-terminal domain-containing protein 
+WP_003874785.1 MULTISPECIES: chemotaxis protein CheB 
+WP_003874802.1 MULTISPECIES: hypothetical protein 
+WP_003874803.1 MULTISPECIES: MoxR family ATPase 
+WP_003874812.1 MULTISPECIES: NADH-quinone oxidoreductase subunit NuoK 
+WP_003874814.1 MULTISPECIES: NADH-quinone oxidoreductase subunit NuoI 
+WP_003874819.1 MULTISPECIES: NADH-quinone oxidoreductase subunit D 
+WP_003874821.1 MULTISPECIES: NADH-quinone oxidoreductase subunit B 
+WP_003874823.1 MULTISPECIES: response regulator transcription factor 
+WP_003874825.1 MULTISPECIES: nuclear transport factor 2 family protein 
+WP_003874851.1 MULTISPECIES: cell division ATP-binding protein FtsE 
+WP_003874852.1 MULTISPECIES: ABC transporter permease 
+WP_003874853.1 MULTISPECIES: SsrA-binding protein SmpB 
+WP_003874865.1 DUF732 domain-containing protein 
+WP_003874878.1 MULTISPECIES: fluoride efflux transporter CrcB 
+WP_003874884.1 type II toxin-antitoxin system death-on-curing family toxin 
+WP_003874885.1 MULTISPECIES: hypothetical protein 
+WP_003874910.1 phosphotransferase family protein 
+WP_003874911.1 MULTISPECIES: hypothetical protein 
+WP_003874923.1 MULTISPECIES: FadR family transcriptional regulator 
+WP_003874932.1 MULTISPECIES: NAD(P)H-dependent oxidoreductase 
+WP_003874933.1 MULTISPECIES: redoxin NrdH 
+WP_003874934.1 MULTISPECIES: class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI 
+WP_003874941.1 DUF3349 domain-containing protein 
+WP_003874949.1 MULTISPECIES: class I SAM-dependent methyltransferase 
+WP_003874953.1 MULTISPECIES: hypothetical protein 
+WP_003874955.1 MULTISPECIES: acetyltransferase 
+WP_003874971.1 MULTISPECIES: STAS domain-containing protein 
+WP_003874979.1 MULTISPECIES: electron transfer flavoprotein subunit alpha/FixB family protein 
+WP_003874984.1 MULTISPECIES: sensor domain-containing protein 
+WP_003874988.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003874995.1 MULTISPECIES: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC 
+WP_003874997.1 MULTISPECIES: 6-phosphofructokinase 
+WP_003875001.1 MULTISPECIES: DoxX family protein 
+WP_003875015.1 MULTISPECIES: IclR family transcriptional regulator 
+WP_003875033.1 MULTISPECIES: 50S ribosomal protein L28 
+WP_003875043.1 MULTISPECIES: pantetheine-phosphate adenylyltransferase 
+WP_003875053.1 MULTISPECIES: acylphosphatase 
+WP_003875064.1 MULTISPECIES: amidohydrolase family protein 
+WP_003875068.1 MULTISPECIES: nuclear transport factor 2 family protein 
+WP_003875071.1 ribosome maturation factor RimM 
+WP_003875074.1 MULTISPECIES: 50S ribosomal protein L19 
+WP_003875075.1 MULTISPECIES: signal peptidase I 
+WP_003875077.1 MULTISPECIES: DUF2469 domain-containing protein 
+WP_003875087.1 MULTISPECIES: DUF4190 domain-containing protein 
+WP_003875093.1 MULTISPECIES: 30S ribosomal protein S2 
+WP_003875096.1 MULTISPECIES: MarR family transcriptional regulator 
+WP_003875100.1 MULTISPECIES: hypothetical protein 
+WP_003875104.1 MULTISPECIES: CsbD family protein 
+WP_003875105.1 MULTISPECIES: UMP kinase 
+WP_003875106.1 MULTISPECIES: ribosome recycling factor 
+WP_003875132.1 MULTISPECIES: GNAT family N-acetyltransferase 
+WP_003875140.1 MULTISPECIES: ferritin-like domain-containing protein 
+WP_003875142.1 MULTISPECIES: hypothetical protein 
+WP_003875144.1 MULTISPECIES: transcription termination/antitermination protein NusA 
+WP_003875145.1 MULTISPECIES: translation initiation factor IF-2 
+WP_003875146.1 MULTISPECIES: 30S ribosome-binding factor RbfA 
+WP_003875158.1 MULTISPECIES: lipid-transfer protein 
+WP_003875160.1 MULTISPECIES: manganese-binding transcriptional regulator MntR 
+WP_003875161.1 MULTISPECIES: bifunctional riboflavin kinase/FAD synthetase 
+WP_003875165.1 MULTISPECIES: polyribonucleotide nucleotidyltransferase 
+WP_003875184.1 MULTISPECIES: hypothetical protein 
+WP_003875187.1 MULTISPECIES: dienelactone hydrolase family protein 
+WP_003875197.1 MULTISPECIES: antibiotic biosynthesis monooxygenase 
+WP_003875200.1 MULTISPECIES: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase 
+WP_003875204.1 MULTISPECIES: DUF5313 domain-containing protein 
+WP_003875208.1 MULTISPECIES: DUF3046 domain-containing protein 
+WP_003875210.1 MULTISPECIES: recombinase RecA 
+WP_003875228.1 MULTISPECIES: alpha/beta hydrolase 
+WP_003875234.1 MULTISPECIES: metal-dependent transcriptional regulator 
+WP_003875237.1 MULTISPECIES: DUF3039 domain-containing protein 
+WP_003875238.1 MULTISPECIES: YihY/virulence factor BrkB family protein 
+WP_003875245.1 envelope integrity protein Cei 
+WP_003875246.1 MULTISPECIES: DUF4193 domain-containing protein 
+WP_003875247.1 MULTISPECIES: DUF3093 domain-containing protein 
+WP_003875248.1 MULTISPECIES: dUTP diphosphatase 
+WP_003875251.1 MULTISPECIES: OB-fold nucleic acid binding domain-containing protein 
+WP_003875253.1 MULTISPECIES: TrkA family potassium uptake protein 
+WP_003875262.1 MULTISPECIES: enoyl-CoA hydratase/isomerase family protein 
+WP_003875265.1 MULTISPECIES: chlorite dismutase family protein 
+WP_003875268.1 MULTISPECIES: peptide-methionine (R)-S-oxide reductase MsrB 
+WP_003875269.1 arabinofuranan 3-O-arabinosyltransferase 
+WP_003875280.1 MULTISPECIES: hypothetical protein 
+WP_003875325.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003875326.1 MULTISPECIES: DedA family protein 
+WP_003875342.1 MULTISPECIES: 4Fe-4S binding protein 
+WP_003875345.1 MULTISPECIES: cupin domain-containing protein 
+WP_003875355.1 CDP-alcohol phosphatidyltransferase family protein 
+WP_003875366.1 MULTISPECIES: hemolysin III family protein 
+WP_003875370.1 MULTISPECIES: type I pantothenate kinase 
+WP_003875373.1 PhoH family protein 
+WP_003875374.1 polysaccharide deacetylase family protein 
+WP_003875378.1 MULTISPECIES: class II fructose-bisphosphatase 
+WP_003875383.1 MULTISPECIES: exodeoxyribonuclease VII small subunit 
+WP_003875389.1 MULTISPECIES: HNH endonuclease 
+WP_003875392.1 MULTISPECIES: nitroreductase family deazaflavin-dependent oxidoreductase 
+WP_003875404.1 MULTISPECIES: alpha/beta hydrolase 
+WP_003875405.1 MULTISPECIES: VOC family protein 
+WP_003875444.1 MULTISPECIES: PPOX class F420-dependent oxidoreductase 
+WP_003875447.1 MULTISPECIES: hypothetical protein 
+WP_003875450.1 MULTISPECIES: hypothetical protein 
+WP_003875461.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003875463.1 MULTISPECIES: hypothetical protein 
+WP_003875466.1 MULTISPECIES: hemophore-related protein 
+WP_003875467.1 MULTISPECIES: ferredoxin family protein 
+WP_003875473.1 type II toxin-antitoxin system VapB family antitoxin 
+WP_003875476.1 MULTISPECIES: adenylyl-sulfate kinase 
+WP_003875478.1 MULTISPECIES: hypothetical protein 
+WP_003875494.1 alpha/beta hydrolase 
+WP_003875496.1 MULTISPECIES: MHS family MFS transporter 
+WP_003875497.1 MULTISPECIES: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase 
+WP_003875500.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_003875507.1 MULTISPECIES: TIGR00730 family Rossman fold protein 
+WP_003875509.1 MULTISPECIES: dihydropteroate synthase 
+WP_003875515.1 MULTISPECIES: glucose-1-phosphate adenylyltransferase 
+WP_003875521.1 MULTISPECIES: O-methyltransferase 
+WP_003875522.1 MULTISPECIES: RNA polymerase sigma factor SigE 
+WP_003875531.1 MULTISPECIES: hypothetical protein 
+WP_003875534.1 carbohydrate ABC transporter permease 
+WP_003875543.1 MULTISPECIES: SDR family oxidoreductase 
+WP_003875571.1 MULTISPECIES: HIT family protein 
+WP_003875575.1 hypothetical protein 
+WP_003875582.1 MULTISPECIES: DUF3558 domain-containing protein 
+WP_003875593.1 MULTISPECIES: ABC transporter permease 
+WP_003875595.1 MULTISPECIES: PaaI family thioesterase 
+WP_003875603.1 MULTISPECIES: VOC family protein 
+WP_003875612.1 MULTISPECIES: pantoate--beta-alanine ligase 
+WP_003875613.1 MULTISPECIES: aspartate 1-decarboxylase 
+WP_003875614.1 MULTISPECIES: type III pantothenate kinase 
+WP_003875617.1 MULTISPECIES: iron-regulated nucleoid-associated protein Lsr2 
+WP_003875625.1 MULTISPECIES: mycobilin-forming heme oxygenase MhuD 
+WP_003875632.1 MULTISPECIES: hypothetical protein 
+WP_003875644.1 MULTISPECIES: metal ABC transporter permease 
+WP_003875646.1 MULTISPECIES: zinc ABC transporter substrate-binding protein 
+WP_003875653.1 MULTISPECIES: ferredoxin--NADP reductase 
+WP_003875665.1 MULTISPECIES: SDR family oxidoreductase 
+WP_003875673.1 MULTISPECIES: CoA transferase subunit A 
+WP_003875674.1 enoyl-CoA hydratase family protein 
+WP_003875677.1 MULTISPECIES: nitroreductase family deazaflavin-dependent oxidoreductase 
+WP_003875680.1 MULTISPECIES: cytochrome P450 
+WP_003875682.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_003875684.1 MULTISPECIES: MaoC family dehydratase 
+WP_003875689.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+WP_003875691.1 MULTISPECIES: 4-hydroxy-2-oxovalerate aldolase 
+WP_003875700.1 MULTISPECIES: thiolase domain-containing protein 
+WP_003875703.1 acetoacetate decarboxylase family protein 
+WP_003875706.1 MULTISPECIES: crotonase/enoyl-CoA hydratase family protein 
+WP_003875717.1 MULTISPECIES: 3-oxoacyl-ACP reductase 
+WP_003875718.1 MULTISPECIES: ABC transporter permease 
+WP_003875719.1 MULTISPECIES: ABC transporter permease 
+WP_003875728.1 MULTISPECIES: virulence factor Mce family protein 
+WP_003875733.1 MULTISPECIES: hypothetical protein 
+WP_003875735.1 MULTISPECIES: iron export ABC transporter permease subunit FetB 
+WP_003875736.1 MULTISPECIES: enoyl-CoA hydratase 
+WP_003875741.1 MULTISPECIES: hypothetical protein 
+WP_003875752.1 MULTISPECIES: two-component system response regulator PhoP 
+WP_003875754.1 MULTISPECIES: HIT family protein 
+WP_003875756.1 MULTISPECIES: NDMA-dependent alcohol dehydrogenase 
+WP_003875757.1 MULTISPECIES: hypothetical protein 
+WP_003875758.1 MULTISPECIES: ferredoxin 
+WP_003875760.1 MULTISPECIES: SDR family oxidoreductase 
+WP_003875764.1 MULTISPECIES: SDR family oxidoreductase 
+WP_003875780.1 MULTISPECIES: DHA2 family efflux MFS transporter permease subunit 
+WP_003875786.1 MULTISPECIES: phosphoribosylformylglycinamidine synthase subunit PurS 
+WP_003875791.1 MULTISPECIES: encapsulin 
+WP_003875793.1 MULTISPECIES: VOC family protein 
+WP_003875794.1 MULTISPECIES: hypothetical protein 
+WP_003875798.1 MULTISPECIES: amidophosphoribosyltransferase 
+WP_003875800.1 MULTISPECIES: DUF3073 domain-containing protein 
+WP_003875806.1 MULTISPECIES: sulfurtransferase 
+WP_003875810.1 MULTISPECIES: response regulator transcription factor 
+WP_003875815.1 MULTISPECIES: phosphate ABC transporter ATP-binding protein 
+WP_003875816.1 MULTISPECIES: phosphate signaling complex protein PhoU 
+WP_003875819.1 MULTISPECIES: acyl-ACP desaturase 
+WP_003875839.1 MULTISPECIES: HNH endonuclease 
+WP_003875846.1 MULTISPECIES: serine hydrolase 
+WP_003875847.1 MULTISPECIES: trigger factor 
+WP_003875849.1 MULTISPECIES: ATP-dependent CLP protease proteolytic subunit ClpP2 
+WP_003875851.1 MULTISPECIES: ATP-dependent Clp protease ATP-binding subunit ClpX 
+WP_003875859.1 MULTISPECIES: DUF4233 domain-containing protein 
+WP_003875860.1 MULTISPECIES: nucleoside-diphosphate kinase 
+WP_003875862.1 MULTISPECIES: 50S ribosomal protein L21 
+WP_003875863.1 MULTISPECIES: 50S ribosomal protein L27 
+WP_003875882.1 MULTISPECIES: MoxR family ATPase 
+WP_003875893.1 MULTISPECIES: GAP family protein 
+WP_003875900.1 acyl-CoA dehydrogenase family protein 
+WP_003875901.1 acyl-CoA dehydrogenase family protein 
+WP_003875905.1 MULTISPECIES: 30S ribosomal protein S20 
+WP_003875907.1 MULTISPECIES: alpha-E domain-containing protein 
+WP_003875911.1 MULTISPECIES: CBS domain-containing protein 
+WP_003875915.1 MULTISPECIES: glycoside hydrolase family 15 protein 
+WP_003875916.1 MULTISPECIES: hypothetical protein 
+WP_003875919.1 MULTISPECIES: sulfate ABC transporter permease subunit CysT 
+WP_003875920.1 MULTISPECIES: sulfate ABC transporter permease subunit CysW 
+WP_003875921.1 sulfate ABC transporter ATP-binding protein 
+WP_003875922.1 MULTISPECIES: phosphoadenylyl-sulfate reductase 
+WP_003875966.1 type 1 glutamine amidotransferase domain-containing protein 
+WP_003875970.1 MULTISPECIES: GreA/GreB family elongation factor 
+WP_003875974.1 MULTISPECIES: Hsp20 family protein 
+WP_003875975.1 MULTISPECIES: hypothetical protein 
+WP_003875976.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_003875997.1 MULTISPECIES: MbtH family protein 
+WP_003876002.1 MULTISPECIES: type II toxin-antitoxin system VapB family antitoxin 
+WP_003876034.1 MULTISPECIES: hypothetical protein 
+WP_003876052.1 MULTISPECIES: acyltransferase family protein 
+WP_003876056.1 MULTISPECIES: type I glyceraldehyde-3-phosphate dehydrogenase 
+WP_003876059.1 MULTISPECIES: preprotein translocase subunit SecG 
+WP_003876065.1 MULTISPECIES: hypothetical protein 
+WP_003876067.1 MULTISPECIES: glucose-6-phosphate dehydrogenase assembly protein OpcA 
+WP_003876072.1 MULTISPECIES: quinone oxidoreductase 
+WP_003876080.1 MULTISPECIES: Fe-S cluster assembly protein SufD 
+WP_003876081.1 MULTISPECIES: Fe-S cluster assembly ATPase SufC 
+WP_003876090.1 MULTISPECIES: ABC-F family ATP-binding cassette domain-containing protein 
+WP_003876096.1 MULTISPECIES: NlpC/P60 family peptidoglycan endopeptidase RipB 
+WP_003876097.1 MULTISPECIES: MoxR family ATPase 
+WP_003876099.1 MULTISPECIES: VWA domain-containing protein 
+WP_003876107.1 MULTISPECIES: SPFH/Band 7/PHB domain protein 
+WP_003876108.1 DoxX family protein 
+WP_003876117.1 TVP38/TMEM64 family protein 
+WP_003876119.1 methylmalonyl-CoA mutase 
+WP_003876149.1 MULTISPECIES: MmpS family protein 
+WP_003876160.1 MULTISPECIES: signal peptidase II 
+WP_003876172.1 MULTISPECIES: hypothetical protein 
+WP_003876174.1 MULTISPECIES: threonine ammonia-lyase 
+WP_003876178.1 MULTISPECIES: hypothetical protein 
+WP_003876203.1 MULTISPECIES: carboxylating nicotinate-nucleotide diphosphorylase 
+WP_003876211.1 MULTISPECIES: imidazole glycerol phosphate synthase subunit HisF 
+WP_003876232.1 MULTISPECIES: lipid-transfer protein 
+WP_003876237.1 MULTISPECIES: 30S ribosomal protein S1 
+WP_003876239.1 MULTISPECIES: hypothetical protein 
+WP_003876248.1 MULTISPECIES: excinuclease ABC subunit B 
+WP_003876250.1 MULTISPECIES: MgtC/SapB family protein 
+WP_003876267.1 MULTISPECIES: 50S ribosomal protein L35 
+WP_003876268.1 MULTISPECIES: 50S ribosomal protein L20 
+WP_003876276.1 bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ 
+WP_003876279.1 MULTISPECIES: ornithine carbamoyltransferase 
+WP_003876297.1 SDR family oxidoreductase 
+WP_003876305.1 MULTISPECIES: TetR family transcriptional regulator 
+WP_003876314.1 MULTISPECIES: hypothetical protein 
+WP_003876318.1 MULTISPECIES: hypothetical protein 
+WP_003876320.1 MULTISPECIES: CTP synthase 
+WP_003876325.1 MULTISPECIES: segregation/condensation protein A 
+WP_003876326.1 MULTISPECIES: SMC-Scp complex subunit ScpB 
+WP_003876342.1 MULTISPECIES: MFS transporter 
+WP_003876345.1 MULTISPECIES: VOC family protein 
+WP_003876352.1 MULTISPECIES: hypothetical protein 
+WP_003876359.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_003876363.1 TetR family transcriptional regulator C-terminal domain-containing protein 
+WP_003876365.1 MULTISPECIES: PE family protein 
+WP_003876371.1 MULTISPECIES: MFS transporter 
+WP_003876373.1 MULTISPECIES: pyrimidine reductase family protein 
+WP_003876380.1 MULTISPECIES: PadR family transcriptional regulator 
+WP_003876394.1 MULTISPECIES: hydroxylase 
+WP_003876401.1 MULTISPECIES: CsbD family protein 
+WP_003876406.1 MULTISPECIES: hypothetical protein 
+WP_003876429.1 MULTISPECIES: hypothetical protein 
+WP_003876442.1 MULTISPECIES: cytochrome P450 
+WP_003876458.1 MULTISPECIES: ANTAR domain-containing protein 
+WP_003876460.1 MULTISPECIES: hypothetical protein 
+WP_003876467.1 MULTISPECIES: type VII secretion protein EccB 
+WP_003876474.1 MULTISPECIES: PE family protein 
+WP_003876493.1 MULTISPECIES: hypothetical protein 
+WP_003876503.1 MULTISPECIES: DUF881 domain-containing protein 
+WP_003876504.1 MULTISPECIES: small basic family protein 
+WP_003876506.1 MULTISPECIES: glycine cleavage system protein GcvH 
+WP_003876509.1 MULTISPECIES: bifunctional nuclease family protein 
+WP_003876510.1 MULTISPECIES: MerR family transcriptional regulator 
+WP_003876512.1 TetR/AcrR family transcriptional regulator 
+WP_003876517.1 MULTISPECIES: HlyC/CorC family transporter 
+WP_003876524.1 MULTISPECIES: BlaI/MecI/CopY family transcriptional regulator 
+WP_003876525.1 MULTISPECIES: PaaI family thioesterase 
+WP_003876526.1 MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase 
+WP_003876535.1 MULTISPECIES: GlsB/YeaQ/YmgE family stress response membrane protein 
+WP_003876559.1 MULTISPECIES: enoyl-CoA hydratase/isomerase family protein 
+WP_003876560.1 MULTISPECIES: (2Fe-2S)-binding protein 
+WP_003876561.1 MULTISPECIES: bacterioferritin 
+WP_003876563.1 MULTISPECIES: carboxymuconolactone decarboxylase family protein 
+WP_003876576.1 MULTISPECIES: esterase family protein 
+WP_003876581.1 hypothetical protein 
+WP_003876583.1 MULTISPECIES: hypothetical protein 
+WP_003876584.1 MULTISPECIES: nitronate monooxygenase 
+WP_003876587.1 MULTISPECIES: WXG100 family type VII secretion target 
+WP_003876588.1 MULTISPECIES: ESX secretion-associated protein EspG 
+WP_003876604.1 MULTISPECIES: MTH1187 family thiamine-binding protein 
+WP_003876647.1 class I SAM-dependent methyltransferase 
+WP_003876648.1 glycosyltransferase family 4 protein 
+WP_003876660.1 MULTISPECIES: hypothetical protein 
+WP_003876661.1 MULTISPECIES: DUF1345 domain-containing protein 
+WP_003876668.1 MULTISPECIES: hypothetical protein 
+WP_003876669.1 MULTISPECIES: hypothetical protein 
+WP_003876677.1 MULTISPECIES: GAP family protein 
+WP_003876687.1 biotin carboxylase 
+WP_003876689.1 hypothetical protein 
+WP_003876693.1 MULTISPECIES: cellulose-binding domain-containing protein 
+WP_003876708.1 MULTISPECIES: hypothetical protein 
+WP_003876709.1 hypothetical protein 
+WP_003876712.1 NAD(P)-binding domain-containing protein 
+WP_003876723.1 MULTISPECIES: NAD(P)-dependent oxidoreductase 
+WP_003876728.1 MULTISPECIES: hypothetical protein 
+WP_003876741.1 MULTISPECIES: carbohydrate ABC transporter permease 
+WP_003876748.1 MULTISPECIES: DoxX family membrane protein 
+WP_003876749.1 MULTISPECIES: zeta toxin family protein 
+WP_003876760.1 MULTISPECIES: TetR family transcriptional regulator 
+WP_003876767.1 hypothetical protein 
+WP_003876775.1 MULTISPECIES: single-stranded DNA-binding protein 
+WP_003876776.1 MULTISPECIES: membrane protein insertion efficiency factor YidD 
+WP_003876787.1 MULTISPECIES: DUF881 domain-containing protein 
+WP_003876791.1 MULTISPECIES: D,D-transpeptidase PbpA 
+WP_003876900.1 MULTISPECIES: nuclear transport factor 2 family protein 
+WP_003876908.1 MULTISPECIES: PPE family protein 
+WP_003876911.1 MULTISPECIES: MinD/ParA family protein 
+WP_003876914.1 MULTISPECIES: type VII secretion protein EccE 
+WP_003876945.1 MULTISPECIES: UDP-galactopyranose mutase 
+WP_003876963.1 MULTISPECIES: FAD-binding oxidoreductase 
+WP_003876975.1 MULTISPECIES: hypothetical protein 
+WP_003876976.1 MULTISPECIES: two-component system response regulator TcrX 
+WP_003876981.1 MULTISPECIES: NADPH:quinone oxidoreductase family protein 
+WP_003876987.1 MULTISPECIES: putative glycolipid-binding domain-containing protein 
+WP_003877006.1 MULTISPECIES: aspartate-semialdehyde dehydrogenase 
+WP_003877007.1 MULTISPECIES: aspartate kinase 
+WP_003877008.1 MULTISPECIES: DEDDh family exonuclease 
+WP_003877012.1 MULTISPECIES: lipoprotein LpqH 
+WP_003877040.1 MULTISPECIES: LLM class F420-dependent oxidoreductase 
+WP_003877046.1 MULTISPECIES: anti-sigma regulatory factor 
+WP_003877048.1 MULTISPECIES: STAS domain-containing protein 
+WP_003877049.1 MULTISPECIES: hypothetical protein 
+WP_003877056.1 MULTISPECIES: cAMP-activated global transcriptional regulator CRP 
+WP_003877057.1 MULTISPECIES: hypothetical protein 
+WP_003877060.1 MULTISPECIES: acid resistance serine protease MarP 
+WP_003877070.1 MULTISPECIES: hypothetical protein 
+WP_003877071.1 MULTISPECIES: HAD-IB family hydrolase 
+WP_003877098.1 MULTISPECIES: ATP-dependent zinc metalloprotease FtsH 
+WP_003877099.1 MULTISPECIES: GTP cyclohydrolase I FolE 
+WP_003877107.1 MULTISPECIES: carbonic anhydrase 
+WP_003877118.1 MULTISPECIES: cholesterol catabolism transcriptional regulator KstR 
+WP_003877138.1 MULTISPECIES: hypothetical protein 
+WP_003877141.1 MULTISPECIES: sulfotransferase 
+WP_003877146.1 MULTISPECIES: OB-fold nucleic acid binding domain-containing protein 
+WP_003877155.1 MULTISPECIES: ferredoxin 
+WP_003877168.1 hypothetical protein 
+WP_003877203.1 MULTISPECIES: phosphoribosylformylglycinamidine cyclo-ligase 
+WP_003877205.1 MULTISPECIES: DUF1416 domain-containing protein 
+WP_003877227.1 MULTISPECIES: hypothetical protein 
+WP_003877239.1 SDR family oxidoreductase 
+WP_003877242.1 amidohydrolase family protein 
+WP_003877248.1 MULTISPECIES: nuclear transport factor 2 family protein 
+WP_003877260.1 MULTISPECIES: ferredoxin 
+WP_003877272.1 MULTISPECIES: nitroreductase family protein 
+WP_003877279.1 MULTISPECIES: VOC family protein 
+WP_003877292.1 MULTISPECIES: ATP synthase subunit I 
+WP_003877295.1 MULTISPECIES: F0F1 ATP synthase subunit alpha 
+WP_003877305.1 MULTISPECIES: SDR family oxidoreductase 
+WP_003877344.1 MULTISPECIES: DUF2530 domain-containing protein 
+WP_003877354.1 MULTISPECIES: MFS transporter 
+WP_003877357.1 MULTISPECIES: hypothetical protein 
+WP_003877382.1 enoyl-CoA hydratase/isomerase family protein 
+WP_003877411.1 MULTISPECIES: ferredoxin 
+WP_003877418.1 MULTISPECIES: DUF3618 domain-containing protein 
+WP_003877431.1 MULTISPECIES: enoyl-CoA hydratase 
+WP_003877446.1 MULTISPECIES: hypothetical protein 
+WP_003877474.1 Nramp family divalent metal transporter 
+WP_003877478.1 MULTISPECIES: mannitol dehydrogenase family protein 
+WP_003877490.1 DUF5336 domain-containing protein 
+WP_003877494.1 MULTISPECIES: DUF1707 domain-containing protein 
+WP_003877502.1 MULTISPECIES: UTP--glucose-1-phosphate uridylyltransferase 
+WP_003877535.1 MULTISPECIES: ribose-phosphate diphosphokinase 
+WP_003877537.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003877541.1 MULTISPECIES: lytic transglycosylase family protein 
+WP_003877544.1 MULTISPECIES: hypothetical protein 
+WP_003877545.1 MULTISPECIES: response regulator 
+WP_003877554.1 MULTISPECIES: PPE family protein 
+WP_003877574.1 MULTISPECIES: crossover junction endodeoxyribonuclease RuvC 
+WP_003877602.1 MULTISPECIES: endolytic transglycosylase MltG 
+WP_003877606.1 MULTISPECIES: acyl-CoA dehydrogenase 
+WP_003877611.1 MULTISPECIES: B-4DMT family transporter 
+WP_003877628.1 MULTISPECIES: LppX_LprAFG lipoprotein 
+WP_003877642.1 MULTISPECIES: wax ester/triacylglycerol synthase family O-acyltransferase 
+WP_003877649.1 DUF4239 domain-containing protein 
+WP_003877663.1 MULTISPECIES: thioredoxin 
+WP_003877688.1 MULTISPECIES: MbtH family protein 
+WP_003877725.1 NUDIX hydrolase 
+WP_003877734.1 MULTISPECIES: calcium:proton antiporter 
+WP_003877736.1 MULTISPECIES: indole-3-glycerol phosphate synthase TrpC 
+WP_003877740.1 MULTISPECIES: pyruvate kinase 
+WP_003877789.1 MULTISPECIES: hypothetical protein 
+WP_003877794.1 DUF732 domain-containing protein 
+WP_003877806.1 MULTISPECIES: DUF4383 domain-containing protein 
+WP_003877808.1 MULTISPECIES: MbtH family protein 
+WP_003877871.1 MULTISPECIES: enoyl-CoA hydratase/isomerase family protein 
+WP_003877884.1 MULTISPECIES: type VII secretion protein EccC 
+WP_003877960.1 MULTISPECIES: winged helix-turn-helix transcriptional regulator 
+WP_003877981.1 MULTISPECIES: FKBP-type peptidyl-prolyl cis-trans isomerase 
+WP_003878051.1 MULTISPECIES: hypothetical protein 
+WP_003878054.1 MULTISPECIES: PPOX class F420-dependent oxidoreductase 
+WP_003878076.1 MULTISPECIES: Sec-independent protein translocase subunit TatA 
+WP_003878078.1 MULTISPECIES: Pup--protein ligase 
+WP_003878110.1 MULTISPECIES: YggT family protein 
+WP_003878126.1 MULTISPECIES: Rv2175c family DNA-binding protein 
+WP_003878132.1 MULTISPECIES: 1-acyl-sn-glycerol-3-phosphate acyltransferase 
+WP_003878146.1 MULTISPECIES: glycerate kinase 
+WP_003878156.1 MULTISPECIES: hypothetical protein 
+WP_003878184.1 MULTISPECIES: low molecular weight phosphotyrosine protein phosphatase 
+WP_003878191.1 MULTISPECIES: PucR family transcriptional regulator 
+WP_003878192.1 MULTISPECIES: ACP S-malonyltransferase 
+WP_003878208.1 MULTISPECIES: hypothetical protein 
+WP_003878228.1 MULTISPECIES: type II toxin-antitoxin system HicB family antitoxin 
+WP_003878254.1 MULTISPECIES: DUF732 domain-containing protein 
+WP_003878272.1 MULTISPECIES: LppP/LprE family lipoprotein 
+WP_003878281.1 MULTISPECIES: hypothetical protein 
+WP_003878297.1 MULTISPECIES: NUDIX hydrolase 
+WP_003878318.1 hypothetical protein 
+WP_003878322.1 MULTISPECIES: DNA repair protein RecO 
+WP_003878323.1 MULTISPECIES: GTPase Era 
+WP_003878346.1 thioesterase 
+WP_003878365.1 MULTISPECIES: hypothetical protein 
+WP_003878386.1 MULTISPECIES: circularly permuted type 2 ATP-grasp protein 
+WP_003878433.1 MULTISPECIES: FAD-binding protein 
+WP_003878471.1 MULTISPECIES: DUF3117 domain-containing protein 
+WP_003878473.1 MULTISPECIES: glucosyl-3-phosphoglycerate synthase 
+WP_003878503.1 NAD-dependent deacylase 
+WP_003878551.1 MULTISPECIES: isoprenyl transferase 
+WP_003878553.1 MULTISPECIES: pyridoxal 5'-phosphate synthase lyase subunit PdxS 
+WP_003878561.1 MULTISPECIES: hypothetical protein 
+WP_003878609.1 MULTISPECIES: ArsB/NhaD family transporter 
+WP_003878611.1 MULTISPECIES: TrkA family potassium uptake protein 
+WP_003878612.1 MULTISPECIES: DUF3159 domain-containing protein 
+WP_003878617.1 MULTISPECIES: hypothetical protein 
+WP_003878620.1 MULTISPECIES: Si-specific NAD(P)(+) transhydrogenase 
+WP_003878638.1 MULTISPECIES: amino-acid N-acetyltransferase 
+WP_003878641.1 MULTISPECIES: FAD-dependent thymidylate synthase 
+WP_003878661.1 MULTISPECIES: 30S ribosomal protein S15 
+WP_003878665.1 MULTISPECIES: metallophosphoesterase 
+WP_003878710.1 YifB family Mg chelatase-like AAA ATPase 
+WP_003878714.1 MULTISPECIES: SDR family oxidoreductase 
+WP_003878715.1 MULTISPECIES: RNA-binding protein 
+WP_003878721.1 MULTISPECIES: nitrogen regulatory protein P-II 
+WP_003878726.1 MULTISPECIES: OsmC family protein 
+WP_003878734.1 MULTISPECIES: hypothetical protein 
+WP_003878741.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+WP_003878744.1 MULTISPECIES: acetolactate synthase small subunit 
+WP_003878760.1 MULTISPECIES: electron transfer flavoprotein subunit beta/FixA family protein 
+WP_003878774.1 MULTISPECIES: phosphoserine phosphatase SerB 
+WP_003878775.1 MULTISPECIES: cytochrome c oxidase subunit I 
+WP_003878798.1 MULTISPECIES: hypothetical protein 
+WP_003878805.1 hypothetical protein 
+WP_003878829.1 MULTISPECIES: pyridoxamine 5'-phosphate oxidase family protein 
+WP_003878881.1 MULTISPECIES: metal-dependent hydrolase 
+WP_003878948.1 MULTISPECIES: hypothetical protein 
+WP_003878951.1 MULTISPECIES: WhiB family transcriptional regulator 
+WP_003878952.1 MULTISPECIES: 2-phospho-L-lactate transferase 
+WP_003878954.1 MULTISPECIES: glycosyltransferase family 2 protein 
+WP_003878960.1 MULTISPECIES: acyl-CoA dehydrogenase 
+WP_003878966.1 MULTISPECIES: sulfurtransferase 
+WP_003878969.1 MULTISPECIES: RNA polymerase sigma factor SigF 
+WP_003878970.1 MULTISPECIES: hypothetical protein 
+WP_003878975.1 MULTISPECIES: PPE family protein 
+WP_003878986.1 purine-nucleoside phosphorylase 
+WP_003879003.1 MULTISPECIES: DUF3017 domain-containing protein 
+WP_003879053.1 MULTISPECIES: metallophosphoesterase 
+WP_003879057.1 acyl-CoA dehydrogenase family protein 
+WP_003879062.1 MULTISPECIES: TOBE domain-containing protein 
+WP_003879063.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003879085.1 MULTISPECIES: alpha/beta hydrolase 
+WP_003879093.1 MULTISPECIES: virulence factor Mce family protein 
+WP_003879120.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003879129.1 MULTISPECIES: LysR family transcriptional regulator 
+WP_003879144.1 MULTISPECIES: acyl-CoA dehydrogenase C-terminal domain-containing protein 
+WP_003879185.1 MULTISPECIES: WXG100 family type VII secretion target 
+WP_003879192.1 MULTISPECIES: sulfatase 
+WP_003879195.1 MULTISPECIES: L,D-transpeptidase 
+WP_003879204.1 MULTISPECIES: glycoside hydrolase family 16 protein 
+WP_003879222.1 MULTISPECIES: glucose-1-phosphate thymidylyltransferase RfbA 
+WP_003879233.1 MULTISPECIES: molecular chaperone DnaJ 
+WP_003879269.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_003879271.1 MULTISPECIES: hypothetical protein 
+WP_003879295.1 MULTISPECIES: carboxymuconolactone decarboxylase family protein 
+WP_003879297.1 MULTISPECIES: acyl-
+WP_003879303.1 MULTISPECIES: DUF2516 family protein 
+WP_003879313.1 MULTISPECIES: hypothetical protein 
+WP_003879324.1 MULTISPECIES: glutamyl-tRNA reductase 
+WP_003879350.1 MULTISPECIES: 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase 
+WP_003879353.1 MULTISPECIES: demethylmenaquinone methyltransferase 
+WP_003879355.1 MULTISPECIES: DUF732 domain-containing protein 
+WP_003879388.1 type II toxin-antitoxin system ParD family antitoxin 
+WP_003879399.1 MULTISPECIES: class I SAM-dependent methyltransferase 
+WP_003879406.1 MULTISPECIES: (3R)-hydroxyacyl-ACP dehydratase subunit HadB 
+WP_003879407.1 MULTISPECIES: (3R)-hydroxyacyl-ACP dehydratase subunit HadC 
+WP_003879423.1 MULTISPECIES: 30S ribosomal protein S12 
+WP_003879424.1 MULTISPECIES: elongation factor G 
+WP_003879434.1 MULTISPECIES: mycofactocin system transcriptional regulator 
+WP_003879460.1 MULTISPECIES: GNAT family N-acetyltransferase 
+WP_003879461.1 MULTISPECIES: preprotein translocase subunit SecY 
+WP_003879483.1 MULTISPECIES: 50S ribosomal protein L36 
+WP_003879486.1 MULTISPECIES: 30S ribosomal protein S11 
+WP_003879511.1 MULTISPECIES: glutamine--fructose-6-phosphate transaminase (isomerizing) 
+WP_003879523.1 MULTISPECIES: DUF5319 domain-containing protein 
+WP_004571437.1 MULTISPECIES: NADH-quinone oxidoreductase subunit A 
+WP_007167169.1 MULTISPECIES: DUF1275 domain-containing protein 
+WP_007168097.1 MULTISPECIES: two-component system response regulator MtrA 
+WP_008254072.1 MULTISPECIES: MogA/MoaB family molybdenum cofactor biosynthesis protein 
+WP_008257334.1 MULTISPECIES: DUF1778 domain-containing protein 
+WP_008257335.1 MULTISPECIES: GNAT family N-acetyltransferase 
+WP_008257338.1 MULTISPECIES: DUF732 domain-containing protein 
+WP_008257340.1 MULTISPECIES: M56 family metallopeptidase 
+WP_008257399.1 MULTISPECIES: PE family protein 
+WP_008257404.1 MULTISPECIES: WXG100 family type VII secretion target 
+WP_008257405.1 MULTISPECIES: WXG100 family type VII secretion target 
+WP_008257408.1 MULTISPECIES: LuxR family transcriptional regulator 
+WP_008257409.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+WP_008257410.1 MULTISPECIES: cytochrome P450 
+WP_008257411.1 MULTISPECIES: nuclear transport factor 2 family protein 
+WP_008257415.1 MULTISPECIES: nitroreductase family deazaflavin-dependent oxidoreductase 
+WP_008257416.1 MULTISPECIES: NADH-quinone oxidoreductase subunit A 
+WP_008257418.1 MULTISPECIES: NADH-quinone oxidoreductase subunit H 
+WP_008257421.1 MULTISPECIES: NADH-quinone oxidoreductase subunit J 
+WP_008257429.1 MULTISPECIES: NADH-quinone oxidoreductase subunit K 
+WP_008257430.1 MULTISPECIES: NADH dehydrogenase 
+WP_008257432.1 MULTISPECIES: NADH-quinone oxidoreductase subunit M 
+WP_008257434.1 MULTISPECIES: NADH-quinone oxidoreductase subunit N 
+WP_008257435.1 MULTISPECIES: IS21-like element helper ATPase IstB 
+WP_008257437.1 MULTISPECIES: HAMP domain-containing protein 
+WP_008257440.1 MULTISPECIES: PLP-dependent cysteine synthase family protein 
+WP_008257445.1 MULTISPECIES: hypothetical protein 
+WP_008257447.1 MULTISPECIES: DegT/DnrJ/EryC1/StrS family aminotransferase 
+WP_008257450.1 MULTISPECIES: GMC family oxidoreductase 
+WP_008257453.1 MULTISPECIES: hypothetical protein 
+WP_008257454.1 MULTISPECIES: hypothetical protein 
+WP_008257463.1 MULTISPECIES: carbon-nitrogen hydrolase family protein 
+WP_008257465.1 MULTISPECIES: alpha/beta fold hydrolase 
+WP_008257468.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_008257471.1 MULTISPECIES: response regulator transcription factor 
+WP_008257473.1 MULTISPECIES: HAMP domain-containing protein 
+WP_008257477.1 MULTISPECIES: hypothetical protein 
+WP_008257479.1 MULTISPECIES: DUF1275 domain-containing protein 
+WP_008257484.1 MULTISPECIES: non-ribosomal peptide synthetase 
+WP_008257486.1 MULTISPECIES: non-ribosomal peptide synthetase 
+WP_008257491.1 MULTISPECIES: thioesterase 
+WP_008257493.1 MULTISPECIES: polyketide synthase 
+WP_008257498.1 MULTISPECIES: copper-translocating P-type ATPase 
+WP_008257501.1 MULTISPECIES: metal-sensitive transcriptional regulator 
+WP_008257502.1 MULTISPECIES: hypothetical protein 
+WP_008257503.1 MULTISPECIES: PLP-dependent cysteine synthase family protein 
+WP_008257505.1 MULTISPECIES: alanine racemase 
+WP_008257507.1 MULTISPECIES: MFS transporter 
+WP_008257509.1 MULTISPECIES: DDE-type integrase/transposase/recombinase 
+WP_008257522.1 MULTISPECIES: hypothetical protein 
+WP_008257533.1 MULTISPECIES: hypothetical protein 
+WP_008257535.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+WP_008257537.1 MULTISPECIES: site-specific integrase 
+WP_009974147.1 MULTISPECIES: DNA polymerase III subunit beta 
+WP_009974152.1 MULTISPECIES: DNA topoisomerase (ATP-hydrolyzing) subunit B 
+WP_009974159.1 MULTISPECIES: peptidylprolyl isomerase 
+WP_009974170.1 MULTISPECIES: aminodeoxychorismate/anthranilate synthase component II 
+WP_009974199.1 MULTISPECIES: WhiB family transcriptional regulator 
+WP_009974204.1 MULTISPECIES: DUF2694 family protein 
+WP_009974218.1 MULTISPECIES: MarR family transcriptional regulator 
+WP_009974222.1 MULTISPECIES: LLM class F420-dependent oxidoreductase 
+WP_009974245.1 MULTISPECIES: 50S ribosomal protein L9 
+WP_009974263.1 SDR family oxidoreductase 
+WP_009974325.1 wax ester/triacylglycerol synthase family O-acyltransferase 
+WP_009974331.1 MULTISPECIES: class I SAM-dependent methyltransferase 
+WP_009974345.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_009974399.1 MULTISPECIES: glutamate synthase large subunit 
+WP_009974409.1 MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase 
+WP_009974423.1 MULTISPECIES: glycerophosphodiester phosphodiesterase 
+WP_009974442.1 MULTISPECIES: 1-acyl-sn-glycerol-3-phosphate acyltransferase 
+WP_009974449.1 MULTISPECIES: glycosyltransferase 
+WP_009974458.1 MULTISPECIES: AMP-binding protein 
+WP_009974491.1 MULTISPECIES: glycosyltransferase family 2 protein 
+WP_009974494.1 MULTISPECIES: bacterial proteasome activator family protein 
+WP_009974504.1 MULTISPECIES: histidinol-phosphate transaminase 
+WP_009974505.1 MULTISPECIES: hypothetical protein 
+WP_009974507.1 MULTISPECIES: phosphotransferase family protein 
+WP_009974545.1 MULTISPECIES: hypothetical protein 
+WP_009974553.1 GntR family transcriptional regulator 
+WP_009974571.1 MULTISPECIES: SDR family oxidoreductase 
+WP_009974576.1 MULTISPECIES: wax ester/triacylglycerol synthase family O-acyltransferase 
+WP_009974592.1 MULTISPECIES: hypothetical protein 
+WP_009974602.1 MULTISPECIES: SRPBCC family protein 
+WP_009974668.1 MULTISPECIES: selenide, water dikinase SelD 
+WP_009974681.1 SpoIIE family protein phosphatase 
+WP_009974683.1 MULTISPECIES: hypothetical protein 
+WP_009974684.1 MULTISPECIES: restriction endonuclease 
+WP_009974685.1 MULTISPECIES: GAF and ANTAR domain-containing protein 
+WP_009974686.1 MULTISPECIES: TIGR03086 family protein 
+WP_009974693.1 MULTISPECIES: RidA family protein 
+WP_009974700.1 MULTISPECIES: phage holin family protein 
+WP_009974726.1 MULTISPECIES: hypothetical protein 
+WP_009974729.1 MULTISPECIES: inorganic diphosphatase 
+WP_009974755.1 MULTISPECIES: DNA integrity scanning protein DisA 
+WP_009974774.1 MULTISPECIES: VOC family protein 
+WP_009974781.1 MULTISPECIES: acetyl-CoA C-acetyltransferase 
+WP_009974801.1 acetaldehyde dehydrogenase (acetylating) 
+WP_009974805.1 SDR family oxidoreductase 
+WP_009974810.1 MULTISPECIES: 3-ketosteroid-9-alpha-hydroxylase subunit A 
+WP_009974821.1 MULTISPECIES: fructosamine kinase family protein 
+WP_009974832.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_009974839.1 MULTISPECIES: virulence factor Mce family protein 
+WP_009974843.1 MULTISPECIES: mammalian cell entry protein 
+WP_009974845.1 MULTISPECIES: hypothetical protein 
+WP_009974848.1 MULTISPECIES: trehalose-6-phosphate synthase 
+WP_009974853.1 phosphate ABC transporter ATP-binding protein 
+WP_009974856.1 MULTISPECIES: SDR family oxidoreductase 
+WP_009974886.1 MULTISPECIES: carboxymuconolactone decarboxylase family protein 
+WP_009974898.1 DUF429 domain-containing protein 
+WP_009974899.1 adenylosuccinate lyase 
+WP_009974900.1 cytochrome P450 
+WP_009974901.1 MULTISPECIES: hypothetical protein 
+WP_009974902.1 phosphoribosylaminoimidazolesuccinocarboxamide synthase 
+WP_009974914.1 MULTISPECIES: MBL fold metallo-hydrolase 
+WP_009974919.1 MULTISPECIES: cupin domain-containing protein 
+WP_009974934.1 MULTISPECIES: FABP family protein 
+WP_009974940.1 MULTISPECIES: phosphate ABC transporter permease subunit PstC 
+WP_009974941.1 MULTISPECIES: phosphate ABC transporter permease PstA 
+WP_009974975.1 MULTISPECIES: hypothetical protein 
+WP_009974980.1 MULTISPECIES: cobalamin B12-binding domain-containing protein 
+WP_009974995.1 bifunctional 3-(3-hydroxy-phenyl)propionate/3-hydroxycinnamic acid hydroxylase 
+WP_009975001.1 MULTISPECIES: coniferyl-alcohol dehydrogenase 
+WP_009975009.1 cytochrome P450 
+WP_009975019.1 MULTISPECIES: TetR/AcrR family transcriptional regulator 
+WP_009975020.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_009975022.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_009975024.1 MULTISPECIES: aromatic ring-hydroxylating dioxygenase subunit alpha 
+WP_009975031.1 MULTISPECIES: DUF1330 domain-containing protein 
+WP_009975059.1 MULTISPECIES: cytochrome P450 
+WP_009975090.1 MULTISPECIES: amidohydrolase 
+WP_009975099.1 MULTISPECIES: acetyl-CoA C-acetyltransferase 
+WP_009975111.1 MULTISPECIES: antibiotic biosynthesis monooxygenase 
+WP_009975122.1 MULTISPECIES: MoaD/ThiS family protein 
+WP_009975123.1 MULTISPECIES: GTP 3',8-cyclase MoaA 
+WP_009975124.1 MULTISPECIES: YccF domain-containing protein 
+WP_009975136.1 MULTISPECIES: MarR family transcriptional regulator 
+WP_009975141.1 diiron oxygenase 
+WP_009975150.1 glycosyltransferase family 4 protein 
+WP_009975158.1 MULTISPECIES: enoyl-CoA hydratase 
+WP_009975169.1 MULTISPECIES: LLM class F420-dependent oxidoreductase 
+WP_009975178.1 MULTISPECIES: phosphate ABC transporter permease subunit PstC 
+WP_009975180.1 MULTISPECIES: Ku protein 
+WP_009975181.1 MULTISPECIES: carbohydrate kinase 
+WP_009975186.1 MULTISPECIES: mannitol dehydrogenase family protein 
+WP_009975214.1 hypothetical protein 
+WP_009975221.1 acetyl-CoA acetyltransferase 
+WP_009975246.1 GNAT family N-acetyltransferase 
+WP_009975262.1 MULTISPECIES: DUF5642 family protein 
+WP_009975275.1 MULTISPECIES: response regulator transcription factor 
+WP_009975278.1 MULTISPECIES: potassium-transporting ATPase subunit KdpA 
+WP_009975280.1 MULTISPECIES: potassium-transporting ATPase subunit C 
+WP_009975281.1 MULTISPECIES: sensor histidine kinase KdpD 
+WP_009975288.1 diaminopimelate decarboxylase 
+WP_009975291.1 MULTISPECIES: arsenate reductase (glutaredoxin) 
+WP_009975300.1 MULTISPECIES: PAS domain-containing protein 
+WP_009975311.1 MULTISPECIES: dTDP-4-dehydrorhamnose 3,5-epimerase family protein 
+WP_009975343.1 MULTISPECIES: class II glutamine amidotransferase 
+WP_009975361.1 MULTISPECIES: SGNH/GDSL hydrolase family protein 
+WP_009975397.1 MULTISPECIES: hypothetical protein 
+WP_009975457.1 crotonase/enoyl-CoA hydratase family protein 
+WP_009975461.1 CPBP family intramembrane metalloprotease 
+WP_009975462.1 MULTISPECIES: enoyl-CoA hydratase 
+WP_009975474.1 GntR family transcriptional regulator 
+WP_009975493.1 cell division protein DivIVA 
+WP_009975529.1 MULTISPECIES: L-glutamate gamma-semialdehyde dehydrogenase 
+WP_009975561.1 MULTISPECIES: DivIVA domain-containing protein 
+WP_009975588.1 MULTISPECIES: sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC 
+WP_009975593.1 MULTISPECIES: magnesium/cobalt transporter CorA 
+WP_009975594.1 MULTISPECIES: malate dehydrogenase 
+WP_009975626.1 MULTISPECIES: ferredoxin 
+WP_009975665.1 MULTISPECIES: ABC transporter family substrate-binding protein 
+WP_009975672.1 MULTISPECIES: carbonic anhydrase 
+WP_009975678.1 MULTISPECIES: RrF2 family transcriptional regulator 
+WP_009975679.1 MULTISPECIES: VOC family protein 
+WP_009975685.1 MULTISPECIES: nuclear transport factor 2 family protein 
+WP_009975745.1 MULTISPECIES: glutamate racemase 
+WP_009975791.1 MULTISPECIES: TetR/AcrR family transcriptional regulator C-terminal domain-containing protein 
+WP_009975808.1 Rieske (2Fe-2S) protein 
+WP_009975825.1 MULTISPECIES: acyl-CoA dehydrogenase family protein 
+WP_009975829.1 MULTISPECIES: cytochrome b/b6 domain-containing protein 
+WP_009975830.1 MULTISPECIES: hypothetical protein 
+WP_009975887.1 MULTISPECIES: hypothetical protein 
+WP_009975893.1 MULTISPECIES: oligoribonuclease 
+WP_009975896.1 MULTISPECIES: SDR family oxidoreductase 
+WP_009975922.1 bifunctional copper resistance protein CopD/cytochrome c oxidase assembly protein 
+WP_009975923.1 single-stranded DNA-binding protein 
+WP_009975926.1 MULTISPECIES: acyl-CoA thioesterase 
+WP_009975930.1 MULTISPECIES: globin 
+WP_009975933.1 MULTISPECIES: DsbA family protein 
+WP_009975941.1 MULTISPECIES: ATP-dependent Clp protease proteolytic subunit 
+WP_009975964.1 valine--tRNA ligase 
