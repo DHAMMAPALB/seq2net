@@ -1,0 +1,1136 @@
+{"results": {
+    "reference": {
+        "organism": "Mycobacterium tuberculosis",
+        "mapped_count": 3993,
+        "unmapped_count": 0
+    },
+    "input_list": {
+        "organism": "Mycobacterium tuberculosis",
+        "mapped_count": 20,
+        "mapped_id": [
+            "rplC",
+            "pstC2",
+            "purB",
+            "rplE",
+            "thiE",
+            "rpsH",
+            "Rv0199",
+            "rplK",
+            "Rv0458",
+            "phoT",
+            "Rv0147",
+            "Rv0223c",
+            "rpsS",
+            "thiO",
+            "purF",
+            "rplN",
+            "cyp126",
+            "pta",
+            "secY",
+            "rplX"
+        ],
+        "unmapped_count": 3,
+        "unmapped_id": [
+            "Rv0459",
+            "Rv0200",
+            "Rv0201c"
+        ]
+    },
+    "result": [
+        {
+            "number_in_list": 14,
+            "fold_enrichment": 0.7218004338394793,
+            "fdr": 0.06030395048646906,
+            "expected": 19.395942900075134,
+            "number_in_reference": 3688,
+            "pValue": 7.17904172457965E-4,
+            "term": {"label": "UNCLASSIFIED"},
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 2,
+            "fold_enrichment": 54.3265306122449,
+            "fdr": 0.03856091868486984,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 9.1811711154452E-4,
+            "term": {
+                "id": "P04372",
+                "label": "5-Hydroxytryptamine degredation"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 2,
+            "fold_enrichment": 18.108843537414966,
+            "fdr": 0.17286336749647865,
+            "expected": 0.11044327573253193,
+            "number_in_reference": 21,
+            "pValue": 0.006173691696302808,
+            "term": {
+                "id": "P02738",
+                "label": "De novo purine biosynthesis"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 63.38095238095238,
+            "fdr": 0.43618695711778926,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 0.020770807481799488,
+            "term": {
+                "id": "P02722",
+                "label": "Acetate utilization"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 47.53571428571429,
+            "fdr": 0.43510219889520974,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 0.02589894041042915,
+            "term": {
+                "id": "P02779",
+                "label": "Thiamin biosynthesis"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 38.02857142857143,
+            "fdr": 0.43402086330545764,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.031001490236104115,
+            "term": {
+                "id": "P00030",
+                "label": "Hypoxia response via HIF activation"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "P02755",
+                "label": "Methylmalonyl pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "P02740",
+                "label": "De novo pyrimidine ribonucleotides biosythesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "P02783",
+                "label": "Tryptophan biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "P02777",
+                "label": "Succinate to proprionate conversion"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "P02763",
+                "label": "Peptidoglycan biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05785123966942149,
+            "number_in_reference": 11,
+            "pValue": 0.9999999999955242,
+            "term": {
+                "id": "P02747",
+                "label": "Histidine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P00007",
+                "label": "Axon guidance mediated by semaphorins"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P06664",
+                "label": "Gonadotropin-releasing hormone receptor pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P02758",
+                "label": "Ornithine degradation"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P00001",
+                "label": "Adrenaline and noradrenaline biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P00046",
+                "label": "Oxidative stress response"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P02784",
+                "label": "Tyrosine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P02780",
+                "label": "Thiamin metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P02778",
+                "label": "Sulfate assimilation"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P05912",
+                "label": "Dopamine receptor mediated signaling pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P00020",
+                "label": "FAS signaling pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P02770",
+                "label": "Pyridoxal phosphate salvage pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P00017",
+                "label": "DNA replication"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P02769",
+                "label": "Purine metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P02766",
+                "label": "Phenylethylamine degradation"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "P02765",
+                "label": "Phenylalanine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "P02749",
+                "label": "Leucine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "P02748",
+                "label": "Isoleucine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "P02728",
+                "label": "Arginine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "P00029",
+                "label": "Huntington disease"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "P02757",
+                "label": "O-antigen biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "P02742",
+                "label": "Tetrahydrofolate biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "P02781",
+                "label": "Threonine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "P02774",
+                "label": "Salvage pyrimidine deoxyribonucleotides"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "P02762",
+                "label": "Pentose phosphate pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "P02761",
+                "label": "Pantothenate biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 1.0000000000000129,
+            "term": {
+                "id": "P02746",
+                "label": "Heme biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 1.0000000000000129,
+            "term": {
+                "id": "P02739",
+                "label": "De novo pyrimidine deoxyribonucleotide biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 1.0000000000000129,
+            "term": {
+                "id": "P02772",
+                "label": "Pyruvate metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "P02751",
+                "label": "Lysine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "P02743",
+                "label": "Formyltetrahydroformate biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "P02785",
+                "label": "Valine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P02754",
+                "label": "Methylcitrate cycle"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P00049",
+                "label": "Parkinson disease"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P02736",
+                "label": "Coenzyme A biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P02735",
+                "label": "Cobalamin biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P02730",
+                "label": "Asparagine and aspartate biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P02726",
+                "label": "Aminobutyrate degradation"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P02787",
+                "label": "Vitamin B6 metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P02721",
+                "label": "ATP synthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P04395",
+                "label": "Vasopressin synthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P00019",
+                "label": "Endothelin signaling pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P02768",
+                "label": "Proline biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "P00014",
+                "label": "Cholesterol biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P00006",
+                "label": "Apoptosis signaling pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P02750",
+                "label": "Lipoate_biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P00057",
+                "label": "Wnt signaling pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P02729",
+                "label": "Ascorbate degradation"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P02725",
+                "label": "Allantoin degradation"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P02724",
+                "label": "Alanine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P02788",
+                "label": "Xanthine and guanine salvage pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P02786",
+                "label": "Vitamin B6 biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P04396",
+                "label": "Vitamin D metabolism and pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P02773",
+                "label": "S-adenosylmethionine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "P02767",
+                "label": "Phenylpropionate degradation"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02759",
+                "label": "Pyridoxal-5-phosphate biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02756",
+                "label": "N-acetylglucosamine metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02753",
+                "label": "Methionine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02752",
+                "label": "Mannose metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02744",
+                "label": "Fructose galactose metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02733",
+                "label": "Carnitine metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02732",
+                "label": "Coenzyme A linked carnitine metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02723",
+                "label": "Adenine and hypoxanthine salvage pathway"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "P02771",
+                "label": "Pyrimidine Metabolism"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P02745",
+                "label": "Glutamine glutamate conversion"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P02741",
+                "label": "Flavin biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P00051",
+                "label": "TCA cycle"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P02737",
+                "label": "Cysteine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P02734",
+                "label": "Chorismate biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P02731",
+                "label": "Biotin biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P00024",
+                "label": "Glycolysis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P02776",
+                "label": "Serine glycine biosynthesis"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "P02775",
+                "label": "Salvage pyrimidine ribonucleotides"
+            },
+            "plus_minus": "-"
+        }
+    ],
+    "search": {"search_type": "overrepresentation"},
+    "tool_release_date": 20210224,
+    "enrichment_test_type": "FISHER",
+    "annotDataSet": "ANNOT_TYPE_ID_PANTHER_PATHWAY",
+    "annot_version_release_date": "PANTHER version 16.0 Released 2020-12-01",
+    "correction": "FDR"
+}}

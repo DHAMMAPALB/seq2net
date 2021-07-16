@@ -1,0 +1,3398 @@
+{"results": {
+    "reference": {
+        "organism": "Mycobacterium tuberculosis",
+        "mapped_count": 3993,
+        "unmapped_count": 0
+    },
+    "input_list": {
+        "organism": "Mycobacterium tuberculosis",
+        "mapped_count": 20,
+        "mapped_id": [
+            "rplC",
+            "pstC2",
+            "purB",
+            "rplE",
+            "thiE",
+            "rpsH",
+            "Rv0199",
+            "rplK",
+            "Rv0458",
+            "phoT",
+            "Rv0147",
+            "Rv0223c",
+            "rpsS",
+            "thiO",
+            "purF",
+            "rplN",
+            "cyp126",
+            "pta",
+            "secY",
+            "rplX"
+        ],
+        "unmapped_count": 3,
+        "unmapped_id": [
+            "Rv0459",
+            "Rv0200",
+            "Rv0201c"
+        ]
+    },
+    "result": [
+        {
+            "number_in_list": 6,
+            "fold_enrichment": 27.82578397212544,
+            "fdr": 2.275858500970367E-5,
+            "expected": 0.2156273478587528,
+            "number_in_reference": 41,
+            "pValue": 8.821156980505298E-8,
+            "term": {
+                "id": "GO:0005198",
+                "label": "structural molecule activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 6,
+            "fold_enrichment": 27.82578397212544,
+            "fdr": 1.1379292504851834E-5,
+            "expected": 0.2156273478587528,
+            "number_in_reference": 41,
+            "pValue": 8.821156980505298E-8,
+            "term": {
+                "id": "GO:0003735",
+                "label": "structural constituent of ribosome"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 8,
+            "fold_enrichment": 0.509595597032783,
+            "fdr": 0.037025563708597324,
+            "expected": 15.698722764838466,
+            "number_in_reference": 2985,
+            "pValue": 4.3052981056508513E-4,
+            "term": {"label": "UNCLASSIFIED"},
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 13,
+            "fold_enrichment": 2.4522392290249435,
+            "fdr": 0.02776917278144799,
+            "expected": 5.301277235161533,
+            "number_in_reference": 1008,
+            "pValue": 4.3052981056508513E-4,
+            "term": {
+                "id": "GO:0003674",
+                "label": "molecular_function"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 3,
+            "fold_enrichment": 14.260714285714286,
+            "fdr": 0.06871666368479887,
+            "expected": 0.21036814425244177,
+            "number_in_reference": 40,
+            "pValue": 0.0013317182884650942,
+            "term": {
+                "id": "GO:0003723",
+                "label": "RNA binding"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 2,
+            "fold_enrichment": 29.252747252747255,
+            "fdr": 0.11298739429724207,
+            "expected": 0.06836964688204357,
+            "number_in_reference": 13,
+            "pValue": 0.0026276138208660947,
+            "term": {
+                "id": "GO:0019843",
+                "label": "rRNA binding"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 63.38095238095238,
+            "fdr": 0.7655526186148954,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 0.020770807481799488,
+            "term": {
+                "id": "GO:0008320",
+                "label": "protein transmembrane transporter activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 27.16326530612245,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 0.04113032514301124,
+            "term": {
+                "id": "GO:1904680",
+                "label": "peptide transmembrane transporter activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 27.16326530612245,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 0.04113032514301124,
+            "term": {
+                "id": "GO:0016709",
+                "label": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 27.16326530612245,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 0.04113032514301124,
+            "term": {
+                "id": "GO:0008395",
+                "label": "steroid hydroxylase activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 27.16326530612245,
+            "fdr": 0.9646930806269908,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 0.04113032514301124,
+            "term": {
+                "id": "GO:0042887",
+                "label": "amide transmembrane transporter activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 3,
+            "fold_enrichment": 3.8804664723032074,
+            "fdr": 0.8929808538678882,
+            "expected": 0.7731029301277235,
+            "number_in_reference": 147,
+            "pValue": 0.04153399320315759,
+            "term": {
+                "id": "GO:0003676",
+                "label": "nucleic acid binding"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 23.767857142857146,
+            "fdr": 0.9160359689203035,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.04615685114714707,
+            "term": {
+                "id": "GO:0015036",
+                "label": "disulfide oxidoreductase activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 17.285714285714285,
+            "fdr": 1,
+            "expected": 0.05785123966942149,
+            "number_in_reference": 11,
+            "pValue": 0.061086297550628915,
+            "term": {
+                "id": "GO:0016763",
+                "label": "transferase activity, transferring pentosyl groups"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 3,
+            "fold_enrichment": 3.297274979355904,
+            "fdr": 1,
+            "expected": 0.9098422238918107,
+            "number_in_reference": 173,
+            "pValue": 0.06168997972491517,
+            "term": {
+                "id": "GO:0016491",
+                "label": "oxidoreductase activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 15.845238095238095,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 0.06601313107114569,
+            "term": {
+                "id": "GO:0004497",
+                "label": "monooxygenase activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 15.845238095238095,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 0.06601313107114569,
+            "term": {
+                "id": "GO:0016705",
+                "label": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 14.626373626373628,
+            "fdr": 1,
+            "expected": 0.06836964688204357,
+            "number_in_reference": 13,
+            "pValue": 0.07091533658212613,
+            "term": {
+                "id": "GO:0016667",
+                "label": "oxidoreductase activity, acting on a sulfur group of donors"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 8.642857142857142,
+            "fdr": 1,
+            "expected": 0.11570247933884298,
+            "number_in_reference": 22,
+            "pValue": 0.11394605517004679,
+            "term": {
+                "id": "GO:0016765",
+                "label": "transferase activity, transferring alkyl or aryl (other than methyl) groups"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 7.605714285714285,
+            "fdr": 1,
+            "expected": 0.13148009015777612,
+            "number_in_reference": 25,
+            "pValue": 0.12786287708528735,
+            "term": {
+                "id": "GO:0016757",
+                "label": "transferase activity, transferring glycosyl groups"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 3,
+            "fold_enrichment": 2.3669235328986367,
+            "fdr": 1,
+            "expected": 1.2674680691209617,
+            "number_in_reference": 241,
+            "pValue": 0.1317119305517731,
+            "term": {
+                "id": "GO:0097159",
+                "label": "organic cyclic compound binding"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 3,
+            "fold_enrichment": 2.3669235328986367,
+            "fdr": 1,
+            "expected": 1.2674680691209617,
+            "number_in_reference": 241,
+            "pValue": 0.1317119305517731,
+            "term": {
+                "id": "GO:1901363",
+                "label": "heterocyclic compound binding"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 3,
+            "fold_enrichment": 1.828296703296703,
+            "fdr": 1,
+            "expected": 1.640871525169046,
+            "number_in_reference": 312,
+            "pValue": 0.22479381394509562,
+            "term": {
+                "id": "GO:0005488",
+                "label": "binding"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 6,
+            "fold_enrichment": 1.5500776397515528,
+            "fdr": 1,
+            "expected": 3.870773854244929,
+            "number_in_reference": 736,
+            "pValue": 0.2557601646879879,
+            "term": {
+                "id": "GO:0003824",
+                "label": "catalytic activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 2.837953091684435,
+            "fdr": 1,
+            "expected": 0.35236664162284,
+            "number_in_reference": 67,
+            "pValue": 0.3021194791651362,
+            "term": {
+                "id": "GO:0016829",
+                "label": "lyase activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 2,
+            "fold_enrichment": 1.7938005390835579,
+            "fdr": 1,
+            "expected": 1.1149511645379415,
+            "number_in_reference": 212,
+            "pValue": 0.30933019448941745,
+            "term": {
+                "id": "GO:0016740",
+                "label": "transferase activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 2.4377289377289375,
+            "fdr": 1,
+            "expected": 0.4102178812922615,
+            "number_in_reference": 78,
+            "pValue": 0.3419528482430633,
+            "term": {
+                "id": "GO:0022857",
+                "label": "transmembrane transporter activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 1,
+            "fold_enrichment": 2.1364365971107544,
+            "fdr": 1,
+            "expected": 0.46806912096168296,
+            "number_in_reference": 89,
+            "pValue": 0.37961495857814326,
+            "term": {
+                "id": "GO:0005215",
+                "label": "transporter activity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 1.0728775356874531,
+            "number_in_reference": 204,
+            "pValue": 0.6230452794014946,
+            "term": {
+                "id": "GO:0016787",
+                "label": "hydrolase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.15777610818933133,
+            "number_in_reference": 30,
+            "pValue": 0.999999999992671,
+            "term": {
+                "id": "GO:0008233",
+                "label": "peptidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.10518407212622088,
+            "number_in_reference": 20,
+            "pValue": 0.9999999999933128,
+            "term": {
+                "id": "GO:0031406",
+                "label": "carboxylic acid binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.10518407212622088,
+            "number_in_reference": 20,
+            "pValue": 0.9999999999933128,
+            "term": {
+                "id": "GO:0043177",
+                "label": "organic acid binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.10518407212622088,
+            "number_in_reference": 20,
+            "pValue": 0.9999999999933128,
+            "term": {
+                "id": "GO:0016810",
+                "label": "hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.10518407212622088,
+            "number_in_reference": 20,
+            "pValue": 0.9999999999933128,
+            "term": {
+                "id": "GO:0004540",
+                "label": "ribonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06836964688204357,
+            "number_in_reference": 13,
+            "pValue": 0.9999999999939857,
+            "term": {
+                "id": "GO:0008509",
+                "label": "anion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06836964688204357,
+            "number_in_reference": 13,
+            "pValue": 0.9999999999939857,
+            "term": {
+                "id": "GO:0009055",
+                "label": "electron transfer activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06836964688204357,
+            "number_in_reference": 13,
+            "pValue": 0.9999999999939857,
+            "term": {
+                "id": "GO:0008757",
+                "label": "S-adenosylmethionine-dependent methyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06836964688204357,
+            "number_in_reference": 13,
+            "pValue": 0.9999999999939857,
+            "term": {
+                "id": "GO:0051539",
+                "label": "4 iron, 4 sulfur cluster binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06836964688204357,
+            "number_in_reference": 13,
+            "pValue": 0.9999999999939857,
+            "term": {
+                "id": "GO:0008094",
+                "label": "DNA-dependent ATPase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "GO:0033218",
+                "label": "amide binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "GO:0016790",
+                "label": "thiolester hydrolase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.47858752817430505,
+            "number_in_reference": 91,
+            "pValue": 0.9999999999948914,
+            "term": {
+                "id": "GO:0043565",
+                "label": "sequence-specific DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.47332832456799395,
+            "number_in_reference": 90,
+            "pValue": 0.9999999999953595,
+            "term": {
+                "id": "GO:1990837",
+                "label": "sequence-specific double-stranded DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05785123966942149,
+            "number_in_reference": 11,
+            "pValue": 0.9999999999955242,
+            "term": {
+                "id": "GO:0005319",
+                "label": "lipid transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05785123966942149,
+            "number_in_reference": 11,
+            "pValue": 0.9999999999955242,
+            "term": {
+                "id": "GO:0016811",
+                "label": "hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05785123966942149,
+            "number_in_reference": 11,
+            "pValue": 0.9999999999955242,
+            "term": {
+                "id": "GO:0003678",
+                "label": "DNA helicase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015298",
+                "label": "solute:cation antiporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015491",
+                "label": "cation:cation antiporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015295",
+                "label": "solute:proton symporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015294",
+                "label": "solute:cation symporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0008289",
+                "label": "lipid binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015293",
+                "label": "symporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0008081",
+                "label": "phosphoric diester hydrolase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0060589",
+                "label": "nucleoside-triphosphatase regulator activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004722",
+                "label": "protein serine/threonine phosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015081",
+                "label": "sodium ion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004520",
+                "label": "endodeoxyribonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0016895",
+                "label": "exodeoxyribonuclease activity, producing 5'-phosphomonoesters"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004674",
+                "label": "protein serine/threonine kinase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015301",
+                "label": "anion:anion antiporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0008242",
+                "label": "omega peptidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0008047",
+                "label": "enzyme activator activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0016706",
+                "label": "2-oxoglutarate-dependent dioxygenase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004596",
+                "label": "peptide alpha-N-acetyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0017116",
+                "label": "single-stranded DNA helicase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004622",
+                "label": "lysophospholipase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004620",
+                "label": "phospholipase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0008171",
+                "label": "O-methyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0008409",
+                "label": "5'-3' exonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0042277",
+                "label": "peptide binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015179",
+                "label": "L-amino acid transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0000987",
+                "label": "cis-regulatory region sequence-specific DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0003743",
+                "label": "translation initiation factor activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0000030",
+                "label": "mannosyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004017",
+                "label": "adenylate kinase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004016",
+                "label": "adenylate cyclase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015205",
+                "label": "nucleobase transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0009975",
+                "label": "cyclase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0016426",
+                "label": "tRNA (adenine) methyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0016812",
+                "label": "hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0008146",
+                "label": "sulfotransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0003725",
+                "label": "double-stranded RNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0000175",
+                "label": "3'-5'-exoribonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0030983",
+                "label": "mismatched DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0004550",
+                "label": "nucleoside diphosphate kinase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0034212",
+                "label": "peptide N-acetyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0003688",
+                "label": "DNA replication origin binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0003714",
+                "label": "transcription corepressor activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0003712",
+                "label": "transcription coregulator activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0015299",
+                "label": "solute:proton antiporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.12622088655146507,
+            "number_in_reference": 24,
+            "pValue": 0.9999999999963218,
+            "term": {
+                "id": "GO:0008324",
+                "label": "cation transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.12622088655146507,
+            "number_in_reference": 24,
+            "pValue": 0.9999999999963218,
+            "term": {
+                "id": "GO:0005524",
+                "label": "ATP binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "GO:0008483",
+                "label": "transaminase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "GO:0005548",
+                "label": "phospholipid transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "GO:0008173",
+                "label": "RNA methyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "GO:0004180",
+                "label": "carboxypeptidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0841472577009767,
+            "number_in_reference": 16,
+            "pValue": 0.9999999999967817,
+            "term": {
+                "id": "GO:0004521",
+                "label": "endoribonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0841472577009767,
+            "number_in_reference": 16,
+            "pValue": 0.9999999999967817,
+            "term": {
+                "id": "GO:0016798",
+                "label": "hydrolase activity, acting on glycosyl bonds"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0841472577009767,
+            "number_in_reference": 16,
+            "pValue": 0.9999999999967817,
+            "term": {
+                "id": "GO:0004175",
+                "label": "endopeptidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.16303531179564237,
+            "number_in_reference": 31,
+            "pValue": 0.9999999999970491,
+            "term": {
+                "id": "GO:0140097",
+                "label": "catalytic activity, acting on DNA"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.16303531179564237,
+            "number_in_reference": 31,
+            "pValue": 0.9999999999970491,
+            "term": {
+                "id": "GO:0016301",
+                "label": "kinase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.16303531179564237,
+            "number_in_reference": 31,
+            "pValue": 0.9999999999970491,
+            "term": {
+                "id": "GO:0016853",
+                "label": "isomerase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.11044327573253193,
+            "number_in_reference": 21,
+            "pValue": 0.9999999999970525,
+            "term": {
+                "id": "GO:0016773",
+                "label": "phosphotransferase activity, alcohol group as acceptor"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3365890308039068,
+            "number_in_reference": 64,
+            "pValue": 0.9999999999972701,
+            "term": {
+                "id": "GO:0140098",
+                "label": "catalytic activity, acting on RNA"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.09466566491359879,
+            "number_in_reference": 18,
+            "pValue": 0.9999999999974167,
+            "term": {
+                "id": "GO:0017171",
+                "label": "serine hydrolase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.09466566491359879,
+            "number_in_reference": 18,
+            "pValue": 0.9999999999974167,
+            "term": {
+                "id": "GO:0008236",
+                "label": "serine-type peptidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.09466566491359879,
+            "number_in_reference": 18,
+            "pValue": 0.9999999999974167,
+            "term": {
+                "id": "GO:0016830",
+                "label": "carbon-carbon lyase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.09466566491359879,
+            "number_in_reference": 18,
+            "pValue": 0.9999999999974167,
+            "term": {
+                "id": "GO:0016825",
+                "label": "hydrolase activity, acting on acid phosphorus-nitrogen bonds"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "GO:0015291",
+                "label": "secondary active transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "GO:0019104",
+                "label": "DNA N-glycosylase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "GO:0015077",
+                "label": "monovalent inorganic cation transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "GO:0016684",
+                "label": "oxidoreductase activity, acting on peroxide as acceptor"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "GO:0004252",
+                "label": "serine-type endopeptidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "GO:0016791",
+                "label": "phosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.42073628850488354,
+            "number_in_reference": 80,
+            "pValue": 0.9999999999982214,
+            "term": {
+                "id": "GO:0140110",
+                "label": "transcription regulator activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.4365138993238167,
+            "number_in_reference": 83,
+            "pValue": 0.9999999999983844,
+            "term": {
+                "id": "GO:0098772",
+                "label": "molecular function regulator"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.4838467317806161,
+            "number_in_reference": 92,
+            "pValue": 0.9999999999985861,
+            "term": {
+                "id": "GO:0003690",
+                "label": "double-stranded DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.6363636363636364,
+            "number_in_reference": 121,
+            "pValue": 0.9999999999992141,
+            "term": {
+                "id": "GO:0043167",
+                "label": "ion binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0008514",
+                "label": "organic anion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0004527",
+                "label": "exonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0051082",
+                "label": "unfolded protein binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0047429",
+                "label": "nucleoside-triphosphate diphosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0020037",
+                "label": "heme binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0005342",
+                "label": "organic acid transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0042802",
+                "label": "identical protein binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0046943",
+                "label": "carboxylic acid transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0052689",
+                "label": "carboxylic ester hydrolase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0005506",
+                "label": "iron ion binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0046906",
+                "label": "tetrapyrrole binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0016597",
+                "label": "amino acid binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0016410",
+                "label": "N-acyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0070566",
+                "label": "adenylyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0016758",
+                "label": "transferase activity, transferring hexosyl groups"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.45755071374906087,
+            "number_in_reference": 87,
+            "pValue": 0.999999999999483,
+            "term": {
+                "id": "GO:0043168",
+                "label": "anion binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.19984973703981967,
+            "number_in_reference": 38,
+            "pValue": 0.9999999999995487,
+            "term": {
+                "id": "GO:0046872",
+                "label": "metal ion binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.19459053343350866,
+            "number_in_reference": 37,
+            "pValue": 0.9999999999997393,
+            "term": {
+                "id": "GO:0015318",
+                "label": "inorganic molecular entity transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.19459053343350866,
+            "number_in_reference": 37,
+            "pValue": 0.9999999999997393,
+            "term": {
+                "id": "GO:0015075",
+                "label": "ion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.19459053343350866,
+            "number_in_reference": 37,
+            "pValue": 0.9999999999997393,
+            "term": {
+                "id": "GO:0016616",
+                "label": "oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.46806912096168296,
+            "number_in_reference": 89,
+            "pValue": 0.9999999999998083,
+            "term": {
+                "id": "GO:0001067",
+                "label": "regulatory region nucleic acid binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.46806912096168296,
+            "number_in_reference": 89,
+            "pValue": 0.9999999999998083,
+            "term": {
+                "id": "GO:0000976",
+                "label": "transcription regulatory region sequence-specific DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.29451540195341847,
+            "number_in_reference": 56,
+            "pValue": 0.9999999999999301,
+            "term": {
+                "id": "GO:1901265",
+                "label": "nucleoside phosphate binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.29451540195341847,
+            "number_in_reference": 56,
+            "pValue": 0.9999999999999301,
+            "term": {
+                "id": "GO:0000166",
+                "label": "nucleotide binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 1.0000000000000129,
+            "term": {
+                "id": "GO:0044877",
+                "label": "protein-containing complex binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 1.0000000000000129,
+            "term": {
+                "id": "GO:0001216",
+                "label": "DNA-binding transcription activator activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 1.0000000000000129,
+            "term": {
+                "id": "GO:0008270",
+                "label": "zinc ion binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 1.0000000000000129,
+            "term": {
+                "id": "GO:0000287",
+                "label": "magnesium ion binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 1.0000000000000129,
+            "term": {
+                "id": "GO:0043021",
+                "label": "ribonucleoprotein complex binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.5259203606311045,
+            "number_in_reference": 100,
+            "pValue": 1.0000000000000446,
+            "term": {
+                "id": "GO:0036094",
+                "label": "small molecule binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "GO:0050661",
+                "label": "NADP binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "GO:0004672",
+                "label": "protein kinase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "GO:0004659",
+                "label": "prenyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "GO:0016831",
+                "label": "carboxy-lyase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "GO:0043138",
+                "label": "3'-5' DNA helicase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03681442524417731,
+            "number_in_reference": 7,
+            "pValue": 1.0000000000002087,
+            "term": {
+                "id": "GO:0016776",
+                "label": "phosphotransferase activity, phosphate group as acceptor"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.14199849737039819,
+            "number_in_reference": 27,
+            "pValue": 1.0000000000002633,
+            "term": {
+                "id": "GO:0017076",
+                "label": "purine nucleotide binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.21036814425244177,
+            "number_in_reference": 40,
+            "pValue": 1.0000000000004192,
+            "term": {
+                "id": "GO:0097367",
+                "label": "carbohydrate derivative binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3734034560480841,
+            "number_in_reference": 71,
+            "pValue": 1.0000000000007683,
+            "term": {
+                "id": "GO:0003700",
+                "label": "DNA-binding transcription factor activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3734034560480841,
+            "number_in_reference": 71,
+            "pValue": 1.0000000000007683,
+            "term": {
+                "id": "GO:0016462",
+                "label": "pyrophosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3734034560480841,
+            "number_in_reference": 71,
+            "pValue": 1.0000000000007683,
+            "term": {
+                "id": "GO:0016818",
+                "label": "hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3734034560480841,
+            "number_in_reference": 71,
+            "pValue": 1.0000000000007683,
+            "term": {
+                "id": "GO:0016817",
+                "label": "hydrolase activity, acting on acid anhydrides"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.2734785875281743,
+            "number_in_reference": 52,
+            "pValue": 1.0000000000008287,
+            "term": {
+                "id": "GO:0016747",
+                "label": "transferase activity, transferring acyl groups other than amino-acyl groups"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.09992486851990984,
+            "number_in_reference": 19,
+            "pValue": 1.0000000000011882,
+            "term": {
+                "id": "GO:0016877",
+                "label": "ligase activity, forming carbon-sulfur bonds"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.28399699474079637,
+            "number_in_reference": 54,
+            "pValue": 1.0000000000014844,
+            "term": {
+                "id": "GO:0016772",
+                "label": "transferase activity, transferring phosphorus-containing groups"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3418482344102179,
+            "number_in_reference": 65,
+            "pValue": 1.000000000001682,
+            "term": {
+                "id": "GO:0016874",
+                "label": "ligase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0015297",
+                "label": "antiporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0004536",
+                "label": "deoxyribonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0004721",
+                "label": "phosphoprotein phosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0015112",
+                "label": "nitrate transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0016702",
+                "label": "oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0008198",
+                "label": "ferrous iron binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0008194",
+                "label": "UDP-glycosyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0034061",
+                "label": "DNA polymerase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0008175",
+                "label": "tRNA methyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0015171",
+                "label": "amino acid transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0015562",
+                "label": "efflux transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0003899",
+                "label": "DNA-directed 5'-3' RNA polymerase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0030234",
+                "label": "enzyme regulator activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0003924",
+                "label": "GTPase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0004553",
+                "label": "hydrolase activity, hydrolyzing O-glycosyl compounds"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:1901505",
+                "label": "carbohydrate derivative transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0003887",
+                "label": "DNA-directed DNA polymerase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0003684",
+                "label": "damaged DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.1682945154019534,
+            "number_in_reference": 32,
+            "pValue": 1.0000000000025366,
+            "term": {
+                "id": "GO:0016741",
+                "label": "transferase activity, transferring one-carbon groups"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.1682945154019534,
+            "number_in_reference": 32,
+            "pValue": 1.0000000000025366,
+            "term": {
+                "id": "GO:0140101",
+                "label": "catalytic activity, acting on a tRNA"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.1682945154019534,
+            "number_in_reference": 32,
+            "pValue": 1.0000000000025366,
+            "term": {
+                "id": "GO:0016836",
+                "label": "hydro-lyase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.1682945154019534,
+            "number_in_reference": 32,
+            "pValue": 1.0000000000025366,
+            "term": {
+                "id": "GO:0022804",
+                "label": "active transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.18933132982719758,
+            "number_in_reference": 36,
+            "pValue": 1.00000000000296,
+            "term": {
+                "id": "GO:0016835",
+                "label": "carbon-oxygen lyase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3208114199849737,
+            "number_in_reference": 61,
+            "pValue": 1.0000000000030393,
+            "term": {
+                "id": "GO:0017111",
+                "label": "nucleoside-triphosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.12096168294515403,
+            "number_in_reference": 23,
+            "pValue": 1.0000000000033387,
+            "term": {
+                "id": "GO:0022890",
+                "label": "inorganic cation transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.12096168294515403,
+            "number_in_reference": 23,
+            "pValue": 1.0000000000033387,
+            "term": {
+                "id": "GO:0005515",
+                "label": "protein binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.12096168294515403,
+            "number_in_reference": 23,
+            "pValue": 1.0000000000033387,
+            "term": {
+                "id": "GO:0008168",
+                "label": "methyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.08940646130728774,
+            "number_in_reference": 17,
+            "pValue": 1.0000000000034643,
+            "term": {
+                "id": "GO:0004519",
+                "label": "endonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.08940646130728774,
+            "number_in_reference": 17,
+            "pValue": 1.0000000000034643,
+            "term": {
+                "id": "GO:0022853",
+                "label": "active ion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.08940646130728774,
+            "number_in_reference": 17,
+            "pValue": 1.0000000000034643,
+            "term": {
+                "id": "GO:0016866",
+                "label": "intramolecular transferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.08940646130728774,
+            "number_in_reference": 17,
+            "pValue": 1.0000000000034643,
+            "term": {
+                "id": "GO:0046873",
+                "label": "metal ion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.08940646130728774,
+            "number_in_reference": 17,
+            "pValue": 1.0000000000034643,
+            "term": {
+                "id": "GO:0016779",
+                "label": "nucleotidyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.5627347858752818,
+            "number_in_reference": 107,
+            "pValue": 1.0000000000036866,
+            "term": {
+                "id": "GO:0003677",
+                "label": "DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0004332",
+                "label": "fructose-bisphosphate aldolase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0052745",
+                "label": "inositol phosphate phosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0004725",
+                "label": "protein tyrosine phosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0004529",
+                "label": "exodeoxyribonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0051087",
+                "label": "chaperone binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0004322",
+                "label": "ferroxidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0003995",
+                "label": "acyl-CoA dehydrogenase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0016679",
+                "label": "oxidoreductase activity, acting on diphenols and related substances as donors"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0043175",
+                "label": "RNA polymerase core enzyme binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0005310",
+                "label": "dicarboxylic acid transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0005507",
+                "label": "copper ion binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0070063",
+                "label": "RNA polymerase binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0022836",
+                "label": "gated channel activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0019213",
+                "label": "deacetylase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0005261",
+                "label": "cation channel activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0016849",
+                "label": "phosphorus-oxygen lyase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0008408",
+                "label": "3'-5' exonuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0004222",
+                "label": "metalloendopeptidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0016796",
+                "label": "exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0016628",
+                "label": "oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0030246",
+                "label": "carbohydrate binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0003697",
+                "label": "single-stranded DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0001046",
+                "label": "core promoter sequence-specific DNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0004551",
+                "label": "nucleotide diphosphatase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0015141",
+                "label": "succinate transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0070569",
+                "label": "uridylyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07888805409466566,
+            "number_in_reference": 15,
+            "pValue": 1.0000000000039435,
+            "term": {
+                "id": "GO:0050660",
+                "label": "flavin adenine dinucleotide binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07888805409466566,
+            "number_in_reference": 15,
+            "pValue": 1.0000000000039435,
+            "term": {
+                "id": "GO:0016627",
+                "label": "oxidoreductase activity, acting on the CH-CH group of donors"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0008080",
+                "label": "N-acetyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0015085",
+                "label": "calcium ion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0015079",
+                "label": "potassium ion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0016298",
+                "label": "lipase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0015267",
+                "label": "channel activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0008237",
+                "label": "metallopeptidase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0019200",
+                "label": "carbohydrate kinase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0000049",
+                "label": "tRNA binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0008170",
+                "label": "N-methyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0051213",
+                "label": "dioxygenase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0022803",
+                "label": "passive transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0045182",
+                "label": "translation regulator activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0019899",
+                "label": "enzyme binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0005216",
+                "label": "ion channel activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.13148009015777612,
+            "number_in_reference": 25,
+            "pValue": 1.0000000000043316,
+            "term": {
+                "id": "GO:0004518",
+                "label": "nuclease activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.13148009015777612,
+            "number_in_reference": 25,
+            "pValue": 1.0000000000043316,
+            "term": {
+                "id": "GO:0046914",
+                "label": "transition metal ion binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.0000000000051725,
+            "term": {
+                "id": "GO:0042578",
+                "label": "phosphoric ester hydrolase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.0000000000051725,
+            "term": {
+                "id": "GO:0060089",
+                "label": "molecular transducer activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.0000000000051725,
+            "term": {
+                "id": "GO:0004386",
+                "label": "helicase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.0000000000051725,
+            "term": {
+                "id": "GO:0051540",
+                "label": "metal cluster binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.0000000000051725,
+            "term": {
+                "id": "GO:0016407",
+                "label": "acetyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.0000000000051725,
+            "term": {
+                "id": "GO:0051536",
+                "label": "iron-sulfur cluster binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.30503380916604056,
+            "number_in_reference": 58,
+            "pValue": 1.0000000000060334,
+            "term": {
+                "id": "GO:0016746",
+                "label": "transferase activity, transferring acyl groups"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.30503380916604056,
+            "number_in_reference": 58,
+            "pValue": 1.0000000000060334,
+            "term": {
+                "id": "GO:0016887",
+                "label": "ATPase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.13673929376408714,
+            "number_in_reference": 26,
+            "pValue": 1.0000000000073452,
+            "term": {
+                "id": "GO:0008374",
+                "label": "O-acyltransferase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3102930127723516,
+            "number_in_reference": 59,
+            "pValue": 1.0000000000077136,
+            "term": {
+                "id": "GO:0016788",
+                "label": "hydrolase activity, acting on ester bonds"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.22614575507137488,
+            "number_in_reference": 43,
+            "pValue": 1.0000000000077558,
+            "term": {
+                "id": "GO:0140096",
+                "label": "catalytic activity, acting on a protein"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.22088655146506386,
+            "number_in_reference": 42,
+            "pValue": 1.0000000000081102,
+            "term": {
+                "id": "GO:0043169",
+                "label": "cation binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "GO:0015078",
+                "label": "proton transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "GO:0015103",
+                "label": "inorganic anion transmembrane transporter activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "GO:0043022",
+                "label": "ribosome binding"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "GO:0019205",
+                "label": "nucleobase-containing compound kinase activity"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "GO:0003729",
+                "label": "mRNA binding"
+            },
+            "plus_minus": "-"
+        }
+    ],
+    "search": {"search_type": "overrepresentation"},
+    "tool_release_date": 20210224,
+    "enrichment_test_type": "FISHER",
+    "annotDataSet": "ANNOT_TYPE_ID_PANTHER_GO_SLIM_MF",
+    "annot_version_release_date": "PANTHER version 16.0 Released 2020-12-01",
+    "correction": "FDR"
+}}

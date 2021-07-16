@@ -1,0 +1,1175 @@
+{"results": {
+    "reference": {
+        "organism": "Mycobacterium tuberculosis",
+        "mapped_count": 3993,
+        "unmapped_count": 0
+    },
+    "input_list": {
+        "organism": "Mycobacterium tuberculosis",
+        "mapped_count": 20,
+        "mapped_id": [
+            "rplC",
+            "pstC2",
+            "purB",
+            "rplE",
+            "thiE",
+            "rpsH",
+            "Rv0199",
+            "rplK",
+            "Rv0458",
+            "phoT",
+            "Rv0147",
+            "Rv0223c",
+            "rpsS",
+            "thiO",
+            "purF",
+            "rplN",
+            "cyp126",
+            "pta",
+            "secY",
+            "rplX"
+        ],
+        "unmapped_count": 3,
+        "unmapped_id": [
+            "Rv0459",
+            "Rv0200",
+            "Rv0201c"
+        ]
+    },
+    "result": [
+        {
+            "number_in_list": 5,
+            "fold_enrichment": 33.954081632653065,
+            "fdr": 4.418019957096567E-5,
+            "expected": 0.14725770097670923,
+            "number_in_reference": 28,
+            "pValue": 5.078183858731686E-7,
+            "term": {
+                "id": "GO:0044391",
+                "label": "ribosomal subunit"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 5,
+            "fold_enrichment": 32.783251231527096,
+            "fdr": 2.5812319455290715E-5,
+            "expected": 0.15251690458302028,
+            "number_in_reference": 29,
+            "pValue": 5.933866541446141E-7,
+            "term": {
+                "id": "GO:1990904",
+                "label": "ribonucleoprotein complex"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 5,
+            "fold_enrichment": 30.668202764976957,
+            "fdr": 2.3158996290309943E-5,
+            "expected": 0.16303531179564237,
+            "number_in_reference": 31,
+            "pValue": 7.985860789762049E-7,
+            "term": {
+                "id": "GO:0005840",
+                "label": "ribosome"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 5,
+            "fold_enrichment": 27.96218487394958,
+            "fdr": 2.6262216397269516E-5,
+            "expected": 0.1788129226145755,
+            "number_in_reference": 34,
+            "pValue": 1.2074582251618168E-6,
+            "term": {
+                "id": "GO:0043232",
+                "label": "intracellular non-membrane-bounded organelle"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 5,
+            "fold_enrichment": 27.96218487394958,
+            "fdr": 2.100977311781561E-5,
+            "expected": 0.1788129226145755,
+            "number_in_reference": 34,
+            "pValue": 1.2074582251618168E-6,
+            "term": {
+                "id": "GO:0043228",
+                "label": "non-membrane-bounded organelle"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 4,
+            "fold_enrichment": 54.3265306122449,
+            "fdr": 2.3444448783219508E-5,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.6168585367737592E-6,
+            "term": {
+                "id": "GO:0022626",
+                "label": "cytosolic ribosome"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 5,
+            "fold_enrichment": 15.585480093676814,
+            "fdr": 2.127964794883815E-4,
+            "expected": 0.3208114199849737,
+            "number_in_reference": 61,
+            "pValue": 1.712155582090426E-5,
+            "term": {
+                "id": "GO:0043229",
+                "label": "intracellular organelle"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 5,
+            "fold_enrichment": 15.585480093676814,
+            "fdr": 1.8619691955233382E-4,
+            "expected": 0.3208114199849737,
+            "number_in_reference": 61,
+            "pValue": 1.712155582090426E-5,
+            "term": {
+                "id": "GO:0043226",
+                "label": "organelle"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 9,
+            "fold_enrichment": 4.766812574612017,
+            "fdr": 4.3495231854064336E-4,
+            "expected": 1.888054094665665,
+            "number_in_reference": 359,
+            "pValue": 4.4995067435238964E-5,
+            "term": {
+                "id": "GO:0005622",
+                "label": "intracellular"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 3,
+            "fold_enrichment": 47.535714285714285,
+            "fdr": 4.694165723322507E-4,
+            "expected": 0.06311044327573254,
+            "number_in_reference": 12,
+            "pValue": 5.395592785428169E-5,
+            "term": {
+                "id": "GO:0015934",
+                "label": "large ribosomal subunit"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 8,
+            "fold_enrichment": 4.875457875457875,
+            "fdr": 9.568201288123052E-4,
+            "expected": 1.640871525169046,
+            "number_in_reference": 312,
+            "pValue": 1.2097725766592365E-4,
+            "term": {
+                "id": "GO:0005737",
+                "label": "cytoplasm"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 5,
+            "fold_enrichment": 9.903273809523808,
+            "fdr": 9.780758174302284E-4,
+            "expected": 0.5048835462058603,
+            "number_in_reference": 96,
+            "pValue": 1.3490700930072116E-4,
+            "term": {
+                "id": "GO:0032991",
+                "label": "protein-containing complex"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 6,
+            "fold_enrichment": 6.166795366795367,
+            "fdr": 0.002139454398844511,
+            "expected": 0.9729526671675431,
+            "number_in_reference": 185,
+            "pValue": 3.1968858833308786E-4,
+            "term": {
+                "id": "GO:0005829",
+                "label": "cytosol"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 2,
+            "fold_enrichment": 63.38095238095238,
+            "fdr": 0.004451602863593224,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 7.163498860954612E-4,
+            "term": {
+                "id": "GO:0022625",
+                "label": "cytosolic large ribosomal subunit"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 2,
+            "fold_enrichment": 47.53571428571429,
+            "fdr": 0.006635364677231821,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.0011440283926261762,
+            "term": {
+                "id": "GO:0022627",
+                "label": "cytosolic small ribosomal subunit"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 9,
+            "fold_enrichment": 2.8712847555129435,
+            "fdr": 0.011023241136954095,
+            "expected": 3.1344853493613822,
+            "number_in_reference": 596,
+            "pValue": 0.0020272627378306383,
+            "term": {
+                "id": "GO:0110165",
+                "label": "cellular anatomical entity"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 9,
+            "fold_enrichment": 2.7825783972125433,
+            "fdr": 0.012954860177937073,
+            "expected": 3.2344102178812926,
+            "number_in_reference": 615,
+            "pValue": 0.0025314094600566695,
+            "term": {
+                "id": "GO:0005575",
+                "label": "cellular_component"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 12,
+            "fold_enrichment": 0.6754630804364374,
+            "fdr": 0.012235145723607656,
+            "expected": 17.76558978211871,
+            "number_in_reference": 3378,
+            "pValue": 0.0025314094600567567,
+            "term": {"label": "UNCLASSIFIED"},
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 2,
+            "fold_enrichment": 23.767857142857146,
+            "fdr": 0.01736687359666793,
+            "expected": 0.0841472577009767,
+            "number_in_reference": 16,
+            "pValue": 0.0037927654981228806,
+            "term": {
+                "id": "GO:0015935",
+                "label": "small ribosomal subunit"
+            },
+            "plus_minus": "+"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 1.046581517655898,
+            "number_in_reference": 199,
+            "pValue": 0.6224870015490089,
+            "term": {
+                "id": "GO:0071944",
+                "label": "cell periphery"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 1.2096168294515401,
+            "number_in_reference": 230,
+            "pValue": 0.6295235781291147,
+            "term": {
+                "id": "GO:0016020",
+                "label": "membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.15777610818933133,
+            "number_in_reference": 30,
+            "pValue": 0.999999999992671,
+            "term": {
+                "id": "GO:0005618",
+                "label": "cell wall"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.15777610818933133,
+            "number_in_reference": 30,
+            "pValue": 0.999999999992671,
+            "term": {
+                "id": "GO:0030312",
+                "label": "external encapsulating structure"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "GO:0031975",
+                "label": "envelope"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "GO:0030288",
+                "label": "outer membrane-bounded periplasmic space"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "GO:0030313",
+                "label": "cell envelope"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "GO:0097478",
+                "label": "leaflet of membrane bilayer"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.047332832456799395,
+            "number_in_reference": 9,
+            "pValue": 0.9999999999946633,
+            "term": {
+                "id": "GO:0098552",
+                "label": "side of membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0005777",
+                "label": "peroxisome"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0005773",
+                "label": "vacuole"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0043233",
+                "label": "organelle lumen"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0000502",
+                "label": "proteasome complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0031234",
+                "label": "extrinsic component of cytoplasmic side of plasma membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0042579",
+                "label": "microbody"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0042575",
+                "label": "DNA polymerase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0031090",
+                "label": "organelle membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0031974",
+                "label": "membrane-enclosed lumen"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0005759",
+                "label": "mitochondrial matrix"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0042175",
+                "label": "nuclear outer membrane-endoplasmic reticulum membrane network"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:1905369",
+                "label": "endopeptidase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0019898",
+                "label": "extrinsic component of membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0019897",
+                "label": "extrinsic component of plasma membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0005694",
+                "label": "chromosome"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0009897",
+                "label": "external side of plasma membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0070013",
+                "label": "intracellular organelle lumen"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0005789",
+                "label": "endoplasmic reticulum membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0009986",
+                "label": "cell surface"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0019773",
+                "label": "proteasome core complex, alpha-subunit complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.0052592036063110435,
+            "number_in_reference": 1,
+            "pValue": 0.9999999999961915,
+            "term": {
+                "id": "GO:0012505",
+                "label": "endomembrane system"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "GO:1990234",
+                "label": "transferase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "GO:0098562",
+                "label": "cytoplasmic side of membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "GO:1990204",
+                "label": "oxidoreductase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.04207362885048835,
+            "number_in_reference": 8,
+            "pValue": 0.9999999999964011,
+            "term": {
+                "id": "GO:0009898",
+                "label": "cytoplasmic side of plasma membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.3628850488354621,
+            "number_in_reference": 69,
+            "pValue": 0.9999999999965,
+            "term": {
+                "id": "GO:0031224",
+                "label": "intrinsic component of membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "GO:0098797",
+                "label": "plasma membrane protein complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.05259203606311044,
+            "number_in_reference": 10,
+            "pValue": 0.9999999999978256,
+            "term": {
+                "id": "GO:0042597",
+                "label": "periplasmic space"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:0005634",
+                "label": "nucleus"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:1990351",
+                "label": "transporter complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.02629601803155522,
+            "number_in_reference": 5,
+            "pValue": 0.9999999999993217,
+            "term": {
+                "id": "GO:1902495",
+                "label": "transmembrane transporter complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.18407212622088656,
+            "number_in_reference": 35,
+            "pValue": 0.9999999999997705,
+            "term": {
+                "id": "GO:0005576",
+                "label": "extracellular region"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.18407212622088656,
+            "number_in_reference": 35,
+            "pValue": 0.9999999999997705,
+            "term": {
+                "id": "GO:1902494",
+                "label": "catalytic complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.26296018031555224,
+            "number_in_reference": 50,
+            "pValue": 1.0000000000001403,
+            "term": {
+                "id": "GO:0005887",
+                "label": "integral component of plasma membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.14199849737039819,
+            "number_in_reference": 27,
+            "pValue": 1.0000000000002633,
+            "term": {
+                "id": "GO:0043231",
+                "label": "intracellular membrane-bounded organelle"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.14199849737039819,
+            "number_in_reference": 27,
+            "pValue": 1.0000000000002633,
+            "term": {
+                "id": "GO:0043227",
+                "label": "membrane-bounded organelle"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0016469",
+                "label": "proton-transporting two-sector ATPase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0061695",
+                "label": "transferase complex, transferring phosphorus-containing groups"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:1904949",
+                "label": "ATPase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0033202",
+                "label": "DNA helicase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0045259",
+                "label": "proton-transporting ATP synthase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.015777610818933134,
+            "number_in_reference": 3,
+            "pValue": 1.0000000000018003,
+            "term": {
+                "id": "GO:0032153",
+                "label": "cell division site"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.9045830202854995,
+            "number_in_reference": 172,
+            "pValue": 1.0000000000022564,
+            "term": {
+                "id": "GO:0005886",
+                "label": "plasma membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0000408",
+                "label": "EKC/KEOPS complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:1990391",
+                "label": "DNA repair complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:1905368",
+                "label": "peptidase complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0033177",
+                "label": "proton-transporting two-sector ATPase complex, proton-transporting domain"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0045263",
+                "label": "proton-transporting ATP synthase complex, coupling factor F(o)"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.010518407212622087,
+            "number_in_reference": 2,
+            "pValue": 1.0000000000039262,
+            "term": {
+                "id": "GO:0070069",
+                "label": "cytochrome complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07888805409466566,
+            "number_in_reference": 15,
+            "pValue": 1.0000000000039435,
+            "term": {
+                "id": "GO:0098796",
+                "label": "membrane protein complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.34710743801652894,
+            "number_in_reference": 66,
+            "pValue": 1.0000000000040383,
+            "term": {
+                "id": "GO:0016021",
+                "label": "integral component of membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.2682193839218633,
+            "number_in_reference": 51,
+            "pValue": 1.000000000004264,
+            "term": {
+                "id": "GO:0031226",
+                "label": "intrinsic component of plasma membrane"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0045272",
+                "label": "plasma membrane respiratory chain complex I"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0045271",
+                "label": "respiratory chain complex I"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0098803",
+                "label": "respiratory chain complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.021036814425244174,
+            "number_in_reference": 4,
+            "pValue": 1.0000000000043168,
+            "term": {
+                "id": "GO:0070469",
+                "label": "respirasome"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.0000000000051725,
+            "term": {
+                "id": "GO:0005739",
+                "label": "mitochondrion"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.07362885048835462,
+            "number_in_reference": 14,
+            "pValue": 1.0000000000051725,
+            "term": {
+                "id": "GO:0032993",
+                "label": "protein-DNA complex"
+            },
+            "plus_minus": "-"
+        },
+        {
+            "number_in_list": 0,
+            "fold_enrichment": 0,
+            "fdr": 1,
+            "expected": 0.03155522163786627,
+            "number_in_reference": 6,
+            "pValue": 1.0000000000089047,
+            "term": {
+                "id": "GO:0030964",
+                "label": "NADH dehydrogenase complex"
+            },
+            "plus_minus": "-"
+        }
+    ],
+    "search": {"search_type": "overrepresentation"},
+    "tool_release_date": 20210224,
+    "enrichment_test_type": "FISHER",
+    "annotDataSet": "ANNOT_TYPE_ID_PANTHER_GO_SLIM_CC",
+    "annot_version_release_date": "PANTHER version 16.0 Released 2020-12-01",
+    "correction": "FDR"
+}}
