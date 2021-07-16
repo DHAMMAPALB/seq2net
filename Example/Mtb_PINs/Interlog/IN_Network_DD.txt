@@ -1,0 +1,4 @@
+pntB	1
+dnaK	1
+pntAa	1
+groEL2	1
