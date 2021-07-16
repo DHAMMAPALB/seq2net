@@ -1,0 +1,287 @@
+#!/bin/bash
+script_parameters="[-h] [-f1 <file1>] [-Ortho] [-GN] [-PP] [-f2 <file2>] [-OrthoPara] [-GF] [-GC] [-r <reference genome>] [-IN <PPIs_fa> <PPIs.txt>] [-e <value1> [<value2>]] [-c <Coverage1> [<Coverage2>]] [-t <number>] [-kPPIs] [-enrich] [-o <seq2net_out>]"
+
+i=1
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-h" ] || [ "$a" = "--help" ]
+then
+echo "seq2net is a tool for evolutionary protein interactions prediction and analysis of bacterial genomes." $'\n'
+echo "Usage: `basename $0` $script_parameters"
+echo "positional arguments:"
+echo "	-f1 <file1>			Input file with a list of fasta (.faa) files for Ortho, GN and PP"
+echo "	-Ortho				Predict Orthologs of the reference genome"
+echo "	-GN				Predict PPIs using Gene Neighborhood method"
+echo "	-PP				Predict PPIs using Phylogenetic Profile method"
+echo "	-f2 <file2>			Input file with a list of fasta (.faa) files for OrthoPara, GF and GC"
+echo "	-OrthoPara			Prediction Orthologs and Paralogs of the reference genome"
+echo "	-GF				Predict PPIs using Gene Fusion method"
+echo "	-GC				Predict PPIs using Gene Coevolution method"
+echo "	-IN <PPIs_faa> <PPIs.txt>	Predict PPIs using Interlog method; requires input protein fasta sequences (.faa) and a list of known PPIs"
+echo "	-r <reference_genome>		Reference genome name"
+echo "optional arguments:"
+echo "	-e <value1> [<value2>]		E-value for Orthologs or/and Paralogs respectively"
+echo "	-c <coverage1> [<coverage2>]	Sequence coverage for Orthologs or/and Paralogs respectively"
+echo "	-t <number>			Number of methods of PPIs being consistently predicted"
+echo "	-kPPIs				List the known PPIs from the predict PPIs using String database"
+echo "	-enrich				Enrichment of proteins in Panther Slim Gene Ontology and Pathways"
+echo "	-o <outdir>			Output directory"
+echo "	-h, --help			Shows this help message and exit"
+exit
+fi
+done
+
+if [ $# -le 1 ]
+then
+echo "Usage: `basename $0` $script_parameters"
+exit
+fi
+
+i=1
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-f1" ]
+then
+file1=${@:$i:1}
+if [ ! -e "$file1" ]
+then
+echo "Expression file $file1 does not exist.";
+exit
+fi
+fi
+done
+i=1
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-f2" ]
+then
+file2=${@:$i:1}
+if [ ! -e "$file2" ]
+then
+echo "Expression file $file2 does not exist.";
+exit
+fi
+fi
+done
+
+ref_genome="NA"
+i=1
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-r" ]
+then
+ref_genome=${@:$i:1}
+fi
+done
+
+e_value=0.00001
+e_value2=0.01
+re='^[0-9]+([.][0-9]+)?$'
+i=1
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-e" ]
+then
+e_value=${@:$i:1}
+if [[ ${@:$i+1:1} =~ $re ]]
+then
+e_value2=${@:$i+1:1}
+fi
+fi
+done
+
+coverage=60
+coverage2=30
+re='^[0-9]+([.][0-9]+)?$'
+i=1
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-c" ]
+then
+coverage=${@:$i:1}
+if [[ ${@:$i+1:1} =~ $re ]]
+then
+coverage2=${@:$i+1:1}
+fi
+fi
+done
+
+directory=0
+i=1
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-o" ]
+then
+directory=${@:$i:1}
+if [ ! -e "$directory" ]
+then
+mkdir $directory
+else
+echo "Directory $directory already exist.";
+fi
+fi
+done
+if [ $directory = 0 ]
+then
+rm -rf -R "seq2net_out"
+directory="seq2net_out"
+mkdir $directory
+fi
+
+for a in ${@};
+do
+if [ "$a" = "-Ortho" ]
+then
+if ! grep -q ^$ref_genome$ $file1;
+then
+echo "Reference genome $ref_genome in $file1 does not exist.";
+exit
+fi
+echo
+Orthologs.pl $file1 $ref_genome $e_value $coverage $directory
+fi
+done
+
+for a in ${@};
+do
+if [ "$a" = "-GN" ]
+then
+echo
+GN.pl $file1 $ref_genome $directory
+echo "Generating PPIs network graph ..."
+Networks.R $directory/Gene_Neighborhood/GN_PPIs_gs.txt
+echo "Done."
+fi
+done
+
+for a in ${@};
+do
+if [ "$a" = "-PP" ]
+then
+echo
+PP.pl $ref_genome $directory
+echo "Generating PPIs network graph ..."
+Networks.R $directory/Phylogenetic_Profile/PP_PPIs_gs.txt
+echo "Done."
+fi
+done
+
+for a in ${@};
+do
+if [ "$a" = "-OrthoPara" ]
+then
+if [ ! -e "$file2" ]
+then
+echo "Expression file $file2 does not exist.";
+exit
+fi
+if ! grep -q ^$ref_genome$ $file2;
+then
+echo "Reference genome $ref_genome in $file2 does not exist.";
+exit
+fi
+echo
+OrthoParalogs.pl $file2 $ref_genome $e_value $e_value2 $coverage $coverage2 $directory
+fi
+done
+
+for a in ${@};
+do
+if [ "$a" = "-GF" ]
+then
+echo
+GF.pl $ref_genome $directory
+echo "Generating PPIs network graph ..."
+Networks.R $directory/Gene_Fusion/GF_PPIs_gs.txt
+echo "Done."
+fi
+done
+
+for a in ${@};
+do
+if [ "$a" = "-GC" ]
+then
+echo
+GC.pl $file2 $ref_genome $directory
+echo "Generating PPIs network graph ..."
+Networks.R $directory/Gene_Co-evolution/GC_PPIs_gs.txt
+echo "Done."
+fi
+done
+
+i=1
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-IN" ]
+then
+ppi_genome=${@:$i:1}
+ppi_list=${@:$i+1:1}
+if [ ! -e "$ppi_list" ]
+then
+echo "Protein-protein interactions file $ppi_list does not exist.";
+exit
+fi
+IN.pl $ref_genome $ppi_genome $ppi_list $e_value $coverage $directory
+echo "Generating PPIs network graph ..."
+Networks.R $directory/Interlog/IN_PPIs_gs.txt
+echo "Done."
+fi
+done
+
+table=1
+i=1
+count=0
+for a in ${@};
+do
+((i=i+1))
+if [ "$a" = "-t" ]
+then
+table=${@:$i:1}
+Consistency.pl $table $directory
+cfile='Consistent_'"$table"'_PPIs_gs.txt'
+echo "Generating PPIs network graph ..."
+Networks.R $directory/$cfile
+echo "Done."
+ckfile='Consistent_'"$table"'_Known_PPIs_gs.txt'
+fi
+done
+
+for a in ${@};
+do
+if [ "$a" = "-kPPIs" ]
+then
+echo "Please wait while known PPIs ..."
+kPPIs.py $ref_genome $cfile $ckfile $directory
+echo "Generating PPIs network graph ..."
+Networks.R $directory/$ckfile
+echo "Done."
+fi
+done
+
+count=0
+for a in ${@};
+do
+if [ "$a" = "-enrich" ]
+then
+if [ -f "$directory/$ckfile" ]; then
+echo "Please wait while gene ontology and pathways ..."
+Enrich.py $ref_genome $ckfile $directory
+echo "Done."
+else
+if [ -f "$directory/$cfile" ]; then
+echo "Please wait while gene ontology and pathways ..."
+Enrich.py $ref_genome $cfile $directory
+echo "Done."
+fi
+fi
+fi
+done
+
