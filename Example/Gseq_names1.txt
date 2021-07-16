@@ -1,0 +1,5 @@
+InGenome/M_avium_5000.faa
+InGenome/M_leprae_5000.faa
+InGenome/M_marinum_5000.faa
+InGenome/M_smegmatis_5000.faa
+Mycobacterium_tuberculosis_H37Rv.faa

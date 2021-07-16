@@ -1,0 +1,8 @@
+OffGenome/B_bronchialis_5000.faa
+OffGenome/C_diphtheriae_5000.faa
+OffGenome/E_coli_5000.faa
+Mycobacterium_tuberculosis_H37Rv.faa
+OffGenome/N_asteroides_5000.faa
+OffGenome/S_enterica_5000.faa
+OffGenome/S_pneumoniae_5000.faa
+OffGenome/Y_enterocolitica_5000.faa
