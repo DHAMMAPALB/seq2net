@@ -2,5 +2,8 @@
 *.pl linguist-detectable=true
 *.PY linguist-detectable=true
 *.py linguist-detectable=true
+*.python linguist-detectable=true
+*.PYTHON linguist-detectable=true
+*.pyc linguist-detectable=true
 *.R linguist-detectable=true
 *.sh linguist-detectable=true
