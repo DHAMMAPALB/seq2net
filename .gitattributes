@@ -1,5 +1,6 @@
-* linguist-detectable
+*.PL linguist-detectable=true
 *.pl linguist-detectable=true
+*.PY linguist-detectable=true
 *.py linguist-detectable=true
 *.R linguist-detectable=true
 *.sh linguist-detectable=true
