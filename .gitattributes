@@ -1,5 +1,5 @@
-* linguist-vendored
-*.pl linguist-vendored=true
-*.py linguist-vendored=true
-*.R linguist-vendored=true
-*.sh linguist-vendored=true
+* linguist-detectable
+*.pl linguist-detectable=true
+*.py linguist-detectable=true
+*.R linguist-detectable=true
+*.sh linguist-detectable=true
