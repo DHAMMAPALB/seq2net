@@ -71,7 +71,7 @@ Similarly,
 seq2net -f2 Gseq_names2.txt -r Mycobacterium_tuberculosis_H37Rv -OrthoPara -GF -GC -o Mtb_PINs
 ```
 ```
-seq2net -r Mycobacterium_tuberculosis_H37Rv -IN DbPPIs/DIP_5000.faa DbPPIs/DIP_PPIs.txt -o Mtb_PINs
+seq2net -r Mycobacterium_tuberculosis_H37Rv -IN DbPPIs/DIP.faa DbPPIs/DIP_PPIs.txt -o Mtb_PINs
 ```
 A single command for the entire analysis including known PPIs prediction and enrichment analysis would be
 ```
