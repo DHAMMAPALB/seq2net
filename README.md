@@ -81,11 +81,11 @@ seq2net -f1 Gseq_names1.txt -Ortho -GN -PP -f2 Gseq_names2.txt -OrthoPara -GF -G
 
 #### The example figures:
 
-![Consistent PPIs network](Example/Mtb_PINs/Consistent_2_PPIs_Network.tiff "Consistent PPIs network")
+![Consistent PPIs network](Example/Mtb_PINs/Consistent_2_PPIs_Network.pdf "Consistent PPIs network")
 
 *Figure 1: Network of PPIs consistently predicted by atleast two methods.
 
-![Consistent and known PPIs network](Example/Mtb_PINs/Consistent_2_Known_PPIs_Network.tiff "Consistent and known PPIs network")
+![Consistent and known PPIs network](Example/Mtb_PINs/Consistent_2_Known_PPIs_Network.pdf "Consistent and known PPIs network")
 
 *Figure 2: Network of PPIs which were consistently predicted by atleast two methods were already reported in String database.
 
