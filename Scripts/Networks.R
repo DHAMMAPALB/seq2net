@@ -11,8 +11,8 @@ if(l==3){ew=0.4} else if(l==2){ew=0.2} else if(l==1.5){ew=0.15} else if(l==1){ew
 V(g2)$size<-1+(degree(g2)-1)*0.3
 V(g2)$color<-"lightgreen"
 V(g2)$frame.color<-"lightgreen"
-out_ntwk<-gsub("_PPIs_gs.txt","_PPIs_Network.tiff",file)
-tiff(out_ntwk,height=5.5,width=5.5,units="in",res=500)
+out_ntwk<-gsub("_PPIs_gs.txt","_PPIs_Network.pdf",file)
+pdf(out_ntwk,height=5.5,width=5.5)
 plot(g2,vertex.label.cex=0.15,edge.width=ew,layout=layout_nicely(g2))
 dev.off()
 deg<-degree(g2,mode="all")
