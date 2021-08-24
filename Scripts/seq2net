@@ -156,7 +156,7 @@ then
 echo
 GN.pl $file1 $ref_genome $directory
 echo "Generating PPIs network graph ..."
-Networks.R $directory/Gene_Neighborhood/GN_PPIs_gs.txt
+Networks.R $directory/Gene_Neighborhood/GN_PPIs_gs.txt "lightblue"
 echo "Done."
 fi
 done
@@ -168,7 +168,7 @@ then
 echo
 PP.pl $ref_genome $directory
 echo "Generating PPIs network graph ..."
-Networks.R $directory/Phylogenetic_Profile/PP_PPIs_gs.txt
+Networks.R $directory/Phylogenetic_Profile/PP_PPIs_gs.txt "darkgreen"
 echo "Done."
 fi
 done
@@ -199,7 +199,7 @@ then
 echo
 GF.pl $ref_genome $directory
 echo "Generating PPIs network graph ..."
-Networks.R $directory/Gene_Fusion/GF_PPIs_gs.txt
+Networks.R $directory/Gene_Fusion/GF_PPIs_gs.txt "tomato"
 echo "Done."
 fi
 done
@@ -211,7 +211,7 @@ then
 echo
 GC.pl $file2 $ref_genome $directory
 echo "Generating PPIs network graph ..."
-Networks.R $directory/Gene_Co-evolution/GC_PPIs_gs.txt
+Networks.R $directory/Gene_Co-evolution/GC_PPIs_gs.txt "burlywood"
 echo "Done."
 fi
 done
@@ -231,7 +231,7 @@ exit
 fi
 IN.pl $ref_genome $ppi_genome $ppi_list $e_value $coverage $directory
 echo "Generating PPIs network graph ..."
-Networks.R $directory/Interlog/IN_PPIs_gs.txt
+Networks.R $directory/Interlog/IN_PPIs_gs.txt "violet"
 echo "Done."
 fi
 done
