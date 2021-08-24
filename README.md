@@ -50,7 +50,7 @@ Others: Orthologs.pl <file1> <reference_genome>] <value1> <coverage1> <outdir>
 	GC.pl <file2> <reference_genome> <outdir>
 	IN.pl <reference_genome> <PPIs_faa> <PPIs.txt> <value1> <coverage1> <outdir>
 	Consistency.pl <number> <outdir>
-	Networks.R <PPIs_output_file>
+	Networks.R <PPIs_output_file> <color>
 	kPPIs.py <reference_genome> <PPIs_output_filename> <Known_PPIs_output_filename> <outdir>
 	Enrich.py <reference_genome> <PPIs_output_filename> <outdir>
 ```
