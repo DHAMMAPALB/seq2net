@@ -193,7 +193,7 @@ plt.subplots_adjust(left=0.45, right=0.97, bottom=0.1,top=0.9)
 plt.xlabel("Gene count",fontsize=10)
 plt.ylabel("Terms",fontsize=10)
 plt.title("Enriched_Pathways",fontsize=12)
-outpathp="/".join([indir,"Enriched_pathways.pdf"])
+outpathp="/".join([indir,"Enriched_Pathways.pdf"])
 plt.savefig(outpathp)
 
 
