@@ -108,7 +108,7 @@ Figure 6: Enrichment of network proteins in PANTHER Pathways.
 
 # References
 
-- Burne D. Investigation of protein interaction networks in mycobacterium tuberculosis using computational approaches [Doctoral thesis]. The University of Hyderabad. 2019. http://hdl.handle.net/10603/342780
+- Burne D. Investigation of protein interaction networks in mycobacterium tuberculosis using computational approaches [Doctoral thesis]. The University of Hyderabad. 2019. http://hdl.handle.net/10603/342780, https://www.researchgate.net/publication/369943687_Investigation_of_protein_interaction_networks_in_mycobacterium_tuberculosis_using_computational_approaches
 - Bharne D, Vindal V. In silico identification of highly interacting proteins in Mycobacterium tuberculosis H37Rv. Conference Proceedings, J Proteins Proteom. 2014;5(3):111
 - Sievers F, Wilm A, Dineen D, et al. Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega. Mol Syst Biol. 2011;7:539
 - Csardi G, Nepusz T: The igraph software package for complex network research, InterJournal, Complex Systems 1695. 2006. https://igraph.org
