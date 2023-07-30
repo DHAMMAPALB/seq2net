@@ -81,34 +81,35 @@ seq2net -f1 Gseq_names1.txt -Ortho -GN -PP -f2 Gseq_names2.txt -OrthoPara -GF -G
 
 #### The example figures:
 
-![Consistent PPIs network](Example/Mtb_PINs/Consistent_2_PPIs_Network.pdf "Consistent PPIs network")
+[Figure 1.png](https://github.com/DHAMMAPALB/seq2net/issues/1)
 
-*Figure 1: Network of PPIs consistently predicted by atleast two methods.
+Figure 1: Network of PPIs consistently predicted by atleast two methods.
 
-![Consistent and known PPIs network](Example/Mtb_PINs/Consistent_2_Known_PPIs_Network.pdf "Consistent and known PPIs network")
+[Figure 2.png](https://github.com/DHAMMAPALB/seq2net/issues/2)
 
-*Figure 2: Network of PPIs which were consistently predicted by atleast two methods were already reported in String database.
+Figure 2: Network of PPIs which were consistently predicted by atleast two methods and were already reported in String database.
 
-![Enrichment in PANTHER GO-Slim Biological Process](Example/Mtb_PINs/Enriched_BP.pdf "Enrichment in PANTHER GO-Slim Biological Process")
+[Figure 3.png](https://github.com/DHAMMAPALB/seq2net/issues/3)
 
-*Figure 3: Enrichment of network proteins in PANTHER GO-Slim Biological Process.
+Figure 3: Enrichment of network proteins in PANTHER GO-Slim Biological Process.
 
-![Enrichment in PANTHER GO-Slim Molecular Function](Example/Mtb_PINs/Enriched_MF.pdf "Enrichment in PANTHER GO-Slim Molecular Function")
+[Figure 4.png](https://github.com/DHAMMAPALB/seq2net/issues/4)
 
-*Figure 4: Enrichment of network proteins in PANTHER GO-Slim Molecular Function.
+Figure 4: Enrichment of network proteins in PANTHER GO-Slim Molecular Function.
 
-![Enrichment in PANTHER GO-Slim Cellular Component](Example/Mtb_PINs/Enriched_CC.pdf "Enrichment in PANTHER GO-Slim Cellular Component")
+[Figure 5.png](https://github.com/DHAMMAPALB/seq2net/issues/5)
 
-*Figure 5: Enrichment of network proteins in PANTHER GO-Slim Cellular Component.
+Figure 5: Enrichment of network proteins in PANTHER GO-Slim Cellular Component.
 
-![Enrichment in PANTHER Pathways](Example/Mtb_PINs/Enriched_Pathways.pdf "Enrichment in PANTHER Pathways")
+[Figure 6.png](https://github.com/DHAMMAPALB/seq2net/issues/6)
 
-*Figure 6: Enrichment of network proteins in PANTHER Pathways.
+Figure 6: Enrichment of network proteins in PANTHER Pathways.
+
 
 # References
 
+- Burne D. Investigation of protein interaction networks in mycobacterium tuberculosis using computational approaches [Doctoral thesis]. The University of Hyderabad. 2019. http://hdl.handle.net/10603/342780
 - Bharne D, Vindal V. In silico identification of highly interacting proteins in Mycobacterium tuberculosis H37Rv. Conference Proceedings, J Proteins Proteom. 2014;5(3):111
 - Sievers F, Wilm A, Dineen D, et al. Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega. Mol Syst Biol. 2011;7:539
 - Csardi G, Nepusz T: The igraph software package for complex network research, InterJournal, Complex Systems 1695. 2006. https://igraph.org
-
 
